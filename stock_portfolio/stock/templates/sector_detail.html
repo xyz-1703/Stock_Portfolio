@@ -1,0 +1,7 @@
+<h2>{{ sector.name }} Stocks</h2>
+
+{% for stock in stocks %}
+    <p>
+        {{ stock.name }} ({{ stock.ticker }})
+    </p>
+{% endfor %}

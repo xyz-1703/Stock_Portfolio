@@ -1,0 +1,6 @@
+<h2>Stocks</h2>
+
+{% for stock in stocks %}
+    {{stock.name}} ({{stock.symbol}})
+    <a href="/portfolio/add/{{stock.id}}/">Add</a><br>
+{% endfor %}

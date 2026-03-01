@@ -1,0 +1,9 @@
+<h1>Select Portfolio Sector</h1>
+
+{% for sector in sectors %}
+    <div>
+        <a href="{% url 'sector_detail' sector.id %}">
+            <h3>{{ sector.name }}</h3>
+        </a>
+    </div>
+{% endfor %}

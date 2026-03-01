@@ -1,0 +1,7 @@
+<h2>My Portfolio</h2>
+
+{% for s in stocks %}
+    {{s.stock.name}} - Qty: {{s.quantity}}<br>
+{% empty %}
+    No stocks added yet
+{% endfor %}
