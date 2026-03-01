@@ -1,0 +1,188 @@
+# Stock Portfolio Management System
+
+## Developed by
+
+**Girija Zirange**
+Full‑Stack Project Submission for Training
+
+---
+
+## Project Overview
+
+This project is a **Stock Portfolio Management Web Application** where users can:
+
+* View sectors and stocks
+* Add stocks sector‑wise into their portfolio
+* Manage stock quantities
+* View their personal portfolio
+
+The system is built using **Django REST APIs** in backend and **React.js** frontend with SQLite database.
+
+This project helped me strengthen my full‑stack skills after working on my OJT project on posture detection using RoboFlow and APT tools.
+
+---
+
+## Tech Stack
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+* SQLite Database
+
+### Frontend
+
+* React.js
+* JavaScript
+* Axios (API calls)
+* HTML + CSS
+
+### Tools Used
+
+* VS Code
+* Git & GitHub
+* Postman (API Testing)
+
+---
+
+## Project Structure
+
+```
+Stock_portfolio/
+│
+├── stock/            # Stock & Sector models
+├── portfolio/        # Portfolio models & APIs
+├── frontend/         # React App
+├── manage.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## Features
+
+### User Features
+
+* View all sectors
+* View stocks in each sector
+* Add stocks to portfolio
+* Update stock quantity
+* Remove stocks from portfolio
+
+### Admin Features
+
+* Add new sectors
+* Add stocks with symbol, sector, price
+
+---
+
+## Database Models
+
+### Sector
+
+* id
+* name
+
+### Stock
+
+* id
+* name
+* symbol
+* sector
+* price
+
+### Portfolio
+
+* user
+
+### PortfolioStock
+
+* portfolio
+* stock
+* quantity
+
+---
+
+## 🔌 API Endpoints
+
+### Stock APIs
+
+```
+GET  /api/sectors/
+GET  /api/stocks/<sector_id>/
+```
+
+### Portfolio APIs
+
+```
+GET  /api/portfolio/
+POST /api/add-stock/
+DELETE /api/remove-stock/
+```
+
+Tested using Postman.
+
+---
+
+## How to Run Project
+
+### Backend Setup
+
+```
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+python manage.py runserver
+```
+
+### Frontend Setup
+
+```
+cd frontend
+npm install
+npm start
+```
+
+Frontend runs at:
+[http://localhost:3000](http://localhost:3000)
+
+Backend runs at:
+[http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+---
+
+## Testing
+
+* APIs tested in Postman
+* Frontend tested in browser
+* Migration errors debugged and resolved
+* React components created for SectorList, StockList, Portfolio
+
+---
+
+## Learning Outcomes
+
+From this project I learned:
+
+* Django model relationships (ForeignKey, OneToOne)
+* Creating REST APIs
+* Handling migrations and database errors
+* React component structure
+* Connecting React with Django APIs
+* GitHub deployment
+
+Combined with my earlier OJT work on posture detection using RoboFlow + APT annotation tools, this project improved my understanding of real‑world project workflows.
+
+---
+
+## Future Improvements
+
+* User authentication login/register
+* Live stock price API integration
+* Charts and analytics dashboard
+* Portfolio profit/loss tracking
+* Deployment on cloud server
+
+---
