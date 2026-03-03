@@ -1,21 +1,21 @@
 {
   "symbol": "MSFT",
   "name": "Microsoft Corporation",
-  "current_price": 392.74,
-  "pe_ratio": 24.576971,
-  "forward_pe": 20.843594,
+  "current_price": 398.55,
+  "pe_ratio": 24.94055,
+  "forward_pe": 21.151943,
   "peg_ratio": null,
-  "price_to_book": 7.464411,
+  "price_to_book": 7.574836,
   "profit_margin": 0.39044,
   "operating_margin": 0.47094002,
   "return_on_equity": 0.34390998,
   "debt_to_equity": 31.539,
   "fifty_two_week_high": 555.45,
   "fifty_two_week_low": 344.79,
-  "three_month_average_volume": 32471926,
-  "market_cap": 2918992052224,
-  "enterprise_value": 2950231752704,
-  "dividend_yield": 0.93,
+  "three_month_average_volume": 32804236,
+  "market_cap": 2962173984768,
+  "enterprise_value": 2993300439040,
+  "dividend_yield": 0.91,
   "dividend_rate": 3.64,
   "payout_ratio": 0.21280001,
   "five_year_avg_dividend_yield": 0.79,
@@ -24,39 +24,15 @@
   "industry": "Software - Infrastructure",
   "website": "https://www.microsoft.com",
   "description": "Microsoft Corporation develops and supports software, services, devices, and solutions worldwide. The Productivity and Business Processes segment offers Microsoft 365 commercial, enterprise mobility + security, windows commercial, power BI, exchange, sharepoint, Microsoft teams, security and compliance, and copilot; Microsoft 365 commercial products, such as Windows commercial on-premises and office licensed services; Microsoft 365 consumer products and cloud services, including Microsoft 365 consumer subscriptions, office licensed on-premises, and other consumer services; LinkedIn; dynamics products and cloud services, such as dynamics 365, cloud-based applications, and on-premises ERP and CRM applications. Its Intelligent Cloud segment provides Server products and cloud services comprising Azure and other cloud services, GitHub, Nuance Healthcare, virtual desktop offerings, and other cloud services; server products, including SQL and windows server, visual studio and system center related client access licenses, and other on-premises offerings; enterprise and partner services, such as enterprise support and nuance professional services, industry solutions, Microsoft partner network, and learning experience. The Personal Computing segment provides windows and devices, such as Windows OEM licensing and devices and surface and PC accessories; gaming services and solutions, such as Xbox hardware, content, and services, first- and third-party content Xbox game pass, subscriptions, and cloud gaming, advertising, and other cloud services; search and news advertising services that includes Bing and Copilot, Microsoft News and Edge, and third-party affiliates. It sells its products through OEMs, distributors, and resellers; and online and retail stores. The company was founded in 1975 and is headquartered in Redmond, Washington.",
-  "previous_close": 401.72,
-  "open_price": 390.9925,
-  "day_high": 396.8,
-  "day_low": 390.0,
+  "previous_close": 392.74,
+  "open_price": 392.76,
+  "day_high": 401.19,
+  "day_low": 390.63,
   "fifty_day_average": 445.3536,
   "two_hundred_day_average": 485.7603,
   "stock_splits": null,
-  "last_updated": "2026-02-28T20:54:24.051435",
+  "last_updated": "2026-03-03T10:58:31.171746",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 490.88958740234375,
-      "open": 486.48962635446395,
-      "high": 491.5081706450152,
-      "low": 485.54177754838196,
-      "volume": 14386700
-    },
-    {
-      "date": "2025-12-01",
-      "close": 485.6315612792969,
-      "open": 487.32770213243884,
-      "high": 488.7444513856018,
-      "low": 483.5463243869077,
-      "volume": 23964000
-    },
-    {
-      "date": "2025-12-02",
-      "close": 488.8841552734375,
-      "open": 485.6116258193264,
-      "high": 492.3761849539621,
-      "low": 485.2125428025972,
-      "volume": 19562700
-    },
     {
       "date": "2025-12-03",
       "close": 476.64208984375,
@@ -527,7 +503,15 @@
       "open": 390.8800048828125,
       "high": 396.82000732421875,
       "low": 389.8800048828125,
-      "volume": 51276300
+      "volume": 51367200
+    },
+    {
+      "date": "2026-03-02",
+      "close": 398.54998779296875,
+      "open": 392.8599853515625,
+      "high": 401.19000244140625,
+      "low": 390.6300048828125,
+      "volume": 35405100
     }
   ]
 }

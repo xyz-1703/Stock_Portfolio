@@ -1,0 +1,533 @@
+{
+  "symbol": "ORCL",
+  "name": "Oracle Corporation",
+  "current_price": 145.4,
+  "pe_ratio": 27.330826,
+  "forward_pe": 18.32968,
+  "peg_ratio": null,
+  "price_to_book": 13.947242,
+  "profit_margin": 0.25280002,
+  "operating_margin": 0.31997,
+  "return_on_equity": 0.69026,
+  "debt_to_equity": 432.511,
+  "fifty_two_week_high": 345.72,
+  "fifty_two_week_low": 118.86,
+  "three_month_average_volume": 28923372,
+  "market_cap": 417892827136,
+  "enterprise_value": 530223104000,
+  "dividend_yield": 1.38,
+  "dividend_rate": 2.0,
+  "payout_ratio": 0.35709998,
+  "five_year_avg_dividend_yield": 1.29,
+  "beta": 1.633,
+  "sector": "Technology",
+  "industry": "Software - Infrastructure",
+  "website": "https://www.oracle.com",
+  "description": "Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
+  "previous_close": 150.31,
+  "open_price": 143.88,
+  "day_high": 146.08,
+  "day_low": 142.1,
+  "fifty_day_average": 174.2006,
+  "two_hundred_day_average": 220.6263,
+  "stock_splits": null,
+  "last_updated": "2026-03-02T16:30:16.296928",
+  "historical_data": [
+    {
+      "date": "2025-11-28",
+      "close": 201.41757202148438,
+      "open": 198.98400245029742,
+      "high": 201.80654320910455,
+      "low": 197.08901773492948,
+      "volume": 13848500
+    },
+    {
+      "date": "2025-12-01",
+      "close": 200.4102325439453,
+      "open": 199.97139015054063,
+      "high": 202.96348077623452,
+      "low": 196.1814056476164,
+      "volume": 13461200
+    },
+    {
+      "date": "2025-12-02",
+      "close": 200.56982421875,
+      "open": 204.59916642984615,
+      "high": 209.14714196941074,
+      "low": 199.47271818132845,
+      "volume": 19664500
+    },
+    {
+      "date": "2025-12-03",
+      "close": 207.1823272705078,
+      "open": 199.8018430419707,
+      "high": 207.37182878115752,
+      "low": 198.87428702104322,
+      "volume": 19060500
+    },
+    {
+      "date": "2025-12-04",
+      "close": 213.7649383544922,
+      "open": 207.31199476152153,
+      "high": 214.8420928492704,
+      "low": 205.77606154142106,
+      "volume": 23316900
+    },
+    {
+      "date": "2025-12-05",
+      "close": 217.00636291503906,
+      "open": 218.42261732902747,
+      "high": 218.9212991037513,
+      "low": 213.05679656306012,
+      "volume": 24208700
+    },
+    {
+      "date": "2025-12-08",
+      "close": 219.95855712890625,
+      "open": 220.76643441189992,
+      "high": 224.15746449480878,
+      "low": 216.33813768390712,
+      "volume": 24711200
+    },
+    {
+      "date": "2025-12-09",
+      "close": 220.94595336914062,
+      "open": 219.4499079943384,
+      "high": 222.03307602237572,
+      "low": 217.70452172373578,
+      "volume": 17643600
+    },
+    {
+      "date": "2025-12-10",
+      "close": 222.4220428466797,
+      "open": 221.21524145707983,
+      "high": 224.72596546225802,
+      "low": 217.00636600107197,
+      "volume": 47928000
+    },
+    {
+      "date": "2025-12-11",
+      "close": 198.32574462890625,
+      "open": 190.11743179476977,
+      "high": 201.45746551385383,
+      "low": 185.7390064935443,
+      "volume": 100612700
+    },
+    {
+      "date": "2025-12-12",
+      "close": 189.4691619873047,
+      "open": 195.8522828616473,
+      "high": 197.3283919289195,
+      "low": 185.48967579339634,
+      "volume": 55201600
+    },
+    {
+      "date": "2025-12-15",
+      "close": 184.43246459960938,
+      "open": 187.79357487056933,
+      "high": 188.47178999366008,
+      "low": 180.92174066601942,
+      "volume": 43897500
+    },
+    {
+      "date": "2025-12-16",
+      "close": 188.1526336669922,
+      "open": 184.21305056159247,
+      "high": 189.29961091749016,
+      "low": 184.00361273175508,
+      "volume": 32433500
+    },
+    {
+      "date": "2025-12-17",
+      "close": 177.989501953125,
+      "open": 182.82670593415017,
+      "high": 186.0082980243349,
+      "low": 176.60316725755735,
+      "volume": 50222000
+    },
+    {
+      "date": "2025-12-18",
+      "close": 179.55535888671875,
+      "open": 182.23826927414245,
+      "high": 184.2728842222163,
+      "low": 178.10918478133843,
+      "volume": 36297300
+    },
+    {
+      "date": "2025-12-19",
+      "close": 191.46388244628906,
+      "open": 187.8933191010791,
+      "high": 194.60557155014874,
+      "low": 187.62402668062938,
+      "volume": 77008600
+    },
+    {
+      "date": "2025-12-22",
+      "close": 197.85699462890625,
+      "open": 196.30110985738344,
+      "high": 198.27588551211926,
+      "low": 192.32162363901878,
+      "volume": 27148000
+    },
+    {
+      "date": "2025-12-23",
+      "close": 194.8249969482422,
+      "open": 195.91211959175757,
+      "high": 196.6800938051534,
+      "low": 191.68330777667077,
+      "volume": 18301600
+    },
+    {
+      "date": "2025-12-24",
+      "close": 196.96932983398438,
+      "open": 194.48588915531954,
+      "high": 197.75724032978064,
+      "low": 193.90741647929707,
+      "volume": 9282700
+    },
+    {
+      "date": "2025-12-26",
+      "close": 197.468017578125,
+      "open": 197.537825113976,
+      "high": 199.84173251258235,
+      "low": 195.59296920726672,
+      "volume": 11262000
+    },
+    {
+      "date": "2025-12-29",
+      "close": 194.86489868164062,
+      "open": 193.64811391184605,
+      "high": 197.9866362991913,
+      "low": 192.13211702809934,
+      "volume": 14748100
+    },
+    {
+      "date": "2025-12-30",
+      "close": 196.69007873535156,
+      "open": 195.54310148472302,
+      "high": 197.85699230025986,
+      "low": 195.1940333621008,
+      "volume": 14197400
+    },
+    {
+      "date": "2025-12-31",
+      "close": 194.39613342285156,
+      "open": 195.9021469065285,
+      "high": 196.6800892590037,
+      "low": 194.2166000699788,
+      "volume": 10341500
+    },
+    {
+      "date": "2026-01-02",
+      "close": 195.19403076171875,
+      "open": 196.94938516426626,
+      "high": 198.06642749147284,
+      "low": 193.69798540839838,
+      "volume": 14540700
+    },
+    {
+      "date": "2026-01-05",
+      "close": 192.08224487304688,
+      "open": 197.81708535812726,
+      "high": 201.1582593803373,
+      "low": 191.82293582544665,
+      "volume": 22635500
+    },
+    {
+      "date": "2026-01-06",
+      "close": 193.23919677734375,
+      "open": 192.05233166281252,
+      "high": 194.36622251106846,
+      "low": 190.1972347650076,
+      "volume": 16474500
+    },
+    {
+      "date": "2026-01-07",
+      "close": 192.3315887451172,
+      "open": 194.78510984336856,
+      "high": 195.15412949732,
+      "low": 191.49380699198178,
+      "volume": 11171200
+    },
+    {
+      "date": "2026-01-08",
+      "close": 189.14999389648438,
+      "open": 190.37676203803022,
+      "high": 190.44656957388523,
+      "low": 185.65922142116838,
+      "volume": 19468500
+    },
+    {
+      "date": "2026-01-09",
+      "close": 198.52000427246094,
+      "open": 191.66000366210938,
+      "high": 200.17999267578125,
+      "low": 188.77999877929688,
+      "volume": 26152700
+    },
+    {
+      "date": "2026-01-12",
+      "close": 204.67999267578125,
+      "open": 197.60000610351562,
+      "high": 206.60000610351562,
+      "low": 197.00999450683594,
+      "volume": 25428500
+    },
+    {
+      "date": "2026-01-13",
+      "close": 202.2899932861328,
+      "open": 205.0,
+      "high": 207.8000030517578,
+      "low": 200.66000366210938,
+      "volume": 15857400
+    },
+    {
+      "date": "2026-01-14",
+      "close": 193.61000061035156,
+      "open": 201.67999267578125,
+      "high": 201.67999267578125,
+      "low": 190.80999755859375,
+      "volume": 22473200
+    },
+    {
+      "date": "2026-01-15",
+      "close": 189.85000610351562,
+      "open": 195.00999450683594,
+      "high": 195.00999450683594,
+      "low": 189.38999938964844,
+      "volume": 16418600
+    },
+    {
+      "date": "2026-01-16",
+      "close": 191.08999633789062,
+      "open": 189.91000366210938,
+      "high": 191.8699951171875,
+      "low": 186.52999877929688,
+      "volume": 19224700
+    },
+    {
+      "date": "2026-01-20",
+      "close": 179.9199981689453,
+      "open": 187.19000244140625,
+      "high": 187.19000244140625,
+      "low": 179.36000061035156,
+      "volume": 29129500
+    },
+    {
+      "date": "2026-01-21",
+      "close": 173.8800048828125,
+      "open": 179.67999267578125,
+      "high": 180.60000610351562,
+      "low": 170.60000610351562,
+      "volume": 38190000
+    },
+    {
+      "date": "2026-01-22",
+      "close": 178.17999267578125,
+      "open": 179.3699951171875,
+      "high": 180.16000366210938,
+      "low": 176.5,
+      "volume": 21141900
+    },
+    {
+      "date": "2026-01-23",
+      "close": 177.16000366210938,
+      "open": 172.6199951171875,
+      "high": 179.64999389648438,
+      "low": 172.0,
+      "volume": 23011300
+    },
+    {
+      "date": "2026-01-26",
+      "close": 182.44000244140625,
+      "open": 179.10000610351562,
+      "high": 185.30999755859375,
+      "low": 178.52999877929688,
+      "volume": 21100400
+    },
+    {
+      "date": "2026-01-27",
+      "close": 174.89999389648438,
+      "open": 179.19000244140625,
+      "high": 179.72000122070312,
+      "low": 173.67999267578125,
+      "volume": 27093700
+    },
+    {
+      "date": "2026-01-28",
+      "close": 172.8000030517578,
+      "open": 174.9199981689453,
+      "high": 181.67999267578125,
+      "low": 171.86000061035156,
+      "volume": 35882700
+    },
+    {
+      "date": "2026-01-29",
+      "close": 169.00999450683594,
+      "open": 170.14999389648438,
+      "high": 170.22999572753906,
+      "low": 161.52000427246094,
+      "volume": 37254500
+    },
+    {
+      "date": "2026-01-30",
+      "close": 164.5800018310547,
+      "open": 168.1699981689453,
+      "high": 168.89999389648438,
+      "low": 163.24000549316406,
+      "volume": 27362400
+    },
+    {
+      "date": "2026-02-02",
+      "close": 160.05999755859375,
+      "open": 170.9199981689453,
+      "high": 171.1999969482422,
+      "low": 160.0,
+      "volume": 47421000
+    },
+    {
+      "date": "2026-02-03",
+      "close": 154.6699981689453,
+      "open": 158.25999450683594,
+      "high": 159.3800048828125,
+      "low": 151.89999389648438,
+      "volume": 43260100
+    },
+    {
+      "date": "2026-02-04",
+      "close": 146.6699981689453,
+      "open": 153.88999938964844,
+      "high": 153.94000244140625,
+      "low": 144.42999267578125,
+      "volume": 42323400
+    },
+    {
+      "date": "2026-02-05",
+      "close": 136.47999572753906,
+      "open": 145.60000610351562,
+      "high": 146.5500030517578,
+      "low": 135.25,
+      "volume": 42789000
+    },
+    {
+      "date": "2026-02-06",
+      "close": 142.82000732421875,
+      "open": 139.75,
+      "high": 143.1999969482422,
+      "low": 138.91000366210938,
+      "volume": 29962400
+    },
+    {
+      "date": "2026-02-09",
+      "close": 156.58999633789062,
+      "open": 148.49000549316406,
+      "high": 159.75,
+      "low": 147.0,
+      "volume": 49936500
+    },
+    {
+      "date": "2026-02-10",
+      "close": 159.88999938964844,
+      "open": 160.0,
+      "high": 165.38999938964844,
+      "low": 156.9600067138672,
+      "volume": 40092200
+    },
+    {
+      "date": "2026-02-11",
+      "close": 157.16000366210938,
+      "open": 163.66000366210938,
+      "high": 163.66000366210938,
+      "low": 154.0,
+      "volume": 24538900
+    },
+    {
+      "date": "2026-02-12",
+      "close": 156.47999572753906,
+      "open": 157.92999267578125,
+      "high": 159.0399932861328,
+      "low": 152.5,
+      "volume": 23285400
+    },
+    {
+      "date": "2026-02-13",
+      "close": 160.13999938964844,
+      "open": 159.25,
+      "high": 162.3000030517578,
+      "low": 155.2899932861328,
+      "volume": 18597000
+    },
+    {
+      "date": "2026-02-17",
+      "close": 153.97000122070312,
+      "open": 157.97999572753906,
+      "high": 159.27999877929688,
+      "low": 152.8800048828125,
+      "volume": 19610800
+    },
+    {
+      "date": "2026-02-18",
+      "close": 156.1699981689453,
+      "open": 154.41000366210938,
+      "high": 157.3000030517578,
+      "low": 151.3699951171875,
+      "volume": 14801100
+    },
+    {
+      "date": "2026-02-19",
+      "close": 156.5399932861328,
+      "open": 157.19000244140625,
+      "high": 160.0800018310547,
+      "low": 155.77000427246094,
+      "volume": 14976300
+    },
+    {
+      "date": "2026-02-20",
+      "close": 148.0800018310547,
+      "open": 153.3000030517578,
+      "high": 153.99000549316406,
+      "low": 147.38999938964844,
+      "volume": 29621900
+    },
+    {
+      "date": "2026-02-23",
+      "close": 141.30999755859375,
+      "open": 145.69000244140625,
+      "high": 145.8000030517578,
+      "low": 138.58999633789062,
+      "volume": 31749800
+    },
+    {
+      "date": "2026-02-24",
+      "close": 146.13999938964844,
+      "open": 140.83999633789062,
+      "high": 146.75999450683594,
+      "low": 138.72999572753906,
+      "volume": 21336600
+    },
+    {
+      "date": "2026-02-25",
+      "close": 147.88999938964844,
+      "open": 149.16000366210938,
+      "high": 153.27999877929688,
+      "low": 147.33999633789062,
+      "volume": 27303900
+    },
+    {
+      "date": "2026-02-26",
+      "close": 150.30999755859375,
+      "open": 148.7899932861328,
+      "high": 152.5,
+      "low": 145.14999389648438,
+      "volume": 20652200
+    },
+    {
+      "date": "2026-02-27",
+      "close": 145.39999389648438,
+      "open": 143.8800048828125,
+      "high": 146.0800018310547,
+      "low": 142.10000610351562,
+      "volume": 36385200
+    }
+  ]
+}

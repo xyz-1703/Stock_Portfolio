@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import { BarChart3, TrendingUp } from "lucide-react";
+import { BarChart3, TrendingUp, Home as HomeIcon } from "lucide-react";
+import Home from "./pages/Home";
 import SectorList from "./components/SectorList";
 import StockList from "./components/StockList";
 import Portfolio from "./components/Portfolio";
@@ -7,7 +8,7 @@ import StockDetail from "./pages/StockDetail";
 
 function App() {
   const [sectorId, setSectorId] = useState(null);
-  const [activeTab, setActiveTab] = useState("browse");
+  const [activeTab, setActiveTab] = useState("home");
   const [selectedStockSymbol, setSelectedStockSymbol] = useState(null);
 
   const handleStockClick = (symbol) => {
@@ -36,6 +37,20 @@ function App() {
             
             {/* Enhanced Navigation Buttons */}
             <div className="flex items-center gap-3 bg-slate-800/50 rounded-full p-1.5 border border-slate-700/50">
+              <button
+                onClick={() => {
+                  setActiveTab("home");
+                  setSelectedStockSymbol(null);
+                }}
+                className={`px-6 py-2.5 rounded-full font-semibold transition-all duration-300 flex items-center gap-2 ${
+                  activeTab === "home"
+                    ? "bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg shadow-blue-500/30 scale-105"
+                    : "text-slate-300 hover:text-white hover:bg-slate-700/50"
+                }`}
+              >
+                <HomeIcon className="w-4 h-4" />
+                Home
+              </button>
               <button
                 onClick={() => {
                   setActiveTab("browse");
@@ -73,6 +88,8 @@ function App() {
       <main className="max-w-7xl mx-auto px-6 py-10">
         {selectedStockSymbol ? (
           <StockDetail symbol={selectedStockSymbol} onBack={handleBackFromDetail} />
+        ) : activeTab === "home" ? (
+          <Home onStockClick={handleStockClick} />
         ) : activeTab === "browse" ? (
           <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
             {/* Sectors Sidebar */}

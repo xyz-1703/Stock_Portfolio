@@ -1,19 +1,19 @@
 {
   "symbol": "ADANIGREEN.NS",
   "name": "Adani Green Energy Limited",
-  "current_price": 947.35,
-  "pe_ratio": 109.90139,
-  "forward_pe": 40.989883,
+  "current_price": 899.45,
+  "pe_ratio": 104.34455,
+  "forward_pe": 38.91735,
   "peg_ratio": null,
-  "price_to_book": 8.278715,
+  "price_to_book": 7.8601265,
   "profit_margin": 0.1175,
   "operating_margin": 0.51757,
   "return_on_equity": null,
   "debt_to_equity": 296.223,
   "fifty_two_week_high": 1177.55,
   "fifty_two_week_low": 758.0,
-  "three_month_average_volume": 2702335,
-  "market_cap": 1560452268032,
+  "three_month_average_volume": 2728302,
+  "market_cap": 1481552691200,
   "enterprise_value": 2483682279424,
   "dividend_yield": null,
   "dividend_rate": null,
@@ -24,39 +24,15 @@
   "industry": "Utilities - Renewable",
   "website": "https://www.adanigreenenergy.com",
   "description": "Adani Green Energy Limited generates and supplies renewable energy to central and state government entities and government backed corporations in India. The company develops, builds, owns, operates, and maintains power plants through renewable sources, such as solar, wind, and hybrid. It operates solar power plants with an operational capacity of 10,103 megawatts (MW); wind power plants with an operational capacity of 2,000 MW; and hybrid power plants with an operational capacity of 2,140 MW. Adani Green Energy Limited was incorporated in 2015 and is headquartered in Ahmedabad, India.",
-  "previous_close": 965.95,
-  "open_price": 960.35,
-  "day_high": 969.5,
-  "day_low": 942.0,
+  "previous_close": 947.35,
+  "open_price": 915.0,
+  "day_high": 926.95,
+  "day_low": 880.25,
   "fifty_day_average": 949.17,
   "two_hundred_day_average": 996.744,
   "stock_splits": null,
-  "last_updated": "2026-02-28T20:58:14.765389",
+  "last_updated": "2026-03-02T14:38:37.050223",
   "historical_data": [
-    {
-      "date": "2025-11-27",
-      "close": 1031.0999755859375,
-      "open": 1040.0999755859375,
-      "high": 1042.0,
-      "low": 1018.2000122070312,
-      "volume": 1543218
-    },
-    {
-      "date": "2025-11-28",
-      "close": 1048.199951171875,
-      "open": 1031.199951171875,
-      "high": 1052.5,
-      "low": 1024.5999755859375,
-      "volume": 1626863
-    },
-    {
-      "date": "2025-12-01",
-      "close": 1039.5999755859375,
-      "open": 1041.0999755859375,
-      "high": 1052.0,
-      "low": 1028.0999755859375,
-      "volume": 2276452
-    },
     {
       "date": "2025-12-02",
       "close": 1022.5999755859375,
@@ -552,6 +528,14 @@
       "high": 969.5,
       "low": 942.0,
       "volume": 1156653
+    },
+    {
+      "date": "2026-03-02",
+      "close": 899.6500244140625,
+      "open": 915.0,
+      "high": 926.9500122070312,
+      "low": 880.25,
+      "volume": 2882111
     }
   ]
 }

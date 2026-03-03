@@ -150,3 +150,59 @@ def get_user_info(request):
     
     user = request.user
     return Response({"user_id": user.id, "username": user.username, "email": user.email, "is_authenticated": True})
+
+
+@api_view(['GET'])
+def get_sectors_with_stocks(request):
+    """Get all sectors with their stocks including price details for home page"""
+    try:
+        sectors = Sector.objects.all()
+        result = []
+        
+        for sector in sectors:
+            stocks = Stock.objects.filter(sector=sector)
+            stocks_data = []
+            
+            for stock in stocks:
+                stock_info = {
+                    'id': stock.id,
+                    'name': stock.name,
+                    'symbol': stock.symbol,
+                    'description': stock.description,
+                    'website': stock.website,
+                }
+                
+                # Get stock detail if available
+                if hasattr(stock, 'detail') and stock.detail:
+                    detail = stock.detail
+                    current_price = detail.current_price or 0
+                    max_price = detail.fifty_two_week_high or 0
+                    
+                    stock_info['current_price'] = current_price
+                    stock_info['max_price'] = max_price
+                    
+                    # Calculate discount percentage
+                    if max_price > 0 and current_price > 0:
+                        discount = ((max_price - current_price) / max_price) * 100
+                        stock_info['discount'] = round(discount, 2)
+                    else:
+                        stock_info['discount'] = 0
+                else:
+                    stock_info['current_price'] = None
+                    stock_info['max_price'] = None
+                    stock_info['discount'] = None
+                
+                stocks_data.append(stock_info)
+            
+            if stocks_data:  # Only include sectors that have stocks
+                result.append({
+                    'id': sector.id,
+                    'name': sector.name,
+                    'description': sector.description,
+                    'stocks': stocks_data,
+                    'stock_count': len(stocks_data)
+                })
+        
+        return Response(result)
+    except Exception as e:
+        return Response({"error": str(e)}, status=500)

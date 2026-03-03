@@ -1,19 +1,19 @@
 {
   "symbol": "ADANIENT.NS",
   "name": "Adani Enterprises Limited",
-  "current_price": 2161.8,
-  "pe_ratio": 19.531984,
-  "forward_pe": 50.25689,
+  "current_price": 2117.1,
+  "pe_ratio": 19.135344,
+  "forward_pe": 49.236313,
   "peg_ratio": null,
-  "price_to_book": 4.851328,
+  "price_to_book": 4.7528105,
   "profit_margin": 0.14111,
   "operating_margin": 0.09146,
   "return_on_equity": null,
   "debt_to_equity": 177.767,
   "fifty_two_week_high": 2695.0,
   "fifty_two_week_low": 1848.0,
-  "three_month_average_volume": 1377728,
-  "market_cap": 2794520838144,
+  "three_month_average_volume": 1384398,
+  "market_cap": 2737771905024,
   "enterprise_value": 3544326078464,
   "dividend_yield": 0.06,
   "dividend_rate": 1.26,
@@ -24,39 +24,15 @@
   "industry": "Thermal Coal",
   "website": "https://www.adanienterprises.com",
   "description": "Adani Enterprises Limited, together with its subsidiaries, operates in the new energy ecosystem, data center, airports, roads, copper, digital space, ropeway system, and other sectors in India and internationally. It operates through the Integrated Resources Management (IRM), Mining Services, Commercial Mining, New Energy Ecosystem, Airport, Road, and Others segments. The company engages in the integrated ecosystem for manufacturing green hydrogen, including solar cells, modules, and wind manufacturing; construction, operation, and maintenance of airports and road assets; commercial mining activities; supply of bunker to fuels to shipping vessels; manufacture and supply of defense equipment; and copper smelting and refinery, as well metals manufacturing. It also provides airport-focused services, including duty-free shopping, food and beverages, car parking, meet-and-greet, flight tracking, and airport maps services; and procurement and logistics services for minerals, as well as mining services. In addition, the company is involved in the sourcing, storage, and marketing of apples, grapes, pomegranates, and frozen peas; wastewater treatment, recycling, reuse projects; an operation of a news network; and Infrastructure Development and Water Resource Management. Further, it holds a portfolio of small arms, ammunition, unmanned aerial vehicles, counter-drone systems, missiles, and aircraft services. It also provides education, training and skill development. The company was founded in 1988 and is headquartered in Ahmedabad, India. Adani Enterprises Limited operates as a subsidiary of S.B. Adani Family Trust.",
-  "previous_close": 2216.4,
-  "open_price": 2210.0,
-  "day_high": 2216.4,
-  "day_low": 2153.0,
+  "previous_close": 2161.8,
+  "open_price": 2093.0,
+  "day_high": 2147.9,
+  "day_low": 2073.7,
   "fifty_day_average": 2159.196,
   "two_hundred_day_average": 2370.7563,
   "stock_splits": null,
-  "last_updated": "2026-02-28T20:57:38.300517",
+  "last_updated": "2026-03-02T14:43:39.334615",
   "historical_data": [
-    {
-      "date": "2025-11-27",
-      "close": 2255.0,
-      "open": 2310.0,
-      "high": 2320.5,
-      "low": 2243.0,
-      "volume": 1474038
-    },
-    {
-      "date": "2025-11-28",
-      "close": 2280.199951171875,
-      "open": 2267.10009765625,
-      "high": 2331.0,
-      "low": 2247.800048828125,
-      "volume": 3037620
-    },
-    {
-      "date": "2025-12-01",
-      "close": 2262.0,
-      "open": 2300.0,
-      "high": 2304.0,
-      "low": 2257.0,
-      "volume": 1313265
-    },
     {
       "date": "2025-12-02",
       "close": 2239.60009765625,
@@ -552,6 +528,14 @@
       "high": 2216.39990234375,
       "low": 2153.0,
       "volume": 1433096
+    },
+    {
+      "date": "2026-03-02",
+      "close": 2117.89990234375,
+      "open": 2093.0,
+      "high": 2147.89990234375,
+      "low": 2073.699951171875,
+      "volume": 1847851
     }
   ]
 }
