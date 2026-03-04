@@ -3,7 +3,7 @@
 ## Developed by
 
 **Girija Zirange**
-Full‑Stack Project Submission for Training
+Full‑Stack Project 
 
 ---
 
