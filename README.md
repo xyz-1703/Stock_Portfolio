@@ -173,7 +173,6 @@ From this project I learned:
 * Connecting React with Django APIs
 * GitHub deployment
 
-Combined with my earlier OJT work on posture detection using RoboFlow + APT annotation tools, this project improved my understanding of real‑world project workflows.
 
 ---
 
