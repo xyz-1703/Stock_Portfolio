@@ -20,8 +20,7 @@ function SectorList({ setSectorId }) {
       if (!response.ok) throw new Error("Failed to fetch sectors");
       const data = await response.json();
       setSectors(data);
-      
-      // Fetch stock counts for each sector
+
       const counts = {};
       for (const sector of data) {
         try {
@@ -51,57 +50,51 @@ function SectorList({ setSectorId }) {
   };
 
   return (
-    <div className="bg-gradient-to-br from-slate-800/50 to-slate-700/30 backdrop-blur border border-slate-700/50 rounded-xl p-6 shadow-lg">
-      <h2 className="text-xl font-bold text-white mb-6 flex items-center gap-2">
-        <div className="p-1.5 bg-blue-500/20 rounded-lg">
-          <Grid3X3 className="w-5 h-5 text-blue-400" />
+    <div className="glass-surface p-5">
+      <h2 className="text-lg font-bold text-white mb-5 flex items-center gap-2.5">
+        <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-500/20 to-indigo-500/10 flex items-center justify-center">
+          <Grid3X3 className="w-4 h-4 text-blue-400" />
         </div>
-        Sectors
+        <span>Sectors</span>
       </h2>
 
       {loading && (
         <div className="flex items-center justify-center py-8">
-          <Loader2 className="w-5 h-5 text-blue-500 animate-spin" />
-          <span className="ml-2 text-slate-400">Loading sectors...</span>
+          <Loader2 className="w-5 h-5 text-blue-400 animate-spin" />
+          <span className="ml-2 text-slate-500 text-sm">Loading...</span>
         </div>
       )}
 
       {error && (
-        <div className="bg-red-500/10 border border-red-500/30 rounded-lg p-4 flex items-start gap-3">
-          <AlertCircle className="w-5 h-5 text-red-500 mt-0.5 flex-shrink-0" />
-          <div>
-            <p className="text-red-400 font-medium">Error</p>
-            <p className="text-red-300 text-sm">{error}</p>
-          </div>
+        <div className="bg-red-500/10 border border-red-500/20 rounded-lg p-3 flex items-start gap-2">
+          <AlertCircle className="w-4 h-4 text-red-400 mt-0.5 flex-shrink-0" />
+          <p className="text-red-300 text-sm">{error}</p>
         </div>
       )}
 
       {!loading && !error && sectors.length === 0 && (
-        <p className="text-slate-400 text-center py-8">No sectors available</p>
+        <p className="text-slate-500 text-sm text-center py-8">No sectors available</p>
       )}
 
-      <div className="space-y-2">
+      <div className="space-y-1.5">
         {sectors.map((sector) => (
           <button
             key={sector.id}
             onClick={() => handleSectorClick(sector.id)}
-            className={`w-full px-4 py-3 rounded-lg font-medium transition-all duration-300 text-left flex items-center justify-between group ${
-              selectedSector === sector.id
-                ? "bg-gradient-to-r from-blue-500 to-blue-600 text-white shadow-lg shadow-blue-500/25 scale-105 origin-left"
-                : "bg-slate-700/40 text-slate-100 hover:bg-slate-700/60 hover:text-white border border-slate-600/30 hover:border-slate-500"
-            }`}
+            className={`w-full px-3.5 py-2.5 rounded-xl font-medium text-sm transition-all duration-200 text-left flex items-center justify-between group ${selectedSector === sector.id
+                ? "bg-gradient-to-r from-blue-500/20 to-indigo-500/10 text-white border border-blue-500/30"
+                : "text-slate-300 hover:bg-white/[0.04] hover:text-white border border-transparent"
+              }`}
           >
-            <div className="flex items-center gap-3">
-              <div className={`w-2 h-2 rounded-full transition-all ${
-                selectedSector === sector.id ? "bg-white" : "bg-slate-500 group-hover:bg-blue-400"
-              }`}></div>
+            <div className="flex items-center gap-2.5">
+              <div className={`w-1.5 h-1.5 rounded-full transition-all ${selectedSector === sector.id ? "bg-blue-400" : "bg-slate-600 group-hover:bg-slate-400"
+                }`}></div>
               <span>{sector.name}</span>
             </div>
-            <span className={`text-xs font-bold px-2.5 py-1 rounded-full transition-all ${
-              selectedSector === sector.id
-                ? "bg-white/20 text-white"
-                : "bg-slate-600/50 text-slate-300 group-hover:bg-slate-500"
-            }`}>
+            <span className={`text-xs font-semibold px-2 py-0.5 rounded-md transition-all tabular-nums ${selectedSector === sector.id
+                ? "bg-blue-500/20 text-blue-300"
+                : "bg-white/[0.04] text-slate-500 group-hover:text-slate-400"
+              }`}>
               {stockCounts[sector.id] || 0}
             </span>
           </button>

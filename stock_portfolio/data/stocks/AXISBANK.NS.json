@@ -1,0 +1,533 @@
+{
+  "symbol": "AXISBANK.NS",
+  "name": "Axis Bank Limited",
+  "current_price": 1299.7,
+  "pe_ratio": 15.426705,
+  "forward_pe": 12.8142605,
+  "peg_ratio": null,
+  "price_to_book": 1.9494408,
+  "profit_margin": 0.3417,
+  "operating_margin": 0.47458,
+  "return_on_equity": 0.13625,
+  "debt_to_equity": null,
+  "fifty_two_week_high": 1418.3,
+  "fifty_two_week_low": 999.2,
+  "three_month_average_volume": 6134681,
+  "market_cap": 4038465945600,
+  "enterprise_value": 6166143303680,
+  "dividend_yield": 0.08,
+  "dividend_rate": 1.0,
+  "payout_ratio": 0.0119,
+  "five_year_avg_dividend_yield": 1.03,
+  "beta": 0.311,
+  "sector": "Financial Services",
+  "industry": "Banks - Regional",
+  "website": "https://www.axis.bank.in",
+  "description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking Business. It provides fixed, recurring, and safe deposits; and saving, salary, current, safe custody, pension disbursement, and demat and trading accounts. The company also offers home, personal, business, car, two-wheeler, commercial vehicle construction equipment, education, gold, trade, and supply chain loans, as well as loans against securities, fixed deposits, properties, and credit cards; and overdrafts. In addition, it provides credit and debit cards; mutual and debt funds; governmental investment products, such as public provident fund, floating rate saving bonds, and national pension system; digital gold and sovereign gold bonds; digital rupee; insurance services, such as life, general, and health insurance; and various forex products and services. Further, the company offers phone, digital, and mobile banking services, as well as ATM services. Additionally, it provides equity, derivative trading, central funding unit, financial and corporate advisory, NRI, para banking, placements and syndication, project appraisal, capital market, and cash management services. The company was formerly known as UTI Bank Limited and changed its name to Axis Bank Limited in July 2007. Axis Bank Limited was incorporated in 1993 and is headquartered in Mumbai, India.",
+  "previous_close": 1288.3,
+  "open_price": 1295.2,
+  "day_high": 1300.0,
+  "day_low": 1284.6,
+  "fifty_day_average": 1325.978,
+  "two_hundred_day_average": 1212.421,
+  "stock_splits": null,
+  "last_updated": "2026-03-10T10:09:31.523281",
+  "historical_data": [
+    {
+      "date": "2025-12-10",
+      "close": 1278.5999755859375,
+      "open": 1273.0,
+      "high": 1284.0,
+      "low": 1268.300048828125,
+      "volume": 2928746
+    },
+    {
+      "date": "2025-12-11",
+      "close": 1272.699951171875,
+      "open": 1277.4000244140625,
+      "high": 1282.0,
+      "low": 1271.0,
+      "volume": 2017404
+    },
+    {
+      "date": "2025-12-12",
+      "close": 1286.0999755859375,
+      "open": 1278.0,
+      "high": 1291.0,
+      "low": 1277.9000244140625,
+      "volume": 2281078
+    },
+    {
+      "date": "2025-12-15",
+      "close": 1284.800048828125,
+      "open": 1285.0,
+      "high": 1290.4000244140625,
+      "low": 1280.0,
+      "volume": 1634472
+    },
+    {
+      "date": "2025-12-16",
+      "close": 1219.5999755859375,
+      "open": 1277.0999755859375,
+      "high": 1277.5999755859375,
+      "low": 1216.9000244140625,
+      "volume": 11542048
+    },
+    {
+      "date": "2025-12-17",
+      "close": 1224.699951171875,
+      "open": 1220.5999755859375,
+      "high": 1236.0,
+      "low": 1220.300048828125,
+      "volume": 5147181
+    },
+    {
+      "date": "2025-12-18",
+      "close": 1229.800048828125,
+      "open": 1226.0999755859375,
+      "high": 1238.5,
+      "low": 1220.199951171875,
+      "volume": 3441592
+    },
+    {
+      "date": "2025-12-19",
+      "close": 1230.5999755859375,
+      "open": 1236.699951171875,
+      "high": 1241.5,
+      "low": 1229.0999755859375,
+      "volume": 5055047
+    },
+    {
+      "date": "2025-12-22",
+      "close": 1233.199951171875,
+      "open": 1235.0,
+      "high": 1236.9000244140625,
+      "low": 1226.800048828125,
+      "volume": 2405809
+    },
+    {
+      "date": "2025-12-23",
+      "close": 1225.0,
+      "open": 1239.0,
+      "high": 1239.0,
+      "low": 1223.5,
+      "volume": 2920318
+    },
+    {
+      "date": "2025-12-24",
+      "close": 1226.300048828125,
+      "open": 1230.0,
+      "high": 1235.4000244140625,
+      "low": 1224.699951171875,
+      "volume": 3155506
+    },
+    {
+      "date": "2025-12-26",
+      "close": 1228.199951171875,
+      "open": 1225.0,
+      "high": 1229.9000244140625,
+      "low": 1222.0,
+      "volume": 1665983
+    },
+    {
+      "date": "2025-12-29",
+      "close": 1232.0,
+      "open": 1228.199951171875,
+      "high": 1233.9000244140625,
+      "low": 1219.0,
+      "volume": 2209655
+    },
+    {
+      "date": "2025-12-30",
+      "close": 1246.0,
+      "open": 1233.0,
+      "high": 1252.0999755859375,
+      "low": 1232.0,
+      "volume": 5673233
+    },
+    {
+      "date": "2025-12-31",
+      "close": 1269.4000244140625,
+      "open": 1246.0,
+      "high": 1271.5,
+      "low": 1245.0,
+      "volume": 3711090
+    },
+    {
+      "date": "2026-01-01",
+      "close": 1274.4000244140625,
+      "open": 1270.0,
+      "high": 1279.199951171875,
+      "low": 1263.800048828125,
+      "volume": 2022412
+    },
+    {
+      "date": "2026-01-02",
+      "close": 1266.9000244140625,
+      "open": 1273.9000244140625,
+      "high": 1281.800048828125,
+      "low": 1264.300048828125,
+      "volume": 5860547
+    },
+    {
+      "date": "2026-01-05",
+      "close": 1285.800048828125,
+      "open": 1274.199951171875,
+      "high": 1289.699951171875,
+      "low": 1270.0,
+      "volume": 6177100
+    },
+    {
+      "date": "2026-01-06",
+      "close": 1293.800048828125,
+      "open": 1304.5999755859375,
+      "high": 1304.5999755859375,
+      "low": 1285.4000244140625,
+      "volume": 6751769
+    },
+    {
+      "date": "2026-01-07",
+      "close": 1295.5,
+      "open": 1293.0,
+      "high": 1299.0,
+      "low": 1284.0,
+      "volume": 5440002
+    },
+    {
+      "date": "2026-01-08",
+      "close": 1286.800048828125,
+      "open": 1291.0999755859375,
+      "high": 1303.199951171875,
+      "low": 1283.800048828125,
+      "volume": 3949654
+    },
+    {
+      "date": "2026-01-09",
+      "close": 1272.0,
+      "open": 1286.800048828125,
+      "high": 1295.300048828125,
+      "low": 1270.0999755859375,
+      "volume": 5531427
+    },
+    {
+      "date": "2026-01-12",
+      "close": 1274.199951171875,
+      "open": 1274.699951171875,
+      "high": 1279.5999755859375,
+      "low": 1266.5,
+      "volume": 6489750
+    },
+    {
+      "date": "2026-01-13",
+      "close": 1262.0,
+      "open": 1274.0,
+      "high": 1284.0,
+      "low": 1258.699951171875,
+      "volume": 5163166
+    },
+    {
+      "date": "2026-01-14",
+      "close": 1298.800048828125,
+      "open": 1255.0,
+      "high": 1308.0,
+      "low": 1253.5,
+      "volume": 7776704
+    },
+    {
+      "date": "2026-01-15",
+      "close": 1298.800048828125,
+      "open": 1298.800048828125,
+      "high": 1298.800048828125,
+      "low": 1298.800048828125,
+      "volume": 0
+    },
+    {
+      "date": "2026-01-16",
+      "close": 1294.199951171875,
+      "open": 1298.800048828125,
+      "high": 1309.0,
+      "low": 1286.5,
+      "volume": 5175495
+    },
+    {
+      "date": "2026-01-19",
+      "close": 1307.5,
+      "open": 1307.0,
+      "high": 1327.0,
+      "low": 1297.0999755859375,
+      "volume": 8833223
+    },
+    {
+      "date": "2026-01-20",
+      "close": 1293.5,
+      "open": 1306.0999755859375,
+      "high": 1310.9000244140625,
+      "low": 1290.0,
+      "volume": 6268527
+    },
+    {
+      "date": "2026-01-21",
+      "close": 1284.9000244140625,
+      "open": 1290.0,
+      "high": 1297.699951171875,
+      "low": 1267.4000244140625,
+      "volume": 3854702
+    },
+    {
+      "date": "2026-01-22",
+      "close": 1294.800048828125,
+      "open": 1290.0,
+      "high": 1298.9000244140625,
+      "low": 1281.4000244140625,
+      "volume": 5949677
+    },
+    {
+      "date": "2026-01-23",
+      "close": 1258.0,
+      "open": 1297.0,
+      "high": 1299.0,
+      "low": 1248.0,
+      "volume": 8885549
+    },
+    {
+      "date": "2026-01-27",
+      "close": 1315.800048828125,
+      "open": 1288.800048828125,
+      "high": 1333.199951171875,
+      "low": 1278.4000244140625,
+      "volume": 22715357
+    },
+    {
+      "date": "2026-01-28",
+      "close": 1319.800048828125,
+      "open": 1348.0,
+      "high": 1369.4000244140625,
+      "low": 1310.199951171875,
+      "volume": 15426403
+    },
+    {
+      "date": "2026-01-29",
+      "close": 1363.699951171875,
+      "open": 1318.0,
+      "high": 1367.0,
+      "low": 1306.0,
+      "volume": 16107684
+    },
+    {
+      "date": "2026-01-30",
+      "close": 1370.4000244140625,
+      "open": 1352.0,
+      "high": 1378.699951171875,
+      "low": 1352.0,
+      "volume": 14758482
+    },
+    {
+      "date": "2026-02-02",
+      "close": 1311.5,
+      "open": 1339.0,
+      "high": 1352.699951171875,
+      "low": 1302.9000244140625,
+      "volume": 8647298
+    },
+    {
+      "date": "2026-02-03",
+      "close": 1356.199951171875,
+      "open": 1403.0,
+      "high": 1418.300048828125,
+      "low": 1345.5,
+      "volume": 10384723
+    },
+    {
+      "date": "2026-02-04",
+      "close": 1338.699951171875,
+      "open": 1369.699951171875,
+      "high": 1369.9000244140625,
+      "low": 1336.5999755859375,
+      "volume": 6672251
+    },
+    {
+      "date": "2026-02-05",
+      "close": 1330.5999755859375,
+      "open": 1340.0,
+      "high": 1340.0,
+      "low": 1317.4000244140625,
+      "volume": 3766488
+    },
+    {
+      "date": "2026-02-06",
+      "close": 1341.5999755859375,
+      "open": 1325.0,
+      "high": 1346.4000244140625,
+      "low": 1324.699951171875,
+      "volume": 5876574
+    },
+    {
+      "date": "2026-02-09",
+      "close": 1341.4000244140625,
+      "open": 1350.0,
+      "high": 1350.0,
+      "low": 1330.699951171875,
+      "volume": 4077536
+    },
+    {
+      "date": "2026-02-10",
+      "close": 1356.699951171875,
+      "open": 1352.5999755859375,
+      "high": 1360.0999755859375,
+      "low": 1343.300048828125,
+      "volume": 5478998
+    },
+    {
+      "date": "2026-02-11",
+      "close": 1347.300048828125,
+      "open": 1358.0,
+      "high": 1360.0,
+      "low": 1344.800048828125,
+      "volume": 3866272
+    },
+    {
+      "date": "2026-02-12",
+      "close": 1340.0,
+      "open": 1347.9000244140625,
+      "high": 1357.699951171875,
+      "low": 1336.199951171875,
+      "volume": 4152620
+    },
+    {
+      "date": "2026-02-13",
+      "close": 1332.300048828125,
+      "open": 1341.300048828125,
+      "high": 1346.5,
+      "low": 1316.0999755859375,
+      "volume": 4624549
+    },
+    {
+      "date": "2026-02-16",
+      "close": 1358.300048828125,
+      "open": 1324.0,
+      "high": 1361.9000244140625,
+      "low": 1324.0,
+      "volume": 5082167
+    },
+    {
+      "date": "2026-02-17",
+      "close": 1357.199951171875,
+      "open": 1358.300048828125,
+      "high": 1360.9000244140625,
+      "low": 1350.4000244140625,
+      "volume": 4513065
+    },
+    {
+      "date": "2026-02-18",
+      "close": 1377.0,
+      "open": 1363.0,
+      "high": 1378.5,
+      "low": 1353.800048828125,
+      "volume": 5556076
+    },
+    {
+      "date": "2026-02-19",
+      "close": 1356.5999755859375,
+      "open": 1381.0999755859375,
+      "high": 1382.800048828125,
+      "low": 1351.0,
+      "volume": 2744704
+    },
+    {
+      "date": "2026-02-20",
+      "close": 1368.300048828125,
+      "open": 1351.0,
+      "high": 1376.5,
+      "low": 1351.0,
+      "volume": 3791536
+    },
+    {
+      "date": "2026-02-23",
+      "close": 1386.699951171875,
+      "open": 1380.5,
+      "high": 1402.0,
+      "low": 1380.199951171875,
+      "volume": 6160153
+    },
+    {
+      "date": "2026-02-24",
+      "close": 1387.5999755859375,
+      "open": 1398.0,
+      "high": 1398.0,
+      "low": 1383.5,
+      "volume": 7888492
+    },
+    {
+      "date": "2026-02-25",
+      "close": 1403.0,
+      "open": 1394.0,
+      "high": 1404.300048828125,
+      "low": 1387.5999755859375,
+      "volume": 4379373
+    },
+    {
+      "date": "2026-02-26",
+      "close": 1395.5,
+      "open": 1403.0,
+      "high": 1405.699951171875,
+      "low": 1386.0,
+      "volume": 8979547
+    },
+    {
+      "date": "2026-02-27",
+      "close": 1383.9000244140625,
+      "open": 1387.0,
+      "high": 1395.5,
+      "low": 1381.0,
+      "volume": 5840317
+    },
+    {
+      "date": "2026-03-02",
+      "close": 1372.300048828125,
+      "open": 1369.0999755859375,
+      "high": 1384.699951171875,
+      "low": 1353.5999755859375,
+      "volume": 5132511
+    },
+    {
+      "date": "2026-03-04",
+      "close": 1351.300048828125,
+      "open": 1344.5,
+      "high": 1357.5999755859375,
+      "low": 1327.0,
+      "volume": 5832353
+    },
+    {
+      "date": "2026-03-05",
+      "close": 1349.0999755859375,
+      "open": 1354.9000244140625,
+      "high": 1355.800048828125,
+      "low": 1335.300048828125,
+      "volume": 6057499
+    },
+    {
+      "date": "2026-03-06",
+      "close": 1315.800048828125,
+      "open": 1347.0,
+      "high": 1347.9000244140625,
+      "low": 1313.5,
+      "volume": 11629935
+    },
+    {
+      "date": "2026-03-09",
+      "close": 1288.300048828125,
+      "open": 1282.199951171875,
+      "high": 1291.0,
+      "low": 1260.800048828125,
+      "volume": 7926265
+    },
+    {
+      "date": "2026-03-10",
+      "close": 1299.199951171875,
+      "open": 1295.199951171875,
+      "high": 1300.0,
+      "low": 1284.5999755859375,
+      "volume": 1188658
+    }
+  ]
+}

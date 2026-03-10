@@ -1,94 +1,38 @@
 {
   "symbol": "NVDA",
   "name": "NVIDIA Corporation",
-  "current_price": 177.19,
-  "pe_ratio": 36.087578,
-  "forward_pe": 16.620033,
+  "current_price": 178.875,
+  "pe_ratio": 36.430756,
+  "forward_pe": 16.57008,
   "peg_ratio": null,
-  "price_to_book": 27.377935,
+  "price_to_book": 27.638287,
   "profit_margin": 0.55603004,
   "operating_margin": 0.65024,
   "return_on_equity": 1.01485,
   "debt_to_equity": 7.255,
   "fifty_two_week_high": 212.19,
   "fifty_two_week_low": 86.62,
-  "three_month_average_volume": 174499844,
-  "market_cap": 4306603081728,
-  "enterprise_value": 4254573002752,
+  "three_month_average_volume": 176664581,
+  "market_cap": 4347557052416,
+  "enterprise_value": 4269881950208,
   "dividend_yield": 0.02,
   "dividend_rate": 0.04,
   "payout_ratio": 0.0082,
   "five_year_avg_dividend_yield": 0.05,
-  "beta": 2.314,
+  "beta": 2.375,
   "sector": "Technology",
   "industry": "Semiconductors",
   "website": "https://www.nvidia.com",
-  "description": "NVIDIA Corporation, a computing infrastructure company, provides graphics and compute and networking solutions in the United States, Taiwan, China, Hong Kong, and internationally. It operates through Compute & Networking and Graphics segments. The Compute & Networking segment includes its Data Center accelerated computing and networking platforms and artificial intelligence solutions and software and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics; GeForce NOW cloud gaming service; and NVIDIA vGPU software for graphics- virtual desktops and workstations. It also develops standalone software solutions, including NVIDIA AI Enterprise, NVIDIA Omniverse, NVIDIA DRIVE, and other software products. The company's products are used in gaming, professional visualization, data center, and automotive markets. It sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
-  "previous_close": 184.89,
-  "open_price": 181.22,
-  "day_high": 182.58,
-  "day_low": 176.38,
-  "fifty_day_average": 185.621,
-  "two_hundred_day_average": 174.9574,
+  "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+  "previous_close": 177.885,
+  "open_price": 176.83,
+  "day_high": 179.35,
+  "day_low": 175.56,
+  "fifty_day_average": 186.006,
+  "two_hundred_day_average": 176.1357,
   "stock_splits": null,
-  "last_updated": "2026-03-02T15:26:17.509007",
+  "last_updated": "2026-03-09T20:33:41.724505",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 176.99014282226562,
-      "open": 179.0000253919654,
-      "high": 179.28000857805475,
-      "low": 176.49017066740046,
-      "volume": 121332800
-    },
-    {
-      "date": "2025-12-01",
-      "close": 179.9099884033203,
-      "open": 174.75027181562072,
-      "high": 180.28997214473748,
-      "low": 173.67033006996684,
-      "volume": 188131000
-    },
-    {
-      "date": "2025-12-02",
-      "close": 181.4499053955078,
-      "open": 181.74987648908228,
-      "high": 185.6496685428864,
-      "low": 179.98997995570696,
-      "volume": 182632200
-    },
-    {
-      "date": "2025-12-03",
-      "close": 179.5800018310547,
-      "open": 181.06992440272873,
-      "high": 182.43984327721986,
-      "low": 179.1000328161426,
-      "volume": 165138000
-    },
-    {
-      "date": "2025-12-04",
-      "close": 183.3800048828125,
-      "open": 181.6199951171875,
-      "high": 184.52000427246094,
-      "low": 179.9600067138672,
-      "volume": 167364900
-    },
-    {
-      "date": "2025-12-05",
-      "close": 182.41000366210938,
-      "open": 183.88999938964844,
-      "high": 184.66000366210938,
-      "low": 180.91000366210938,
-      "volume": 143971100
-    },
-    {
-      "date": "2025-12-08",
-      "close": 185.5500030517578,
-      "open": 182.63999938964844,
-      "high": 188.0,
-      "low": 182.39999389648438,
-      "volume": 204378100
-    },
     {
       "date": "2025-12-09",
       "close": 184.97000122070312,
@@ -527,7 +471,55 @@
       "open": 181.25,
       "high": 182.58999633789062,
       "low": 176.3800048828125,
-      "volume": 310523200
+      "volume": 311636500
+    },
+    {
+      "date": "2026-03-02",
+      "close": 182.47999572753906,
+      "open": 175.00999450683594,
+      "high": 183.4600067138672,
+      "low": 174.63999938964844,
+      "volume": 209095300
+    },
+    {
+      "date": "2026-03-03",
+      "close": 180.0500030517578,
+      "open": 178.49000549316406,
+      "high": 180.89999389648438,
+      "low": 176.9199981689453,
+      "volume": 178099400
+    },
+    {
+      "date": "2026-03-04",
+      "close": 183.0399932861328,
+      "open": 180.44000244140625,
+      "high": 184.6999969482422,
+      "low": 180.05999755859375,
+      "volume": 177731200
+    },
+    {
+      "date": "2026-03-05",
+      "close": 183.33999633789062,
+      "open": 181.1699981689453,
+      "high": 184.05999755859375,
+      "low": 177.8800048828125,
+      "volume": 198779700
+    },
+    {
+      "date": "2026-03-06",
+      "close": 177.82000732421875,
+      "open": 179.83999633789062,
+      "high": 182.75999450683594,
+      "low": 176.82000732421875,
+      "volume": 188472400
+    },
+    {
+      "date": "2026-03-09",
+      "close": 178.875,
+      "open": 176.8300018310547,
+      "high": 179.35000610351562,
+      "low": 175.55999755859375,
+      "volume": 56313402
     }
   ]
 }

@@ -78,6 +78,18 @@ class Command(BaseCommand):
                 {'name': 'Adani Healthcare', 'symbol': 'ADANIHEAL.NS', 'description': 'Healthcare services'},
                 {'name': 'Adani Energy Solutions', 'symbol': 'ADANENRGY.NS', 'description': 'Energy solutions provider'},
             ],
+            'Precious Metals': [
+                {'name': 'SPDR Gold Shares', 'symbol': 'GLD', 'description': 'Gold ETF tracking spot gold'},
+                {'name': 'iShares Gold Trust', 'symbol': 'IAU', 'description': 'Gold ETF with lower expenses'},
+                {'name': 'iShares Silver Trust', 'symbol': 'SLV', 'description': 'Silver ETF tracking spot silver'},
+                {'name': 'Sprott Physical Silver Trust', 'symbol': 'PSLV', 'description': 'Physical silver holdings'},
+                {'name': 'ProShares Ultra Silver', 'symbol': 'AGQ', 'description': 'Leveraged silver ETF (2x)'},
+                {'name': 'iBillions Silver Mini Trust', 'symbol': 'SIVR', 'description': 'Physical silver ETF'},
+                {'name': 'iShares Gold Trust Micro', 'symbol': 'IAUM', 'description': 'Low-cost gold ETF'},
+                {'name': 'Newmont Corporation', 'symbol': 'NEM', 'description': 'Largest gold mining company'},
+                {'name': 'Barrick Gold Corporation', 'symbol': 'GOLD', 'description': 'Major gold miner'},
+                {'name': 'Kinross Gold Corporation', 'symbol': 'KGC', 'description': 'Gold and silver mining'},
+            ],
         }
 
         # Get or create sectors and add stocks

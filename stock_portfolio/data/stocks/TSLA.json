@@ -1,102 +1,38 @@
 {
   "symbol": "TSLA",
   "name": "Tesla, Inc.",
-  "current_price": 402.51,
-  "pe_ratio": 369.27524,
-  "forward_pe": 143.53212,
+  "current_price": 398.68,
+  "pe_ratio": 369.14813,
+  "forward_pe": 141.85728,
   "peg_ratio": null,
-  "price_to_book": 18.381971,
+  "price_to_book": 18.20706,
   "profit_margin": 0.040009998,
   "operating_margin": 0.047030002,
   "return_on_equity": 0.049250003,
   "debt_to_equity": 17.763,
   "fifty_two_week_high": 498.83,
   "fifty_two_week_low": 214.25,
-  "three_month_average_volume": 66136359,
-  "market_cap": 1510391414784,
-  "enterprise_value": 1481779445760,
+  "three_month_average_volume": 65522916,
+  "market_cap": 1496019501056,
+  "enterprise_value": 1467407532032,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
   "five_year_avg_dividend_yield": null,
-  "beta": 1.887,
+  "beta": 1.926,
   "sector": "Consumer Cyclical",
   "industry": "Auto Manufacturers",
   "website": "https://www.tesla.com",
   "description": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. In addition, the company engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. Further, it provides services and repairs to its energy product customers, including under warranty and extended service plans; and various financing options to its residential customers; lithium-ion battery energy storage products, such as Powerwall and Megapack; energy generation products, including solar panels and solar roof; self-driving development and artificial intelligence software, vehicle control and infotainment software, and battery and powertrain. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.",
-  "previous_close": 408.58,
-  "open_price": 402.94,
-  "day_high": 407.11,
-  "day_low": 398.12,
-  "fifty_day_average": 436.1392,
-  "two_hundred_day_average": 390.6617,
+  "previous_close": 396.72998,
+  "open_price": 390.05,
+  "day_high": 401.578,
+  "day_low": 381.4,
+  "fifty_day_average": 426.2722,
+  "two_hundred_day_average": 392.37265,
   "stock_splits": null,
-  "last_updated": "2026-02-28T21:14:52.971995",
+  "last_updated": "2026-03-10T10:08:47.412587",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 430.1700134277344,
-      "open": 426.5899963378906,
-      "high": 432.92999267578125,
-      "low": 426.20001220703125,
-      "volume": 36252900
-    },
-    {
-      "date": "2025-12-01",
-      "close": 430.1400146484375,
-      "open": 425.32000732421875,
-      "high": 433.6600036621094,
-      "low": 425.2900085449219,
-      "volume": 57463600
-    },
-    {
-      "date": "2025-12-02",
-      "close": 429.239990234375,
-      "open": 430.80999755859375,
-      "high": 436.79998779296875,
-      "low": 422.1199951171875,
-      "volume": 69336600
-    },
-    {
-      "date": "2025-12-03",
-      "close": 446.739990234375,
-      "open": 432.1000061035156,
-      "high": 447.9200134277344,
-      "low": 431.1099853515625,
-      "volume": 87483000
-    },
-    {
-      "date": "2025-12-04",
-      "close": 454.5299987792969,
-      "open": 449.94000244140625,
-      "high": 454.6300048828125,
-      "low": 445.3900146484375,
-      "volume": 71906500
-    },
-    {
-      "date": "2025-12-05",
-      "close": 455.0,
-      "open": 453.0299987792969,
-      "high": 458.8699951171875,
-      "low": 451.6600036621094,
-      "volume": 56427500
-    },
-    {
-      "date": "2025-12-08",
-      "close": 439.5799865722656,
-      "open": 447.45001220703125,
-      "high": 449.75,
-      "low": 435.25,
-      "volume": 69165800
-    },
-    {
-      "date": "2025-12-09",
-      "close": 445.1700134277344,
-      "open": 437.5400085449219,
-      "high": 452.3900146484375,
-      "low": 435.70001220703125,
-      "volume": 62367400
-    },
     {
       "date": "2025-12-10",
       "close": 451.45001220703125,
@@ -527,7 +463,55 @@
       "open": 402.94000244140625,
       "high": 407.1199951171875,
       "low": 398.1099853515625,
-      "volume": 56760900
+      "volume": 56890100
+    },
+    {
+      "date": "2026-03-02",
+      "close": 403.32000732421875,
+      "open": 390.6000061035156,
+      "high": 404.5400085449219,
+      "low": 388.25,
+      "volume": 55088300
+    },
+    {
+      "date": "2026-03-03",
+      "close": 392.42999267578125,
+      "open": 395.0899963378906,
+      "high": 396.3399963378906,
+      "low": 385.3900146484375,
+      "volume": 62617300
+    },
+    {
+      "date": "2026-03-04",
+      "close": 405.94000244140625,
+      "open": 397.8500061035156,
+      "high": 408.3299865722656,
+      "low": 394.5799865722656,
+      "volume": 68305500
+    },
+    {
+      "date": "2026-03-05",
+      "close": 405.54998779296875,
+      "open": 401.57000732421875,
+      "high": 408.6199951171875,
+      "low": 399.4200134277344,
+      "volume": 51925900
+    },
+    {
+      "date": "2026-03-06",
+      "close": 396.7300109863281,
+      "open": 398.0899963378906,
+      "high": 402.3500061035156,
+      "low": 394.2099914550781,
+      "volume": 64054600
+    },
+    {
+      "date": "2026-03-09",
+      "close": 398.67999267578125,
+      "open": 390.04998779296875,
+      "high": 401.5899963378906,
+      "low": 381.3999938964844,
+      "volume": 66821300
     }
   ]
 }

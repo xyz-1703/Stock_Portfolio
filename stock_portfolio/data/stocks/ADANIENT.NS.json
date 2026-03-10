@@ -1,86 +1,38 @@
 {
   "symbol": "ADANIENT.NS",
   "name": "Adani Enterprises Limited",
-  "current_price": 2117.1,
-  "pe_ratio": 19.135344,
-  "forward_pe": 49.236313,
+  "current_price": 1989.3,
+  "pe_ratio": 17.992947,
+  "forward_pe": 46.24666,
   "peg_ratio": null,
-  "price_to_book": 4.7528105,
+  "price_to_book": 4.4642177,
   "profit_margin": 0.14111,
   "operating_margin": 0.09146,
   "return_on_equity": null,
   "debt_to_equity": 177.767,
   "fifty_two_week_high": 2695.0,
   "fifty_two_week_low": 1848.0,
-  "three_month_average_volume": 1384398,
-  "market_cap": 2737771905024,
-  "enterprise_value": 3544326078464,
+  "three_month_average_volume": 1378859,
+  "market_cap": 2571533025280,
+  "enterprise_value": 3356653256704,
   "dividend_yield": 0.06,
   "dividend_rate": 1.26,
   "payout_ratio": 0.0114,
   "five_year_avg_dividend_yield": 0.65,
-  "beta": 0.346,
+  "beta": 0.396,
   "sector": "Energy",
   "industry": "Thermal Coal",
   "website": "https://www.adanienterprises.com",
   "description": "Adani Enterprises Limited, together with its subsidiaries, operates in the new energy ecosystem, data center, airports, roads, copper, digital space, ropeway system, and other sectors in India and internationally. It operates through the Integrated Resources Management (IRM), Mining Services, Commercial Mining, New Energy Ecosystem, Airport, Road, and Others segments. The company engages in the integrated ecosystem for manufacturing green hydrogen, including solar cells, modules, and wind manufacturing; construction, operation, and maintenance of airports and road assets; commercial mining activities; supply of bunker to fuels to shipping vessels; manufacture and supply of defense equipment; and copper smelting and refinery, as well metals manufacturing. It also provides airport-focused services, including duty-free shopping, food and beverages, car parking, meet-and-greet, flight tracking, and airport maps services; and procurement and logistics services for minerals, as well as mining services. In addition, the company is involved in the sourcing, storage, and marketing of apples, grapes, pomegranates, and frozen peas; wastewater treatment, recycling, reuse projects; an operation of a news network; and Infrastructure Development and Water Resource Management. Further, it holds a portfolio of small arms, ammunition, unmanned aerial vehicles, counter-drone systems, missiles, and aircraft services. It also provides education, training and skill development. The company was founded in 1988 and is headquartered in Ahmedabad, India. Adani Enterprises Limited operates as a subsidiary of S.B. Adani Family Trust.",
-  "previous_close": 2161.8,
-  "open_price": 2093.0,
-  "day_high": 2147.9,
-  "day_low": 2073.7,
-  "fifty_day_average": 2159.196,
-  "two_hundred_day_average": 2370.7563,
+  "previous_close": 1999.2,
+  "open_price": 2030.0,
+  "day_high": 2030.0,
+  "day_low": 1987.0,
+  "fifty_day_average": 2141.436,
+  "two_hundred_day_average": 2357.498,
   "stock_splits": null,
-  "last_updated": "2026-03-02T14:43:39.334615",
+  "last_updated": "2026-03-10T10:05:53.661930",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 2239.60009765625,
-      "open": 2255.0,
-      "high": 2267.199951171875,
-      "low": 2232.199951171875,
-      "volume": 1035354
-    },
-    {
-      "date": "2025-12-03",
-      "close": 2189.800048828125,
-      "open": 2240.0,
-      "high": 2245.0,
-      "low": 2172.199951171875,
-      "volume": 1643852
-    },
-    {
-      "date": "2025-12-04",
-      "close": 2217.89990234375,
-      "open": 2188.0,
-      "high": 2231.699951171875,
-      "low": 2183.39990234375,
-      "volume": 2522821
-    },
-    {
-      "date": "2025-12-05",
-      "close": 2265.39990234375,
-      "open": 2217.89990234375,
-      "high": 2268.60009765625,
-      "low": 2202.89990234375,
-      "volume": 2400781
-    },
-    {
-      "date": "2025-12-08",
-      "close": 2216.199951171875,
-      "open": 2265.39990234375,
-      "high": 2270.39990234375,
-      "low": 2205.0,
-      "volume": 939764
-    },
-    {
-      "date": "2025-12-09",
-      "close": 2245.199951171875,
-      "open": 2216.199951171875,
-      "high": 2257.0,
-      "low": 2178.39990234375,
-      "volume": 1227728
-    },
     {
       "date": "2025-12-10",
       "close": 2211.60009765625,
@@ -531,11 +483,51 @@
     },
     {
       "date": "2026-03-02",
-      "close": 2117.89990234375,
+      "close": 2124.60009765625,
       "open": 2093.0,
       "high": 2147.89990234375,
       "low": 2073.699951171875,
-      "volume": 1847851
+      "volume": 2134522
+    },
+    {
+      "date": "2026-03-04",
+      "close": 2076.5,
+      "open": 2104.60009765625,
+      "high": 2104.60009765625,
+      "low": 2037.5,
+      "volume": 1585848
+    },
+    {
+      "date": "2026-03-05",
+      "close": 2089.199951171875,
+      "open": 2094.0,
+      "high": 2100.0,
+      "low": 2040.0,
+      "volume": 1231524
+    },
+    {
+      "date": "2026-03-06",
+      "close": 2039.9000244140625,
+      "open": 2079.10009765625,
+      "high": 2090.0,
+      "low": 2030.199951171875,
+      "volume": 1696027
+    },
+    {
+      "date": "2026-03-09",
+      "close": 1999.199951171875,
+      "open": 1985.0,
+      "high": 2006.0,
+      "low": 1940.4000244140625,
+      "volume": 1305447
+    },
+    {
+      "date": "2026-03-10",
+      "close": 1989.300048828125,
+      "open": 2030.0,
+      "high": 2030.0,
+      "low": 1987.0,
+      "volume": 316540
     }
   ]
 }

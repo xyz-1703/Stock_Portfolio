@@ -206,3 +206,35 @@ def get_sectors_with_stocks(request):
         return Response(result)
     except Exception as e:
         return Response({"error": str(e)}, status=500)
+
+
+@api_view(['GET'])
+def debug_all_stocks(request):
+    """Debug endpoint: List all stocks in database with their details"""
+    try:
+        stocks = Stock.objects.all()
+        result = {
+            'total_stocks': stocks.count(),
+            'stocks': []
+        }
+        
+        for stock in stocks[:50]:  # Limit to first 50
+            stock_info = {
+                'id': stock.id,
+                'symbol': stock.symbol,
+                'name': stock.name,
+                'sector': stock.sector.name if stock.sector else 'Unknown',
+                'has_detail': hasattr(stock, 'detail') and stock.detail is not None,
+            }
+            
+            if hasattr(stock, 'detail') and stock.detail:
+                detail = stock.detail
+                stock_info['current_price'] = detail.current_price,
+                stock_info['market_cap'] = detail.market_cap,
+                stock_info['pe_ratio'] = detail.pe_ratio,
+            
+            result['stocks'].append(stock_info)
+        
+        return Response(result)
+    except Exception as e:
+        return Response({"error": str(e)}, status=500)

@@ -1,70 +1,38 @@
 {
   "symbol": "AAPL",
   "name": "Apple Inc.",
-  "current_price": 264.72,
-  "pe_ratio": 33.55133,
-  "forward_pe": 28.450964,
+  "current_price": 257.265,
+  "pe_ratio": 32.565193,
+  "forward_pe": 27.685827,
   "peg_ratio": null,
-  "price_to_book": 44.134712,
+  "price_to_book": 42.8918,
   "profit_margin": 0.27037,
   "operating_margin": 0.35374,
   "return_on_equity": 1.5202099,
   "debt_to_equity": 102.63,
   "fifty_two_week_high": 288.62,
   "fifty_two_week_low": 169.21,
-  "three_month_average_volume": 48440415,
-  "market_cap": 3890834833408,
-  "enterprise_value": 3909993365504,
-  "dividend_yield": 0.39,
+  "three_month_average_volume": 48457011,
+  "market_cap": 3781262049280,
+  "enterprise_value": 3803408236544,
+  "dividend_yield": 0.4,
   "dividend_rate": 1.04,
   "payout_ratio": 0.1304,
   "five_year_avg_dividend_yield": 0.52,
-  "beta": 1.107,
+  "beta": 1.116,
   "sector": "Technology",
   "industry": "Consumer Electronics",
   "website": "https://www.apple.com",
   "description": "Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories. It also provides AppleCare support and cloud services; and operates various platforms, including the App Store that allow customers to discover and download applications and digital content, such as books, music, video, games, and podcasts, as well as advertising services include third-party licensing arrangements and its own advertising platforms. In addition, the company offers various subscription-based services, such as Apple Arcade, a game subscription service; Apple Fitness+, a personalized fitness service; Apple Music, which offers users a curated listening experience with on-demand radio stations; Apple News+, a subscription news and magazine service; Apple TV, which offers exclusive original content and live sports; Apple Card, a co-branded credit card; and Apple Pay, a cashless payment service, as well as licenses its intellectual property. The company serves consumers, and small and mid-sized businesses; and the education, enterprise, and government markets. It distributes third-party applications for its products through the App Store. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers and resellers. The company was formerly known as Apple Computer, Inc. and changed its name to Apple Inc. in January 2007. Apple Inc. was founded in 1976 and is headquartered in Cupertino, California.",
-  "previous_close": 264.18,
-  "open_price": 262.44,
-  "day_high": 266.53,
-  "day_low": 260.2,
-  "fifty_day_average": 265.3786,
-  "two_hundred_day_average": 242.9163,
+  "previous_close": 257.46,
+  "open_price": 255.69,
+  "day_high": 257.88,
+  "day_low": 253.6805,
+  "fifty_day_average": 264.2878,
+  "two_hundred_day_average": 244.17625,
   "stock_splits": null,
-  "last_updated": "2026-03-03T10:58:08.738471",
+  "last_updated": "2026-03-09T20:32:25.240941",
   "historical_data": [
-    {
-      "date": "2025-12-03",
-      "close": 283.8843688964844,
-      "open": 285.9324708384744,
-      "high": 288.35019153510143,
-      "low": 283.0351573834178,
-      "volume": 43538700
-    },
-    {
-      "date": "2025-12-04",
-      "close": 280.4375915527344,
-      "open": 283.83440686502166,
-      "high": 284.46382276925783,
-      "low": 278.32954829392816,
-      "volume": 43989100
-    },
-    {
-      "date": "2025-12-05",
-      "close": 278.5193786621094,
-      "open": 280.27774306596746,
-      "high": 280.8771882481053,
-      "low": 277.79005013345267,
-      "volume": 47265800
-    },
-    {
-      "date": "2025-12-08",
-      "close": 277.6302185058594,
-      "open": 277.86998437615557,
-      "high": 279.4085531850005,
-      "low": 275.8918244790692,
-      "volume": 38211800
-    },
     {
       "date": "2025-12-09",
       "close": 276.9208679199219,
@@ -511,7 +479,47 @@
       "open": 262.4100036621094,
       "high": 266.5299987792969,
       "low": 260.20001220703125,
-      "volume": 41780100
+      "volume": 41827900
+    },
+    {
+      "date": "2026-03-03",
+      "close": 263.75,
+      "open": 263.4800109863281,
+      "high": 265.55999755859375,
+      "low": 260.1300048828125,
+      "volume": 38568900
+    },
+    {
+      "date": "2026-03-04",
+      "close": 262.5199890136719,
+      "open": 264.6499938964844,
+      "high": 266.1499938964844,
+      "low": 261.4200134277344,
+      "volume": 39803100
+    },
+    {
+      "date": "2026-03-05",
+      "close": 260.2900085449219,
+      "open": 260.7900085449219,
+      "high": 261.55999755859375,
+      "low": 257.25,
+      "volume": 49658600
+    },
+    {
+      "date": "2026-03-06",
+      "close": 257.4599914550781,
+      "open": 258.6300048828125,
+      "high": 258.7699890136719,
+      "low": 254.3699951171875,
+      "volume": 41094000
+    },
+    {
+      "date": "2026-03-09",
+      "close": 257.2650146484375,
+      "open": 255.69000244140625,
+      "high": 257.8800048828125,
+      "low": 253.6804962158203,
+      "volume": 9500981
     }
   ]
 }

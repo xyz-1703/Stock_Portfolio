@@ -1,0 +1,517 @@
+{
+  "symbol": "MS",
+  "name": "Morgan Stanley",
+  "current_price": 160.45,
+  "pe_ratio": 15.730392,
+  "forward_pe": 13.021678,
+  "peg_ratio": null,
+  "price_to_book": 2.492737,
+  "profit_margin": 0.23986,
+  "operating_margin": 0.38625,
+  "return_on_equity": 0.15614,
+  "debt_to_equity": 455.747,
+  "fifty_two_week_high": 192.68,
+  "fifty_two_week_low": 94.33,
+  "three_month_average_volume": 7019930,
+  "market_cap": 254772166656,
+  "enterprise_value": 178559172608,
+  "dividend_yield": 2.49,
+  "dividend_rate": 4.0,
+  "payout_ratio": 0.3771,
+  "five_year_avg_dividend_yield": 2.96,
+  "beta": 1.207,
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "website": "https://www.morganstanley.com",
+  "description": "Morgan Stanley, a financial holding company, provides various financial products and services to corporations, governments, financial institutions, and individuals in the Americas, Asia, Europe, the Middle East, and Africa. It operates through Institutional Securities, Wealth Management, and Investment Management segments. The company offers capital raising and financial advisory services, including services related to the underwriting of debt, equity securities, and other products, as well as advice on mergers and acquisitions, restructurings, and project finance. It also provides equity and fixed income products comprising sales, financing, prime brokerage, and market-making services; Asia wealth management; business-related investments services; originating corporate and commercial real estate loans, secured lending facilities, and extending securities-based and other financing; and research activities. In addition, the company offers financial advisor-led brokerage, investment advisory, custody, cash management, and administrative services; self-directed brokerage services; financial and wealth planning services; stock plan administration; securities-based lending, residential real estate loans, and other lending products; banking; and retirement plan services. Further, it provides equity, fixed income, alternatives and solutions, and liquidity and overlay services to benefit/defined contribution plans, foundations, endowments, government entities, sovereign wealth funds, insurance companies, third-party fund sponsors, corporations, and individuals. Morgan Stanley was founded in 1924 and is headquartered in New York, New York.",
+  "previous_close": 160.27,
+  "open_price": 157.92,
+  "day_high": 161.85,
+  "day_low": 154.07,
+  "fifty_day_average": 177.9416,
+  "two_hundred_day_average": 158.3654,
+  "stock_splits": null,
+  "last_updated": "2026-03-10T10:10:26.224784",
+  "historical_data": [
+    {
+      "date": "2025-12-10",
+      "close": 179.7100067138672,
+      "open": 178.5,
+      "high": 181.30999755859375,
+      "low": 177.75,
+      "volume": 6591200
+    },
+    {
+      "date": "2025-12-11",
+      "close": 180.2899932861328,
+      "open": 180.1300048828125,
+      "high": 181.97999572753906,
+      "low": 179.5,
+      "volume": 7598700
+    },
+    {
+      "date": "2025-12-12",
+      "close": 178.41000366210938,
+      "open": 181.14999389648438,
+      "high": 181.14999389648438,
+      "low": 177.75,
+      "volume": 4961500
+    },
+    {
+      "date": "2025-12-15",
+      "close": 177.7899932861328,
+      "open": 179.91000366210938,
+      "high": 180.89999389648438,
+      "low": 177.72999572753906,
+      "volume": 5219000
+    },
+    {
+      "date": "2025-12-16",
+      "close": 176.50999450683594,
+      "open": 178.1300048828125,
+      "high": 178.64999389648438,
+      "low": 175.67999267578125,
+      "volume": 6840500
+    },
+    {
+      "date": "2025-12-17",
+      "close": 174.8000030517578,
+      "open": 178.0500030517578,
+      "high": 179.4499969482422,
+      "low": 174.4600067138672,
+      "volume": 5796100
+    },
+    {
+      "date": "2025-12-18",
+      "close": 172.9600067138672,
+      "open": 176.5500030517578,
+      "high": 177.07000732421875,
+      "low": 172.5800018310547,
+      "volume": 7993400
+    },
+    {
+      "date": "2025-12-19",
+      "close": 176.97999572753906,
+      "open": 173.4600067138672,
+      "high": 177.6999969482422,
+      "low": 173.4600067138672,
+      "volume": 10639400
+    },
+    {
+      "date": "2025-12-22",
+      "close": 179.75999450683594,
+      "open": 177.58999633789062,
+      "high": 180.25999450683594,
+      "low": 177.41000366210938,
+      "volume": 4574600
+    },
+    {
+      "date": "2025-12-23",
+      "close": 179.5,
+      "open": 179.8300018310547,
+      "high": 180.5800018310547,
+      "low": 179.1300048828125,
+      "volume": 3514800
+    },
+    {
+      "date": "2025-12-24",
+      "close": 181.64999389648438,
+      "open": 180.16000366210938,
+      "high": 182.0,
+      "low": 179.52999877929688,
+      "volume": 2648000
+    },
+    {
+      "date": "2025-12-26",
+      "close": 181.8699951171875,
+      "open": 181.85000610351562,
+      "high": 182.33999633789062,
+      "low": 181.10000610351562,
+      "volume": 2564700
+    },
+    {
+      "date": "2025-12-29",
+      "close": 179.94000244140625,
+      "open": 181.19000244140625,
+      "high": 181.6999969482422,
+      "low": 179.75,
+      "volume": 2464300
+    },
+    {
+      "date": "2025-12-30",
+      "close": 179.0800018310547,
+      "open": 180.27999877929688,
+      "high": 180.3800048828125,
+      "low": 178.25999450683594,
+      "volume": 2365500
+    },
+    {
+      "date": "2025-12-31",
+      "close": 177.52999877929688,
+      "open": 179.50999450683594,
+      "high": 179.7100067138672,
+      "low": 177.39999389648438,
+      "volume": 3098100
+    },
+    {
+      "date": "2026-01-02",
+      "close": 181.89999389648438,
+      "open": 178.52000427246094,
+      "high": 181.9600067138672,
+      "low": 177.13999938964844,
+      "volume": 4509900
+    },
+    {
+      "date": "2026-01-05",
+      "close": 186.5399932861328,
+      "open": 182.1999969482422,
+      "high": 188.50999450683594,
+      "low": 182.05999755859375,
+      "volume": 6787400
+    },
+    {
+      "date": "2026-01-06",
+      "close": 187.75,
+      "open": 186.6999969482422,
+      "high": 188.82000732421875,
+      "low": 185.75,
+      "volume": 3795600
+    },
+    {
+      "date": "2026-01-07",
+      "close": 184.7899932861328,
+      "open": 187.3000030517578,
+      "high": 187.75,
+      "low": 184.33999633789062,
+      "volume": 3532400
+    },
+    {
+      "date": "2026-01-08",
+      "close": 184.67999267578125,
+      "open": 183.91000366210938,
+      "high": 186.13999938964844,
+      "low": 183.66000366210938,
+      "volume": 3745900
+    },
+    {
+      "date": "2026-01-09",
+      "close": 186.32000732421875,
+      "open": 185.6999969482422,
+      "high": 186.9199981689453,
+      "low": 185.0399932861328,
+      "volume": 4630900
+    },
+    {
+      "date": "2026-01-12",
+      "close": 186.57000732421875,
+      "open": 184.6300048828125,
+      "high": 187.27000427246094,
+      "low": 183.9199981689453,
+      "volume": 5635400
+    },
+    {
+      "date": "2026-01-13",
+      "close": 182.75999450683594,
+      "open": 186.9600067138672,
+      "high": 187.02000427246094,
+      "low": 182.14999389648438,
+      "volume": 6594800
+    },
+    {
+      "date": "2026-01-14",
+      "close": 180.77999877929688,
+      "open": 182.19000244140625,
+      "high": 182.35000610351562,
+      "low": 178.92999267578125,
+      "volume": 8434000
+    },
+    {
+      "date": "2026-01-15",
+      "close": 191.22999572753906,
+      "open": 181.0,
+      "high": 192.16000366210938,
+      "low": 181.0,
+      "volume": 12957100
+    },
+    {
+      "date": "2026-01-16",
+      "close": 189.08999633789062,
+      "open": 190.55999755859375,
+      "high": 192.67999267578125,
+      "low": 189.0,
+      "volume": 8398100
+    },
+    {
+      "date": "2026-01-20",
+      "close": 182.10000610351562,
+      "open": 185.25,
+      "high": 186.6999969482422,
+      "low": 181.27999877929688,
+      "volume": 11302600
+    },
+    {
+      "date": "2026-01-21",
+      "close": 183.32000732421875,
+      "open": 182.47000122070312,
+      "high": 186.4199981689453,
+      "low": 182.02000427246094,
+      "volume": 11715800
+    },
+    {
+      "date": "2026-01-22",
+      "close": 183.0500030517578,
+      "open": 184.52999877929688,
+      "high": 186.0399932861328,
+      "low": 182.25999450683594,
+      "volume": 8966900
+    },
+    {
+      "date": "2026-01-23",
+      "close": 179.0,
+      "open": 181.8699951171875,
+      "high": 181.8699951171875,
+      "low": 177.9499969482422,
+      "volume": 8532800
+    },
+    {
+      "date": "2026-01-26",
+      "close": 181.8800048828125,
+      "open": 179.36000061035156,
+      "high": 182.44000244140625,
+      "low": 178.86000061035156,
+      "volume": 6389800
+    },
+    {
+      "date": "2026-01-27",
+      "close": 182.66000366210938,
+      "open": 182.24000549316406,
+      "high": 183.97000122070312,
+      "low": 181.14999389648438,
+      "volume": 5138100
+    },
+    {
+      "date": "2026-01-28",
+      "close": 182.33999633789062,
+      "open": 182.44000244140625,
+      "high": 183.00999450683594,
+      "low": 180.3800048828125,
+      "volume": 5538800
+    },
+    {
+      "date": "2026-01-29",
+      "close": 182.39999389648438,
+      "open": 183.17999267578125,
+      "high": 185.02999877929688,
+      "low": 179.4600067138672,
+      "volume": 7473400
+    },
+    {
+      "date": "2026-01-30",
+      "close": 182.8000030517578,
+      "open": 180.2100067138672,
+      "high": 183.14999389648438,
+      "low": 179.97000122070312,
+      "volume": 7434900
+    },
+    {
+      "date": "2026-02-02",
+      "close": 185.10000610351562,
+      "open": 182.61000061035156,
+      "high": 185.44000244140625,
+      "low": 180.5500030517578,
+      "volume": 6827200
+    },
+    {
+      "date": "2026-02-03",
+      "close": 182.91000366210938,
+      "open": 185.27999877929688,
+      "high": 188.67999267578125,
+      "low": 178.4499969482422,
+      "volume": 7751300
+    },
+    {
+      "date": "2026-02-04",
+      "close": 180.0800018310547,
+      "open": 182.72999572753906,
+      "high": 183.64999389648438,
+      "low": 178.5,
+      "volume": 7571900
+    },
+    {
+      "date": "2026-02-05",
+      "close": 175.83999633789062,
+      "open": 178.0,
+      "high": 179.4499969482422,
+      "low": 173.25,
+      "volume": 9571800
+    },
+    {
+      "date": "2026-02-06",
+      "close": 179.9600067138672,
+      "open": 178.88999938964844,
+      "high": 181.19000244140625,
+      "low": 177.5,
+      "volume": 9139700
+    },
+    {
+      "date": "2026-02-09",
+      "close": 182.35000610351562,
+      "open": 179.99000549316406,
+      "high": 183.82000732421875,
+      "low": 179.4600067138672,
+      "volume": 6625900
+    },
+    {
+      "date": "2026-02-10",
+      "close": 177.88999938964844,
+      "open": 181.9199981689453,
+      "high": 184.5800018310547,
+      "low": 173.5500030517578,
+      "volume": 12854500
+    },
+    {
+      "date": "2026-02-11",
+      "close": 176.67999267578125,
+      "open": 179.77000427246094,
+      "high": 181.0399932861328,
+      "low": 174.3000030517578,
+      "volume": 7777800
+    },
+    {
+      "date": "2026-02-12",
+      "close": 168.05999755859375,
+      "open": 177.42999267578125,
+      "high": 178.7899932861328,
+      "low": 165.41000366210938,
+      "volume": 14436700
+    },
+    {
+      "date": "2026-02-13",
+      "close": 171.14999389648438,
+      "open": 167.1199951171875,
+      "high": 171.49000549316406,
+      "low": 163.58999633789062,
+      "volume": 9162400
+    },
+    {
+      "date": "2026-02-17",
+      "close": 171.5399932861328,
+      "open": 172.5500030517578,
+      "high": 174.1999969482422,
+      "low": 170.86000061035156,
+      "volume": 6376900
+    },
+    {
+      "date": "2026-02-18",
+      "close": 176.58999633789062,
+      "open": 173.49000549316406,
+      "high": 177.30999755859375,
+      "low": 173.4499969482422,
+      "volume": 6343300
+    },
+    {
+      "date": "2026-02-19",
+      "close": 174.3699951171875,
+      "open": 175.16000366210938,
+      "high": 176.27999877929688,
+      "low": 172.52999877929688,
+      "volume": 7259500
+    },
+    {
+      "date": "2026-02-20",
+      "close": 175.41000366210938,
+      "open": 173.4499969482422,
+      "high": 175.42999267578125,
+      "low": 171.55999755859375,
+      "volume": 4272600
+    },
+    {
+      "date": "2026-02-23",
+      "close": 166.8000030517578,
+      "open": 173.9600067138672,
+      "high": 175.6199951171875,
+      "low": 166.61000061035156,
+      "volume": 7795500
+    },
+    {
+      "date": "2026-02-24",
+      "close": 168.7899932861328,
+      "open": 165.47000122070312,
+      "high": 170.32000732421875,
+      "low": 164.11000061035156,
+      "volume": 7413800
+    },
+    {
+      "date": "2026-02-25",
+      "close": 173.72999572753906,
+      "open": 170.6999969482422,
+      "high": 174.0399932861328,
+      "low": 169.64999389648438,
+      "volume": 7098500
+    },
+    {
+      "date": "2026-02-26",
+      "close": 177.49000549316406,
+      "open": 174.8800048828125,
+      "high": 177.8300018310547,
+      "low": 174.4499969482422,
+      "volume": 6901600
+    },
+    {
+      "date": "2026-02-27",
+      "close": 166.50999450683594,
+      "open": 174.0,
+      "high": 174.1300048828125,
+      "low": 164.39999389648438,
+      "volume": 12400400
+    },
+    {
+      "date": "2026-03-02",
+      "close": 167.0,
+      "open": 162.63999938964844,
+      "high": 169.60000610351562,
+      "low": 162.14999389648438,
+      "volume": 9212600
+    },
+    {
+      "date": "2026-03-03",
+      "close": 165.9499969482422,
+      "open": 162.4600067138672,
+      "high": 167.32000732421875,
+      "low": 159.9499969482422,
+      "volume": 7495500
+    },
+    {
+      "date": "2026-03-04",
+      "close": 167.5800018310547,
+      "open": 167.5800018310547,
+      "high": 169.1999969482422,
+      "low": 166.52000427246094,
+      "volume": 5307800
+    },
+    {
+      "date": "2026-03-05",
+      "close": 162.5500030517578,
+      "open": 165.3800048828125,
+      "high": 167.97000122070312,
+      "low": 160.50999450683594,
+      "volume": 7274900
+    },
+    {
+      "date": "2026-03-06",
+      "close": 160.27000427246094,
+      "open": 159.50999450683594,
+      "high": 160.35000610351562,
+      "low": 155.35000610351562,
+      "volume": 8046000
+    },
+    {
+      "date": "2026-03-09",
+      "close": 160.4499969482422,
+      "open": 157.9199981689453,
+      "high": 161.85000610351562,
+      "low": 154.07000732421875,
+      "volume": 7464600
+    }
+  ]
+}

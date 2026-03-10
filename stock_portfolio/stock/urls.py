@@ -10,4 +10,5 @@ urlpatterns = [
     path('api/auth/logout/', views.logout_view),
     path('api/auth/user/', views.get_user_info),
     path('api/home/sectors-with-stocks/', views.get_sectors_with_stocks),
+    path('api/debug/all-stocks/', views.debug_all_stocks),  # Debug endpoint
 ]

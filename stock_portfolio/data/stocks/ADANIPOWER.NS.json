@@ -1,86 +1,38 @@
 {
   "symbol": "ADANIPOWER.NS",
   "name": "Adani Power Limited",
-  "current_price": 137.97,
-  "pe_ratio": 23.544369,
-  "forward_pe": 20.253963,
+  "current_price": 139.07,
+  "pe_ratio": 23.691654,
+  "forward_pe": 20.415445,
   "peg_ratio": null,
-  "price_to_book": 4.55542,
+  "price_to_book": 4.591739,
   "profit_margin": 0.21112,
   "operating_margin": 0.24919,
   "return_on_equity": null,
   "debt_to_equity": 81.251,
   "fifty_two_week_high": 182.7,
   "fifty_two_week_low": 92.4,
-  "three_month_average_volume": 16106639,
-  "market_cap": 2660895293440,
-  "enterprise_value": 3045183717376,
+  "three_month_average_volume": 16153924,
+  "market_cap": 2682110083072,
+  "enterprise_value": 3067096072192,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
   "five_year_avg_dividend_yield": null,
-  "beta": 0.132,
+  "beta": 0.205,
   "sector": "Utilities",
   "industry": "Utilities - Independent Power Producers",
   "website": "https://www.adanipower.com",
   "description": "Adani Power Limited engages in the generation, transmission, and sale of electricity under long term power purchase agreements (PPAs), supplemental PPAs, medium and short term PPAs, and on merchant basis in India. The company generates electricity through thermal energy sources through various power projects with a combined installed and commissioned capacity of 17,550 megawatt (MW). It also operates various coal based power plants comprising 4,620 MW at Mundra, Gujarat; 3,300 MW at Tiroda, Maharashtra; 1,320 MW at Kawai, Rajasthan; 1,200 MW at Udupi, Karnataka; 600 MW at Raigarh and Korba, Chhattisgarh; 1,370 MW at Raipur, Chhattisgarh; 1,200 MW at Mahan, Madhya Pradesh; 1,200 MW at Mutiara, Tamil Nadu; 1,600 MW at Mirzapur, Uttar Pradesh; 500MW at Dahanu, Maharashtra; and 1600 MW at Godda, Jharkhand. The company also operates solar based power plant comprising 40 MW at Bitta, Gujarat. In addition, it engages in coal import and supply/trading business. Adani Power Limited was founded in 1988 and is headquartered in Ahmedabad, India.",
-  "previous_close": 140.11,
-  "open_price": 133.0,
-  "day_high": 138.68,
-  "day_low": 130.7,
-  "fifty_day_average": 142.5988,
-  "two_hundred_day_average": 135.43655,
+  "previous_close": 139.11,
+  "open_price": 141.5,
+  "day_high": 141.5,
+  "day_low": 138.85,
+  "fifty_day_average": 142.2068,
+  "two_hundred_day_average": 136.1604,
   "stock_splits": null,
-  "last_updated": "2026-03-03T10:59:00.772087",
+  "last_updated": "2026-03-10T10:07:29.562003",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 146.75999450683594,
-      "open": 147.3000030517578,
-      "high": 148.17999267578125,
-      "low": 146.0500030517578,
-      "volume": 6392786
-    },
-    {
-      "date": "2025-12-03",
-      "close": 144.97000122070312,
-      "open": 146.89999389648438,
-      "high": 147.67999267578125,
-      "low": 144.5399932861328,
-      "volume": 10331583
-    },
-    {
-      "date": "2025-12-04",
-      "close": 142.72999572753906,
-      "open": 145.0,
-      "high": 146.83999633789062,
-      "low": 142.30999755859375,
-      "volume": 11150119
-    },
-    {
-      "date": "2025-12-05",
-      "close": 143.77999877929688,
-      "open": 143.0,
-      "high": 144.1999969482422,
-      "low": 142.3699951171875,
-      "volume": 7231083
-    },
-    {
-      "date": "2025-12-08",
-      "close": 139.0399932861328,
-      "open": 144.25,
-      "high": 145.16000366210938,
-      "low": 138.2100067138672,
-      "volume": 14985881
-    },
-    {
-      "date": "2025-12-09",
-      "close": 141.8000030517578,
-      "open": 139.0399932861328,
-      "high": 142.85000610351562,
-      "low": 135.0,
-      "volume": 20828393
-    },
     {
       "date": "2025-12-10",
       "close": 141.17999267578125,
@@ -536,6 +488,46 @@
       "high": 138.67999267578125,
       "low": 130.6999969482422,
       "volume": 26699798
+    },
+    {
+      "date": "2026-03-04",
+      "close": 137.82000732421875,
+      "open": 135.0,
+      "high": 139.3000030517578,
+      "low": 134.41000366210938,
+      "volume": 16666324
+    },
+    {
+      "date": "2026-03-05",
+      "close": 140.11000061035156,
+      "open": 139.0,
+      "high": 140.5500030517578,
+      "low": 138.11000061035156,
+      "volume": 8274419
+    },
+    {
+      "date": "2026-03-06",
+      "close": 138.99000549316406,
+      "open": 139.60000610351562,
+      "high": 142.58999633789062,
+      "low": 138.5,
+      "volume": 11769177
+    },
+    {
+      "date": "2026-03-09",
+      "close": 139.11000061035156,
+      "open": 136.5,
+      "high": 139.8300018310547,
+      "low": 134.86000061035156,
+      "volume": 12009431
+    },
+    {
+      "date": "2026-03-10",
+      "close": 139.07000732421875,
+      "open": 141.5,
+      "high": 141.5,
+      "low": 138.85000610351562,
+      "volume": 3709340
     }
   ]
 }

@@ -1,14 +1,18 @@
 import React, { useEffect, useState } from "react";
-import { Loader2, AlertCircle, TrendingUp, TrendingDown } from "lucide-react";
+import { Loader2, AlertCircle, TrendingUp, RefreshCw, ChevronDown } from "lucide-react";
 
 function Home({ onStockClick }) {
   const [sectorsWithStocks, setSectorsWithStocks] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
   const [expandedSector, setExpandedSector] = useState(null);
+  const [lastUpdated, setLastUpdated] = useState(null);
+  const [isRefreshing, setIsRefreshing] = useState(false);
 
   useEffect(() => {
     fetchSectorsWithStocks();
+    const interval = setInterval(fetchSectorsWithStocks, 5 * 60 * 1000);
+    return () => clearInterval(interval);
   }, []);
 
   const fetchSectorsWithStocks = async () => {
@@ -19,7 +23,7 @@ function Home({ onStockClick }) {
       if (!response.ok) throw new Error("Failed to fetch sectors");
       const data = await response.json();
       setSectorsWithStocks(data);
-      // Auto-expand first sector
+      setLastUpdated(new Date());
       if (data.length > 0) {
         setExpandedSector(data[0].id);
       }
@@ -28,7 +32,13 @@ function Home({ onStockClick }) {
       console.error("Error fetching sectors:", err);
     } finally {
       setLoading(false);
+      setIsRefreshing(false);
     }
+  };
+
+  const handleRefresh = async () => {
+    setIsRefreshing(true);
+    await fetchSectorsWithStocks();
   };
 
   const toggleSector = (sectorId) => {
@@ -37,17 +47,27 @@ function Home({ onStockClick }) {
 
   const formatPrice = (price) => {
     if (price === null || price === undefined) return "N/A";
-    return `₹${price.toFixed(2)}`;
+    return `$${price.toFixed(2)}`;
+  };
+
+  const getFormattedTime = () => {
+    if (!lastUpdated) return "Never";
+    const now = new Date();
+    const diff = Math.floor((now - lastUpdated) / 1000);
+    if (diff < 60) return "Just now";
+    if (diff < 3600) return `${Math.floor(diff / 60)}m ago`;
+    if (diff < 86400) return `${Math.floor(diff / 3600)}h ago`;
+    return lastUpdated.toLocaleDateString();
   };
 
   if (loading) {
     return (
-      <div className="max-w-7xl mx-auto px-6 py-10">
-        <div className="flex items-center justify-center py-20">
-          <div className="text-center">
-            <Loader2 className="w-8 h-8 text-blue-500 animate-spin mx-auto mb-4" />
-            <p className="text-slate-400">Loading market data...</p>
+      <div className="flex items-center justify-center py-32">
+        <div className="text-center">
+          <div className="w-12 h-12 rounded-2xl bg-blue-500/10 flex items-center justify-center mx-auto mb-4">
+            <Loader2 className="w-6 h-6 text-blue-400 animate-spin" />
           </div>
+          <p className="text-slate-400 font-medium">Loading market data...</p>
         </div>
       </div>
     );
@@ -55,145 +75,153 @@ function Home({ onStockClick }) {
 
   if (error) {
     return (
-      <div className="max-w-7xl mx-auto px-6 py-10">
-        <div className="bg-red-500/10 border border-red-500/30 rounded-lg p-6 flex items-start gap-3">
-          <AlertCircle className="w-6 h-6 text-red-500 mt-0.5 flex-shrink-0" />
-          <div>
-            <p className="text-red-300 font-semibold">Error loading market data</p>
-            <p className="text-red-200 text-sm mt-1">{error}</p>
-          </div>
+      <div className="glass-surface p-6 flex items-start gap-4">
+        <div className="w-10 h-10 rounded-xl bg-red-500/10 flex items-center justify-center flex-shrink-0">
+          <AlertCircle className="w-5 h-5 text-red-400" />
+        </div>
+        <div>
+          <p className="text-red-300 font-semibold">Error loading market data</p>
+          <p className="text-red-200/60 text-sm mt-1">{error}</p>
         </div>
       </div>
     );
   }
 
   return (
-    <div className="max-w-7xl mx-auto px-6 py-10">
+    <div className="animate-fade-in">
       {/* Home Header */}
-      <div className="mb-10">
-        <h1 className="text-4xl font-bold text-white mb-2">Market Overview</h1>
-        <p className="text-slate-400 text-lg">
-          Explore sector-wise stocks with live pricing and discount information
-        </p>
+      <div className="mb-10 flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4">
+        <div>
+          <h1 className="text-4xl font-bold text-white tracking-tight mb-2 text-glow">
+            Market Overview
+          </h1>
+          <p className="text-slate-400 text-lg font-light">
+            Explore sector-wise stocks with live pricing and discount data
+          </p>
+          {lastUpdated && (
+            <div className="flex items-center gap-2 mt-3">
+              <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></div>
+              <p className="text-slate-500 text-sm">
+                Updated <span className="text-slate-400 font-medium">{getFormattedTime()}</span>
+              </p>
+            </div>
+          )}
+        </div>
+        <button
+          onClick={handleRefresh}
+          disabled={isRefreshing || loading}
+          className="btn-glow flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-blue-500 to-indigo-600 text-white font-semibold rounded-xl hover:shadow-lg hover:shadow-blue-500/25 disabled:opacity-50 disabled:cursor-not-allowed transition-all text-sm"
+        >
+          <RefreshCw className={`w-4 h-4 ${isRefreshing ? "animate-spin" : ""}`} />
+          {isRefreshing ? "Refreshing..." : "Refresh Data"}
+        </button>
       </div>
 
       {/* Sectors with Stocks */}
-      <div className="space-y-6">
-        {sectorsWithStocks.map((sector) => (
+      <div className="space-y-4">
+        {sectorsWithStocks.map((sector, sectorIndex) => (
           <div
             key={sector.id}
-            className="bg-gradient-to-br from-slate-800/50 to-slate-700/30 backdrop-blur border border-slate-700/50 rounded-xl overflow-hidden shadow-lg hover:shadow-lg hover:shadow-blue-500/10 transition-all"
+            className="glass-surface overflow-hidden animate-fade-in-up"
+            style={{ animationDelay: `${sectorIndex * 0.08}s`, opacity: 0, animationFillMode: 'forwards' }}
           >
             {/* Sector Header */}
             <button
               onClick={() => toggleSector(sector.id)}
-              className="w-full p-6 flex items-center justify-between hover:bg-slate-700/20 transition-colors"
+              className="w-full px-6 py-5 flex items-center justify-between hover:bg-white/[0.02] transition-colors"
             >
               <div className="flex items-center gap-4">
-                <div className="p-2 bg-blue-500/20 rounded-lg">
+                <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500/20 to-indigo-500/10 flex items-center justify-center">
                   <TrendingUp className="w-5 h-5 text-blue-400" />
                 </div>
                 <div className="text-left">
-                  <h2 className="text-2xl font-bold text-white">{sector.name}</h2>
-                  <p className="text-sm text-slate-400">
+                  <h2 className="text-xl font-bold text-white">{sector.name}</h2>
+                  <p className="text-xs text-slate-500 font-medium mt-0.5">
                     {sector.stock_count} {sector.stock_count === 1 ? "stock" : "stocks"}
                   </p>
                 </div>
               </div>
               <div
-                className={`p-2 rounded-lg bg-slate-700/50 transition-transform duration-300 ${
-                  expandedSector === sector.id ? "rotate-180" : ""
-                }`}
+                className={`w-8 h-8 rounded-lg bg-white/[0.05] flex items-center justify-center transition-transform duration-300 ${expandedSector === sector.id ? "rotate-180" : ""
+                  }`}
               >
-                <svg
-                  className="w-5 h-5 text-slate-400"
-                  fill="none"
-                  stroke="currentColor"
-                  viewBox="0 0 24 24"
-                >
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth={2}
-                    d="M19 14l-7 7m0 0l-7-7m7 7V3"
-                  />
-                </svg>
+                <ChevronDown className="w-4 h-4 text-slate-400" />
               </div>
             </button>
 
             {/* Stocks Table */}
             {expandedSector === sector.id && (
-              <div className="px-6 pb-6 border-t border-slate-700/50 pt-6 overflow-x-auto">
+              <div className="px-6 pb-6 overflow-x-auto">
+                <div className="divider-gradient mb-6"></div>
                 <table className="w-full">
                   <thead>
-                    <tr className="border-b border-slate-600/50">
-                      <th className="px-6 py-4 text-left text-sm font-semibold text-slate-300 bg-slate-800/30">
+                    <tr>
+                      <th className="px-4 py-3 text-left text-xs font-semibold text-slate-500 uppercase tracking-wider">
                         Symbol
                       </th>
-                      <th className="px-6 py-4 text-left text-sm font-semibold text-slate-300 bg-slate-800/30">
-                        Company Name
+                      <th className="px-4 py-3 text-left text-xs font-semibold text-slate-500 uppercase tracking-wider">
+                        Company
                       </th>
-                      <th className="px-6 py-4 text-right text-sm font-semibold text-slate-300 bg-slate-800/30">
-                        Current Price
+                      <th className="px-4 py-3 text-right text-xs font-semibold text-slate-500 uppercase tracking-wider">
+                        Price
                       </th>
-                      <th className="px-6 py-4 text-right text-sm font-semibold text-slate-300 bg-slate-800/30">
-                        52-Week High
+                      <th className="px-4 py-3 text-right text-xs font-semibold text-slate-500 uppercase tracking-wider">
+                        52W High
                       </th>
-                      <th className="px-6 py-4 text-right text-sm font-semibold text-slate-300 bg-slate-800/30">
+                      <th className="px-4 py-3 text-right text-xs font-semibold text-slate-500 uppercase tracking-wider">
                         Discount
                       </th>
-                      <th className="px-6 py-4 text-center text-sm font-semibold text-slate-300 bg-slate-800/30">
+                      <th className="px-4 py-3 text-center text-xs font-semibold text-slate-500 uppercase tracking-wider">
                         Action
                       </th>
                     </tr>
                   </thead>
-                  <tbody>
+                  <tbody className="divide-y divide-white/[0.04]">
                     {sector.stocks.map((stock, index) => (
                       <tr
                         key={stock.id}
-                        className="border-b border-slate-700/30 hover:bg-slate-700/40 transition-colors group"
+                        className="hover:bg-white/[0.02] transition-colors group"
                       >
-                        <td className="px-6 py-4">
-                          <span className="text-sm font-bold text-blue-300 group-hover:text-blue-200">
+                        <td className="px-4 py-3.5">
+                          <span className="text-sm font-bold text-blue-400 group-hover:text-blue-300">
                             {stock.symbol}
                           </span>
                         </td>
-                        <td className="px-6 py-4">
+                        <td className="px-4 py-3.5">
                           <span className="text-sm text-slate-300">{stock.name}</span>
                         </td>
-                        <td className="px-6 py-4 text-right">
-                          <span className={`text-sm font-semibold ${stock.current_price ? "text-white" : "text-slate-500"}`}>
+                        <td className="px-4 py-3.5 text-right">
+                          <span className={`text-sm font-semibold tabular-nums ${stock.current_price ? "text-white" : "text-slate-600"}`}>
                             {formatPrice(stock.current_price)}
                           </span>
                         </td>
-                        <td className="px-6 py-4 text-right">
-                          <span className={`text-sm font-semibold ${stock.max_price ? "text-slate-300" : "text-slate-500"}`}>
+                        <td className="px-4 py-3.5 text-right">
+                          <span className={`text-sm tabular-nums ${stock.max_price ? "text-slate-400" : "text-slate-600"}`}>
                             {formatPrice(stock.max_price)}
                           </span>
                         </td>
-                        <td className="px-6 py-4 text-right">
+                        <td className="px-4 py-3.5 text-right">
                           <div className="flex justify-end">
                             {stock.discount !== null && stock.discount !== undefined ? (
-                              <span className={`px-3 py-1 rounded-full text-sm font-bold ${
-                                stock.discount >= 20
-                                  ? "bg-green-500/20 text-green-300"
-                                  : stock.discount >= 10
-                                  ? "bg-blue-500/20 text-blue-300"
-                                  : "bg-yellow-500/20 text-yellow-300"
-                              }`}>
+                              <span className={`px-2.5 py-1 rounded-md text-xs font-bold tabular-nums ${stock.discount >= 20
+                                ? "bg-emerald-500/15 text-emerald-400 ring-1 ring-emerald-500/20"
+                                : stock.discount >= 10
+                                  ? "bg-blue-500/15 text-blue-400 ring-1 ring-blue-500/20"
+                                  : "bg-amber-500/15 text-amber-400 ring-1 ring-amber-500/20"
+                                }`}>
                                 {stock.discount > 0 ? "-" : ""}{stock.discount.toFixed(2)}%
                               </span>
                             ) : (
-                              <span className="text-sm text-slate-500">N/A</span>
+                              <span className="text-xs text-slate-600">—</span>
                             )}
                           </div>
                         </td>
-                        <td className="px-6 py-4 text-center">
+                        <td className="px-4 py-3.5 text-center">
                           <button
                             onClick={() => onStockClick(stock.symbol)}
-                            className="inline-flex items-center gap-1 px-3 py-1.5 bg-gradient-to-r from-blue-500/20 to-blue-600/20 hover:from-blue-500/40 hover:to-blue-600/40 border border-blue-500/30 hover:border-blue-500/60 text-blue-300 hover:text-blue-200 font-medium text-sm rounded transition-all"
+                            className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-white/[0.04] hover:bg-white/[0.08] border border-white/[0.06] hover:border-blue-500/30 text-slate-300 hover:text-blue-300 font-medium text-xs rounded-lg transition-all"
                           >
-                            <TrendingUp className="w-4 h-4" />
+                            <TrendingUp className="w-3.5 h-3.5" />
                             View
                           </button>
                         </td>
@@ -209,12 +237,13 @@ function Home({ onStockClick }) {
 
       {/* Empty State */}
       {sectorsWithStocks.length === 0 && !loading && (
-        <div className="flex items-center justify-center py-20">
+        <div className="flex items-center justify-center py-32">
           <div className="text-center">
-            <div className="w-16 h-16 bg-slate-700/50 rounded-full flex items-center justify-center mx-auto mb-4">
-              <AlertCircle className="w-8 h-8 text-slate-400" />
+            <div className="w-16 h-16 rounded-2xl bg-white/[0.03] flex items-center justify-center mx-auto mb-5">
+              <AlertCircle className="w-7 h-7 text-slate-500" />
             </div>
-            <p className="text-slate-400 text-lg">No sectors or stocks available</p>
+            <p className="text-slate-400 text-lg font-medium">No market data available</p>
+            <p className="text-slate-600 text-sm mt-2">Check back later for updates</p>
           </div>
         </div>
       )}

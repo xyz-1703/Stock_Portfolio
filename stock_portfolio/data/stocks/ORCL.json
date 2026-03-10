@@ -1,94 +1,38 @@
 {
   "symbol": "ORCL",
   "name": "Oracle Corporation",
-  "current_price": 145.4,
-  "pe_ratio": 27.330826,
-  "forward_pe": 18.32968,
+  "current_price": 148.42,
+  "pe_ratio": 27.898495,
+  "forward_pe": 18.855963,
   "peg_ratio": null,
-  "price_to_book": 13.947242,
+  "price_to_book": 14.23693,
   "profit_margin": 0.25280002,
   "operating_margin": 0.31997,
   "return_on_equity": 0.69026,
   "debt_to_equity": 432.511,
   "fifty_two_week_high": 345.72,
   "fifty_two_week_low": 118.86,
-  "three_month_average_volume": 28923372,
-  "market_cap": 417892827136,
-  "enterprise_value": 530223104000,
-  "dividend_yield": 1.38,
+  "three_month_average_volume": 29147700,
+  "market_cap": 426572578816,
+  "enterprise_value": 551943995392,
+  "dividend_yield": 1.31,
   "dividend_rate": 2.0,
   "payout_ratio": 0.35709998,
   "five_year_avg_dividend_yield": 1.29,
-  "beta": 1.633,
+  "beta": 1.648,
   "sector": "Technology",
   "industry": "Software - Infrastructure",
   "website": "https://www.oracle.com",
   "description": "Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
-  "previous_close": 150.31,
-  "open_price": 143.88,
-  "day_high": 146.08,
-  "day_low": 142.1,
-  "fifty_day_average": 174.2006,
-  "two_hundred_day_average": 220.6263,
+  "previous_close": 152.96,
+  "open_price": 150.7,
+  "day_high": 151.99,
+  "day_low": 146.4348,
+  "fifty_day_average": 170.6184,
+  "two_hundred_day_average": 220.39445,
   "stock_splits": null,
-  "last_updated": "2026-03-02T16:30:16.296928",
+  "last_updated": "2026-03-09T20:31:08.391905",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 201.41757202148438,
-      "open": 198.98400245029742,
-      "high": 201.80654320910455,
-      "low": 197.08901773492948,
-      "volume": 13848500
-    },
-    {
-      "date": "2025-12-01",
-      "close": 200.4102325439453,
-      "open": 199.97139015054063,
-      "high": 202.96348077623452,
-      "low": 196.1814056476164,
-      "volume": 13461200
-    },
-    {
-      "date": "2025-12-02",
-      "close": 200.56982421875,
-      "open": 204.59916642984615,
-      "high": 209.14714196941074,
-      "low": 199.47271818132845,
-      "volume": 19664500
-    },
-    {
-      "date": "2025-12-03",
-      "close": 207.1823272705078,
-      "open": 199.8018430419707,
-      "high": 207.37182878115752,
-      "low": 198.87428702104322,
-      "volume": 19060500
-    },
-    {
-      "date": "2025-12-04",
-      "close": 213.7649383544922,
-      "open": 207.31199476152153,
-      "high": 214.8420928492704,
-      "low": 205.77606154142106,
-      "volume": 23316900
-    },
-    {
-      "date": "2025-12-05",
-      "close": 217.00636291503906,
-      "open": 218.42261732902747,
-      "high": 218.9212991037513,
-      "low": 213.05679656306012,
-      "volume": 24208700
-    },
-    {
-      "date": "2025-12-08",
-      "close": 219.95855712890625,
-      "open": 220.76643441189992,
-      "high": 224.15746449480878,
-      "low": 216.33813768390712,
-      "volume": 24711200
-    },
     {
       "date": "2025-12-09",
       "close": 220.94595336914062,
@@ -527,7 +471,55 @@
       "open": 143.8800048828125,
       "high": 146.0800018310547,
       "low": 142.10000610351562,
-      "volume": 36385200
+      "volume": 36425200
+    },
+    {
+      "date": "2026-03-02",
+      "close": 149.25,
+      "open": 141.6199951171875,
+      "high": 150.1699981689453,
+      "low": 141.17999267578125,
+      "volume": 22418800
+    },
+    {
+      "date": "2026-03-03",
+      "close": 149.00999450683594,
+      "open": 144.75,
+      "high": 150.92999267578125,
+      "low": 143.0500030517578,
+      "volume": 20120800
+    },
+    {
+      "date": "2026-03-04",
+      "close": 152.3699951171875,
+      "open": 150.00999450683594,
+      "high": 153.61000061035156,
+      "low": 149.10000610351562,
+      "volume": 17585400
+    },
+    {
+      "date": "2026-03-05",
+      "close": 154.7899932861328,
+      "open": 152.58999633789062,
+      "high": 157.94000244140625,
+      "low": 150.1199951171875,
+      "volume": 24094800
+    },
+    {
+      "date": "2026-03-06",
+      "close": 152.9600067138672,
+      "open": 152.9199981689453,
+      "high": 159.19000244140625,
+      "low": 151.6199951171875,
+      "volume": 37916400
+    },
+    {
+      "date": "2026-03-09",
+      "close": 148.42999267578125,
+      "open": 150.6999969482422,
+      "high": 151.99000549316406,
+      "low": 146.43479919433594,
+      "volume": 10123855
     }
   ]
 }
