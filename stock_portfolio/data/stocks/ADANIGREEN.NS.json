@@ -1,94 +1,38 @@
 {
   "symbol": "ADANIGREEN.NS",
   "name": "Adani Green Energy Limited",
-  "current_price": 899.45,
-  "pe_ratio": 104.34455,
-  "forward_pe": 38.91735,
+  "current_price": 849.65,
+  "pe_ratio": 99.142365,
+  "forward_pe": 36.762608,
   "peg_ratio": null,
-  "price_to_book": 7.8601265,
+  "price_to_book": 7.424934,
   "profit_margin": 0.1175,
   "operating_margin": 0.51757,
   "return_on_equity": null,
   "debt_to_equity": 296.223,
   "fifty_two_week_high": 1177.55,
-  "fifty_two_week_low": 758.0,
-  "three_month_average_volume": 2728302,
-  "market_cap": 1481552691200,
-  "enterprise_value": 2483682279424,
+  "fifty_two_week_low": 765.0,
+  "three_month_average_volume": 2828223,
+  "market_cap": 1399523246080,
+  "enterprise_value": 2334695358464,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
   "five_year_avg_dividend_yield": null,
-  "beta": 0.716,
+  "beta": 0.731,
   "sector": "Utilities",
   "industry": "Utilities - Renewable",
   "website": "https://www.adanigreenenergy.com",
   "description": "Adani Green Energy Limited generates and supplies renewable energy to central and state government entities and government backed corporations in India. The company develops, builds, owns, operates, and maintains power plants through renewable sources, such as solar, wind, and hybrid. It operates solar power plants with an operational capacity of 10,103 megawatts (MW); wind power plants with an operational capacity of 2,000 MW; and hybrid power plants with an operational capacity of 2,140 MW. Adani Green Energy Limited was incorporated in 2015 and is headquartered in Ahmedabad, India.",
-  "previous_close": 947.35,
-  "open_price": 915.0,
-  "day_high": 926.95,
-  "day_low": 880.25,
-  "fifty_day_average": 949.17,
-  "two_hundred_day_average": 996.744,
+  "previous_close": 856.9,
+  "open_price": 866.6,
+  "day_high": 877.9,
+  "day_low": 846.9,
+  "fifty_day_average": 930.049,
+  "two_hundred_day_average": 992.1355,
   "stock_splits": null,
-  "last_updated": "2026-03-02T14:38:37.050223",
+  "last_updated": "2026-03-11T16:11:05.153518",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 1022.5999755859375,
-      "open": 1038.5999755859375,
-      "high": 1040.699951171875,
-      "low": 1017.7000122070312,
-      "volume": 1544253
-    },
-    {
-      "date": "2025-12-03",
-      "close": 1012.5999755859375,
-      "open": 1024.0,
-      "high": 1027.300048828125,
-      "low": 1004.2000122070312,
-      "volume": 1508973
-    },
-    {
-      "date": "2025-12-04",
-      "close": 1013.4000244140625,
-      "open": 1013.7999877929688,
-      "high": 1027.0999755859375,
-      "low": 1006.7999877929688,
-      "volume": 1349599
-    },
-    {
-      "date": "2025-12-05",
-      "close": 1017.7000122070312,
-      "open": 1013.0999755859375,
-      "high": 1022.5,
-      "low": 1005.0999755859375,
-      "volume": 1190798
-    },
-    {
-      "date": "2025-12-08",
-      "close": 993.7999877929688,
-      "open": 1016.0999755859375,
-      "high": 1021.0,
-      "low": 990.0,
-      "volume": 1311474
-    },
-    {
-      "date": "2025-12-09",
-      "close": 998.9000244140625,
-      "open": 993.9000244140625,
-      "high": 1010.5,
-      "low": 980.5999755859375,
-      "volume": 2593247
-    },
-    {
-      "date": "2025-12-10",
-      "close": 989.7999877929688,
-      "open": 1014.9000244140625,
-      "high": 1027.800048828125,
-      "low": 981.0,
-      "volume": 3913329
-    },
     {
       "date": "2025-12-11",
       "close": 1018.7999877929688,
@@ -531,11 +475,59 @@
     },
     {
       "date": "2026-03-02",
-      "close": 899.6500244140625,
+      "close": 903.5499877929688,
       "open": 915.0,
       "high": 926.9500122070312,
       "low": 880.25,
-      "volume": 2882111
+      "volume": 3482707
+    },
+    {
+      "date": "2026-03-04",
+      "close": 871.9500122070312,
+      "open": 880.0,
+      "high": 882.7999877929688,
+      "low": 867.0,
+      "volume": 1976974
+    },
+    {
+      "date": "2026-03-05",
+      "close": 884.5499877929688,
+      "open": 886.25,
+      "high": 889.75,
+      "low": 864.5999755859375,
+      "volume": 4655262
+    },
+    {
+      "date": "2026-03-06",
+      "close": 858.4000244140625,
+      "open": 879.5999755859375,
+      "high": 894.5499877929688,
+      "low": 855.1500244140625,
+      "volume": 5784124
+    },
+    {
+      "date": "2026-03-09",
+      "close": 854.1500244140625,
+      "open": 841.0,
+      "high": 858.0,
+      "low": 825.0,
+      "volume": 1922632
+    },
+    {
+      "date": "2026-03-10",
+      "close": 856.9000244140625,
+      "open": 875.0,
+      "high": 878.9500122070312,
+      "low": 843.25,
+      "volume": 3240047
+    },
+    {
+      "date": "2026-03-11",
+      "close": 849.6500244140625,
+      "open": 866.5999755859375,
+      "high": 877.9000244140625,
+      "low": 846.9000244140625,
+      "volume": 3005195
     }
   ]
 }

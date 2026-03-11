@@ -1,94 +1,38 @@
 {
   "symbol": "NDTV.NS",
   "name": "New Delhi Television Limited",
-  "current_price": 79.16,
+  "current_price": 76.9,
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": -5.758766,
+  "price_to_book": -5.5943546,
   "profit_margin": -0.56299,
   "operating_margin": -0.46812,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 177.95,
-  "fifty_two_week_low": 76.51,
-  "three_month_average_volume": 973199,
-  "market_cap": 8931205120,
-  "enterprise_value": 13526812672,
+  "fifty_two_week_low": 75.61,
+  "three_month_average_volume": 1002404,
+  "market_cap": 8676220928,
+  "enterprise_value": 13237981184,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
   "five_year_avg_dividend_yield": null,
-  "beta": 0.411,
+  "beta": 0.409,
   "sector": "Communication Services",
   "industry": "Broadcasting",
   "website": "https://www.ndtv.com",
   "description": "New Delhi Television Limited, together with its subsidiaries, operates as a news television and digital journalism company in India, the United States, Europe, and internationally. Its channels include NDTV 24X7, an English news channel; NDTV India, a Hindi news channel; NDTV Profit, a business news channel; NDTV World, a digital platform for global news; and regional channels, including NDTV Madhya Pradesh and Chhattisgarh, NDTV Rajasthan, and NDTV Marathi. It also provides consultancy for setting up channels in various markets. The company was incorporated in 1988 and is based in Noida, India. New Delhi Television Limited operates as a subsidiary of RRPR Holding Private Limited.",
-  "previous_close": 79.8,
-  "open_price": 76.51,
-  "day_high": 84.0,
-  "day_low": 76.51,
-  "fifty_day_average": 88.0496,
-  "two_hundred_day_average": 113.95453,
+  "previous_close": 77.24,
+  "open_price": 77.24,
+  "day_high": 78.82,
+  "day_low": 76.5,
+  "fifty_day_average": 85.606,
+  "two_hundred_day_average": 111.00278,
   "stock_splits": null,
-  "last_updated": "2026-03-02T16:56:12.795465",
+  "last_updated": "2026-03-11T16:12:08.985921",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 84.29000091552734,
-      "open": 85.3499984741211,
-      "high": 85.3499984741211,
-      "low": 84.0,
-      "volume": 58731
-    },
-    {
-      "date": "2025-12-03",
-      "close": 83.94000244140625,
-      "open": 84.0,
-      "high": 84.3499984741211,
-      "low": 83.1500015258789,
-      "volume": 64443
-    },
-    {
-      "date": "2025-12-04",
-      "close": 81.27999877929688,
-      "open": 84.25,
-      "high": 84.30000305175781,
-      "low": 80.16000366210938,
-      "volume": 123289
-    },
-    {
-      "date": "2025-12-05",
-      "close": 82.4800033569336,
-      "open": 82.0,
-      "high": 83.23999786376953,
-      "low": 80.51000213623047,
-      "volume": 88746
-    },
-    {
-      "date": "2025-12-08",
-      "close": 78.91000366210938,
-      "open": 81.5999984741211,
-      "high": 83.19000244140625,
-      "low": 77.41000366210938,
-      "volume": 207380
-    },
-    {
-      "date": "2025-12-09",
-      "close": 81.1500015258789,
-      "open": 78.02999877929688,
-      "high": 82.9000015258789,
-      "low": 77.11000061035156,
-      "volume": 336757
-    },
-    {
-      "date": "2025-12-10",
-      "close": 81.45999908447266,
-      "open": 82.75,
-      "high": 82.75,
-      "low": 80.5,
-      "volume": 107291
-    },
     {
       "date": "2025-12-11",
       "close": 81.33000183105469,
@@ -535,7 +479,55 @@
       "open": 76.51000213623047,
       "high": 84.0,
       "low": 76.51000213623047,
-      "volume": 228196
+      "volume": 228241
+    },
+    {
+      "date": "2026-03-04",
+      "close": 78.37000274658203,
+      "open": 78.98999786376953,
+      "high": 81.0,
+      "low": 77.06999969482422,
+      "volume": 176658
+    },
+    {
+      "date": "2026-03-05",
+      "close": 81.41999816894531,
+      "open": 78.88999938964844,
+      "high": 83.5,
+      "low": 76.4000015258789,
+      "volume": 828376
+    },
+    {
+      "date": "2026-03-06",
+      "close": 78.38999938964844,
+      "open": 81.2699966430664,
+      "high": 81.54000091552734,
+      "low": 77.61000061035156,
+      "volume": 216937
+    },
+    {
+      "date": "2026-03-09",
+      "close": 76.26000213623047,
+      "open": 76.0,
+      "high": 77.4000015258789,
+      "low": 75.61000061035156,
+      "volume": 176810
+    },
+    {
+      "date": "2026-03-10",
+      "close": 77.23999786376953,
+      "open": 77.80000305175781,
+      "high": 77.80000305175781,
+      "low": 76.0,
+      "volume": 156998
+    },
+    {
+      "date": "2026-03-11",
+      "close": 76.9000015258789,
+      "open": 77.23999786376953,
+      "high": 78.81999969482422,
+      "low": 76.5,
+      "volume": 174249
     }
   ]
 }

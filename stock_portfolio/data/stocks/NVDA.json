@@ -1,20 +1,20 @@
 {
   "symbol": "NVDA",
   "name": "NVIDIA Corporation",
-  "current_price": 178.875,
-  "pe_ratio": 36.430756,
-  "forward_pe": 16.57008,
+  "current_price": 184.77,
+  "pe_ratio": 37.708164,
+  "forward_pe": 17.116163,
   "peg_ratio": null,
-  "price_to_book": 27.638287,
+  "price_to_book": 28.549135,
   "profit_margin": 0.55603004,
   "operating_margin": 0.65024,
   "return_on_equity": 1.01485,
   "debt_to_equity": 7.255,
   "fifty_two_week_high": 212.19,
   "fifty_two_week_low": 86.62,
-  "three_month_average_volume": 176664581,
-  "market_cap": 4347557052416,
-  "enterprise_value": 4269881950208,
+  "three_month_average_volume": 176860132,
+  "market_cap": 4490835001344,
+  "enterprise_value": 4438766911488,
   "dividend_yield": 0.02,
   "dividend_rate": 0.04,
   "payout_ratio": 0.0082,
@@ -24,31 +24,15 @@
   "industry": "Semiconductors",
   "website": "https://www.nvidia.com",
   "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
-  "previous_close": 177.885,
-  "open_price": 176.83,
-  "day_high": 179.35,
-  "day_low": 175.56,
-  "fifty_day_average": 186.006,
-  "two_hundred_day_average": 176.1357,
+  "previous_close": 182.65,
+  "open_price": 182.4,
+  "day_high": 186.44,
+  "day_low": 182.0101,
+  "fifty_day_average": 185.798,
+  "two_hundred_day_average": 176.6419,
   "stock_splits": null,
-  "last_updated": "2026-03-09T20:33:41.724505",
+  "last_updated": "2026-03-11T16:12:10.830162",
   "historical_data": [
-    {
-      "date": "2025-12-09",
-      "close": 184.97000122070312,
-      "open": 185.55999755859375,
-      "high": 185.72000122070312,
-      "low": 183.32000732421875,
-      "volume": 144719700
-    },
-    {
-      "date": "2025-12-10",
-      "close": 183.77999877929688,
-      "open": 184.97000122070312,
-      "high": 185.47999572753906,
-      "low": 182.0399932861328,
-      "volume": 162785400
-    },
     {
       "date": "2025-12-11",
       "close": 180.92999267578125,
@@ -511,15 +495,23 @@
       "open": 179.83999633789062,
       "high": 182.75999450683594,
       "low": 176.82000732421875,
-      "volume": 188472400
+      "volume": 189021900
     },
     {
       "date": "2026-03-09",
-      "close": 178.875,
+      "close": 182.64999389648438,
       "open": 176.8300018310547,
-      "high": 179.35000610351562,
+      "high": 182.91000366210938,
       "low": 175.55999755859375,
-      "volume": 56313402
+      "volume": 177213600
+    },
+    {
+      "date": "2026-03-10",
+      "close": 184.77000427246094,
+      "open": 182.39999389648438,
+      "high": 186.44000244140625,
+      "low": 182.00999450683594,
+      "volume": 178696400
     }
   ]
 }

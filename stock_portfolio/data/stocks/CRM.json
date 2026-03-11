@@ -1,110 +1,38 @@
 {
   "symbol": "CRM",
   "name": "Salesforce, Inc.",
-  "current_price": 194.79,
-  "pe_ratio": 25.971998,
-  "forward_pe": 13.091737,
+  "current_price": 194.91,
+  "pe_ratio": 24.98846,
+  "forward_pe": 13.074908,
   "peg_ratio": null,
-  "price_to_book": 3.0795376,
+  "price_to_book": 3.061638,
   "profit_margin": 0.17958,
   "operating_margin": 0.19239001,
   "return_on_equity": 0.123959996,
-  "debt_to_equity": 29.042,
-  "fifty_two_week_high": 303.07,
+  "debt_to_equity": 29.947,
+  "fifty_two_week_high": 296.05,
   "fifty_two_week_low": 174.57,
-  "three_month_average_volume": 11181410,
-  "market_cap": 185440075776,
-  "enterprise_value": 189739646976,
+  "three_month_average_volume": 11171149,
+  "market_cap": 182630678528,
+  "enterprise_value": 188047933440,
   "dividend_yield": 0.9,
   "dividend_rate": 1.76,
-  "payout_ratio": 0.22,
+  "payout_ratio": 0.2133,
   "five_year_avg_dividend_yield": null,
-  "beta": 1.276,
+  "beta": 1.307,
   "sector": "Technology",
   "industry": "Software - Application",
   "website": "https://www.salesforce.com",
-  "description": "Salesforce, Inc. provides customer relationship management technology that connects companies and customers together worldwide. The company offers Agentforce, an agentic layer of the salesforce platform; Data Cloud, a data engine; Industries AI for creating industry-specific AI agents with Agentforce; Salesforce Starter, a suite of solution for small and medium-size business; Slack, a workplace communication and productivity platform; Tableau, an end-to-end analytics solution for range of enterprise use cases and intelligent analytics with AI models, spot trends, predict outcomes, timely recommendations, and take action from any device; and integration and analytics solutions, as well as Agentforce Command Center, an observability solution to manage, track, and scale AI agent activity. It also provides marketing platform; commerce services, which empowers shopping experience across various customer touchpoint; and field service solution that enables companies to connect service agents, dispatchers, and mobile employees through one centralized platform to schedule and dispatch work, as well as track and manage jobs. The company has a strategic partnership with Google to integrate Agentforce 360 with Google Workspace for sales and IT service, which expands the Salesforce Gemini integration. Salesforce, Inc. was incorporated in 1999 and is headquartered in San Francisco, California.",
-  "previous_close": 199.47,
-  "open_price": 191.91,
-  "day_high": 195.92,
-  "day_low": 189.9248,
-  "fifty_day_average": 225.7012,
-  "two_hundred_day_average": 247.16956,
+  "description": "Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time. It also provides marketing platforms; commerce services, which empower shopping experiences across various customer touchpoints; integration and analytics solutions; Salesforce Starter, a suite for small and medium-sized businesses that brings sales, service, marketing, and commerce together; and a field service solution that enables companies to connect service agents, dispatchers, and mobile employees through one centralized platform to schedule and dispatch work, as well as track and manage jobs. It serves financial services, healthcare and life sciences, manufacturing, automotive, and government sectors. Salesforce, Inc. was incorporated in 1999 and is headquartered in San Francisco, California.",
+  "previous_close": 198.79,
+  "open_price": 197.26,
+  "day_high": 199.51,
+  "day_low": 190.6,
+  "fifty_day_average": 216.8042,
+  "two_hundred_day_average": 243.967,
   "stock_splits": null,
-  "last_updated": "2026-03-02T16:30:22.026318",
+  "last_updated": "2026-03-11T16:11:27.605076",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 230.16847229003906,
-      "open": 228.63096074180987,
-      "high": 232.18522127482206,
-      "low": 228.26156188105725,
-      "volume": 3691500
-    },
-    {
-      "date": "2025-12-01",
-      "close": 232.4547882080078,
-      "open": 228.30148853607872,
-      "high": 233.87249800065496,
-      "low": 228.23160926528996,
-      "volume": 5634700
-    },
-    {
-      "date": "2025-12-02",
-      "close": 234.33177185058594,
-      "open": 232.64449284586362,
-      "high": 236.2686327464416,
-      "low": 231.24673980347964,
-      "volume": 7626200
-    },
-    {
-      "date": "2025-12-03",
-      "close": 238.33529663085938,
-      "open": 234.98071076435025,
-      "high": 238.8744197012809,
-      "low": 232.78425917853812,
-      "volume": 13782000
-    },
-    {
-      "date": "2025-12-04",
-      "close": 247.06121826171875,
-      "open": 243.2972894524746,
-      "high": 248.5687793718207,
-      "low": 237.21710730737183,
-      "volume": 20912100
-    },
-    {
-      "date": "2025-12-05",
-      "close": 260.15008544921875,
-      "open": 250.42577647236214,
-      "high": 261.4579718798408,
-      "low": 249.0979180071859,
-      "volume": 15852400
-    },
-    {
-      "date": "2025-12-08",
-      "close": 259.11175537109375,
-      "open": 261.4579743418438,
-      "high": 263.8541005481511,
-      "low": 255.92689375155607,
-      "volume": 10805400
-    },
-    {
-      "date": "2025-12-09",
-      "close": 260.5993347167969,
-      "open": 259.580989495859,
-      "high": 261.8273634434193,
-      "low": 258.5826010747211,
-      "volume": 8045900
-    },
-    {
-      "date": "2025-12-10",
-      "close": 263.77423095703125,
-      "open": 260.3297787441035,
-      "high": 265.5014234121082,
-      "low": 258.73235118929074,
-      "volume": 8894700
-    },
     {
       "date": "2025-12-11",
       "close": 261.9272155761719,
@@ -527,7 +455,63 @@
       "open": 191.91000366210938,
       "high": 195.9199981689453,
       "low": 189.9199981689453,
-      "volume": 16330600
+      "volume": 16346500
+    },
+    {
+      "date": "2026-03-02",
+      "close": 192.9499969482422,
+      "open": 192.5,
+      "high": 195.94000244140625,
+      "low": 190.67999267578125,
+      "volume": 9932700
+    },
+    {
+      "date": "2026-03-03",
+      "close": 196.0500030517578,
+      "open": 190.75,
+      "high": 198.6699981689453,
+      "low": 189.5800018310547,
+      "volume": 13208900
+    },
+    {
+      "date": "2026-03-04",
+      "close": 193.0800018310547,
+      "open": 195.10000610351562,
+      "high": 196.47000122070312,
+      "low": 192.10000610351562,
+      "volume": 11583700
+    },
+    {
+      "date": "2026-03-05",
+      "close": 201.38999938964844,
+      "open": 194.36000061035156,
+      "high": 204.4199981689453,
+      "low": 194.24000549316406,
+      "volume": 15860900
+    },
+    {
+      "date": "2026-03-06",
+      "close": 202.11000061035156,
+      "open": 200.7899932861328,
+      "high": 202.9600067138672,
+      "low": 197.3699951171875,
+      "volume": 9657400
+    },
+    {
+      "date": "2026-03-09",
+      "close": 198.7899932861328,
+      "open": 198.55999755859375,
+      "high": 203.6699981689453,
+      "low": 195.8699951171875,
+      "volume": 10754800
+    },
+    {
+      "date": "2026-03-10",
+      "close": 194.91000366210938,
+      "open": 197.25999450683594,
+      "high": 199.57000732421875,
+      "low": 190.60000610351562,
+      "volume": 14456600
     }
   ]
 }

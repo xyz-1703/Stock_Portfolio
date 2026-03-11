@@ -1,21 +1,21 @@
 {
   "symbol": "C",
   "name": "Citigroup Inc.",
-  "current_price": 106.59,
-  "pe_ratio": 15.248927,
-  "forward_pe": 8.823675,
+  "current_price": 108.97,
+  "pe_ratio": 15.611748,
+  "forward_pe": 9.008265,
   "peg_ratio": null,
-  "price_to_book": 0.9689472,
+  "price_to_book": 0.99058235,
   "profit_margin": 0.18893999,
   "operating_margin": 0.25656998,
   "return_on_equity": 0.06831,
   "debt_to_equity": null,
   "fifty_two_week_high": 125.16,
   "fifty_two_week_low": 55.51,
-  "three_month_average_volume": 14911720,
-  "market_cap": 186459914240,
-  "enterprise_value": -4458086912,
-  "dividend_yield": 2.25,
+  "three_month_average_volume": 15030898,
+  "market_cap": 190623301632,
+  "enterprise_value": -294707584,
+  "dividend_yield": 2.2,
   "dividend_rate": 2.4,
   "payout_ratio": 0.3319,
   "five_year_avg_dividend_yield": 3.46,
@@ -24,23 +24,15 @@
   "industry": "Banks - Diversified",
   "website": "https://www.citigroup.com",
   "description": "Citigroup Inc., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governments, and institutions. It operates through five segments: Services, Markets, Banking, U.S. Personal Banking, and Wealth. The Services segment includes treasury and trade solutions, which provides cash management, trade, and working capital solutions to multinational corporations, financial institutions, and public sector organizations; and securities services, such as cross-border support for clients, local market expertise, post-trade technologies, data solutions, and various securities services solutions. The Markets segment offers sales and trading services for equities, foreign exchange, rates, spread products, and commodities to corporate, institutional, and public sector clients; and market-making services, including asset classes, risk management solutions, financing, and prime brokerage. The Banking segment includes investment banking services comprising equity and debt capital markets-related strategic financing solutions; advisory services related to mergers and acquisitions, divestitures, restructurings, and corporate defense activities; and corporate lending consists of corporate and commercial banking. The U.S. Personal Banking segment provides proprietary and co-branded card portfolios; and traditional banking services to retail and small business customers. The Wealth segment offers financial services to high-net-worth clients through banking, lending, mortgages, investment, custody, and trust product offerings; professional industries, including law firms, consulting groups, accounting, and asset management; and affluent and high net worth clients. The company operates in North America, the United Kingdom, Japan, North and South Asia, Australia, Europe, the Middle East, and Africa. Citigroup Inc. was founded in 1812 and is headquartered in New York, New York.",
-  "previous_close": 106.53,
-  "open_price": 104.45,
-  "day_high": 107.05,
-  "day_low": 102.0106,
-  "fifty_day_average": 115.7538,
-  "two_hundred_day_average": 100.0804,
+  "previous_close": 106.59,
+  "open_price": 108.41,
+  "day_high": 110.91,
+  "day_low": 107.37,
+  "fifty_day_average": 115.502,
+  "two_hundred_day_average": 100.25815,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:10:46.312062",
+  "last_updated": "2026-03-11T16:11:26.894813",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 111.08999633789062,
-      "open": 109.36000061035156,
-      "high": 111.91000366210938,
-      "low": 109.26000213623047,
-      "volume": 16584300
-    },
     {
       "date": "2025-12-11",
       "close": 111.73999786376953,
@@ -511,7 +503,15 @@
       "open": 104.44999694824219,
       "high": 107.05000305175781,
       "low": 102.01000213623047,
-      "volume": 18508300
+      "volume": 18525600
+    },
+    {
+      "date": "2026-03-10",
+      "close": 108.97000122070312,
+      "open": 108.41000366210938,
+      "high": 110.91000366210938,
+      "low": 107.37000274658203,
+      "volume": 17843900
     }
   ]
 }

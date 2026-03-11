@@ -1,110 +1,38 @@
 {
   "symbol": "IBM",
   "name": "International Business Machines Corporation",
-  "current_price": 240.21,
-  "pe_ratio": 21.543499,
-  "forward_pe": 17.90178,
+  "current_price": 250.2,
+  "pe_ratio": 22.479784,
+  "forward_pe": 18.646288,
   "peg_ratio": null,
-  "price_to_book": 6.890311,
+  "price_to_book": 7.18037,
   "profit_margin": 0.15685001,
-  "operating_margin": 0.23122999,
+  "operating_margin": 0.24768999,
   "return_on_equity": 0.35158002,
   "debt_to_equity": 197.328,
   "fifty_two_week_high": 324.9,
   "fifty_two_week_low": 214.5,
-  "three_month_average_volume": 5165798,
-  "market_cap": 224532758528,
-  "enterprise_value": 275239665664,
-  "dividend_yield": 2.8,
+  "three_month_average_volume": 5629823,
+  "market_cap": 234696212480,
+  "enterprise_value": 284979200000,
+  "dividend_yield": 2.69,
   "dividend_rate": 6.72,
   "payout_ratio": 0.6023,
   "five_year_avg_dividend_yield": 4.01,
-  "beta": 0.691,
+  "beta": 0.706,
   "sector": "Technology",
   "industry": "Information Technology Services",
   "website": "https://www.ibm.com",
   "description": "International Business Machines Corporation, together with its subsidiaries, provides integrated solutions and services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through Software, Consulting, Infrastructure, and Financing segments. The Software segment offers hybrid cloud and AI platforms that allow clients to realize their digital and AI transformations across the applications, data, and environments in which they operate. The Consulting segment delivers strategy and technology services and intelligent operations, providing business transformation, technology implementation, managed services, application modernization, and AI-powered solutions. The Infrastructure segment provides on-premises and cloud-based server, and storage solutions, as well as life-cycle services for hybrid cloud infrastructure deployment. Its Financing segment offers client and commercial financing, and facilitates IBM clients' acquisition of hardware, software, and services. It has strategic partnerships with various companies, including hyperscalers, service providers, global system integrators, and software and hardware vendors that include Adobe, Amazon Web Services, Microsoft, Oracle, Salesforce, Samsung Electronics and SAP, and others. The company was formerly known as Computing-Tabulating-Recording Co. International Business Machines Corporation was incorporated in 1911 and is headquartered in Armonk, New York.",
-  "previous_close": 242.01,
-  "open_price": 238.07,
-  "day_high": 240.21,
-  "day_low": 234.565,
-  "fifty_day_average": 287.9946,
-  "two_hundred_day_average": 279.967,
+  "previous_close": 253.33,
+  "open_price": 253.26,
+  "day_high": 253.44,
+  "day_low": 246.6,
+  "fifty_day_average": 280.6862,
+  "two_hundred_day_average": 279.5048,
   "stock_splits": null,
-  "last_updated": "2026-02-28T21:14:38.395706",
+  "last_updated": "2026-03-11T16:11:55.206065",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 306.8305969238281,
-      "open": 302.33623245593253,
-      "high": 307.42720149609687,
-      "low": 301.8788487665064,
-      "volume": 1689000
-    },
-    {
-      "date": "2025-12-01",
-      "close": 303.9371032714844,
-      "open": 304.772337486428,
-      "high": 305.3788646976285,
-      "low": 301.0833484397177,
-      "volume": 3166600
-    },
-    {
-      "date": "2025-12-02",
-      "close": 300.06915283203125,
-      "open": 305.25956091213766,
-      "high": 308.7098900619631,
-      "low": 299.8603518568767,
-      "volume": 4261100
-    },
-    {
-      "date": "2025-12-03",
-      "close": 300.9043884277344,
-      "open": 301.1629241516555,
-      "high": 302.24674110603235,
-      "low": 297.21542957546126,
-      "volume": 3953400
-    },
-    {
-      "date": "2025-12-04",
-      "close": 306.2439270019531,
-      "open": 301.16291128519526,
-      "high": 307.85473800926525,
-      "low": 300.8248424615862,
-      "volume": 2962500
-    },
-    {
-      "date": "2025-12-05",
-      "close": 306.1942443847656,
-      "open": 306.84055336836906,
-      "high": 310.06217561219313,
-      "low": 305.4385432284832,
-      "volume": 2344700
-    },
-    {
-      "date": "2025-12-08",
-      "close": 307.42718505859375,
-      "open": 307.8646930318936,
-      "high": 313.5622193583429,
-      "low": 306.20417761263207,
-      "volume": 3630200
-    },
-    {
-      "date": "2025-12-09",
-      "close": 308.7198486328125,
-      "open": 307.87466135399,
-      "high": 312.190053537352,
-      "low": 306.9996453638947,
-      "volume": 2935300
-    },
-    {
-      "date": "2025-12-10",
-      "close": 310.8974304199219,
-      "open": 308.47126079484246,
-      "high": 312.9059677495568,
-      "low": 304.91153947110547,
-      "volume": 3411500
-    },
     {
       "date": "2025-12-11",
       "close": 308.9783630371094,
@@ -527,7 +455,63 @@
       "open": 238.07000732421875,
       "high": 240.2100067138672,
       "low": 234.57000732421875,
-      "volume": 6631100
+      "volume": 6642200
+    },
+    {
+      "date": "2026-03-02",
+      "close": 239.3699951171875,
+      "open": 235.6999969482422,
+      "high": 240.77999877929688,
+      "low": 233.77999877929688,
+      "volume": 6220300
+    },
+    {
+      "date": "2026-03-03",
+      "close": 245.27999877929688,
+      "open": 236.35000610351562,
+      "high": 246.08999633789062,
+      "low": 234.2899932861328,
+      "volume": 6960400
+    },
+    {
+      "date": "2026-03-04",
+      "close": 250.05999755859375,
+      "open": 245.75,
+      "high": 250.85000610351562,
+      "low": 244.9600067138672,
+      "volume": 6085000
+    },
+    {
+      "date": "2026-03-05",
+      "close": 256.54998779296875,
+      "open": 249.32000732421875,
+      "high": 260.3800048828125,
+      "low": 249.0,
+      "volume": 9894600
+    },
+    {
+      "date": "2026-03-06",
+      "close": 258.8500061035156,
+      "open": 256.44000244140625,
+      "high": 259.3999938964844,
+      "low": 252.2100067138672,
+      "volume": 6234400
+    },
+    {
+      "date": "2026-03-09",
+      "close": 253.3300018310547,
+      "open": 255.3800048828125,
+      "high": 258.0799865722656,
+      "low": 251.57000732421875,
+      "volume": 6126600
+    },
+    {
+      "date": "2026-03-10",
+      "close": 250.1999969482422,
+      "open": 253.25999450683594,
+      "high": 253.44000244140625,
+      "low": 246.5500030517578,
+      "volume": 4934500
     }
   ]
 }

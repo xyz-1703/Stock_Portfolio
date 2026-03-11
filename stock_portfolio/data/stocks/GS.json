@@ -1,20 +1,20 @@
 {
   "symbol": "GS",
   "name": "The Goldman Sachs Group, Inc.",
-  "current_price": 832.03,
-  "pe_ratio": 16.206272,
-  "forward_pe": 12.792196,
+  "current_price": 833.81,
+  "pe_ratio": 16.259945,
+  "forward_pe": 12.819563,
   "peg_ratio": null,
-  "price_to_book": 2.3340619,
+  "price_to_book": 2.339055,
   "profit_margin": 0.28917998,
   "operating_margin": 0.38319,
   "return_on_equity": 0.13861,
   "debt_to_equity": 596.073,
   "fifty_two_week_high": 984.7,
   "fifty_two_week_low": 439.38,
-  "three_month_average_volume": 2447893,
-  "market_cap": 249549520896,
-  "enterprise_value": 23106809856,
+  "three_month_average_volume": 2434177,
+  "market_cap": 250083393536,
+  "enterprise_value": 23655667712,
   "dividend_yield": 2.16,
   "dividend_rate": 18.0,
   "payout_ratio": 0.2728,
@@ -24,23 +24,15 @@
   "industry": "Capital Markets",
   "website": "https://www.goldmansachs.com",
   "description": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through three segments: Global Banking & Markets, Asset & Wealth Management, and Platform Solutions. The Global Banking & Markets segment provides financial advisory services, including strategic advisory assignments related to mergers and acquisitions, divestitures, corporate defense activities, restructurings, and spin-offs; equity and debt underwriting of public offerings and private placements; relationship lending and acquisition financing; secured lending through structured credit and asset-backed lending, such as warehouse, residential and commercial mortgage, corporate, consumer, auto, and student loans; financing through securities purchased under agreements to resell; and commodity financing through structured transactions. This segment also offers client execution activities for cash and derivative instruments; credit and interest rate products; and provision of mortgages, currencies, commodities, and equities related products. Its Asset & Wealth Management segment manages assets across various classes, including equity, fixed income, hedge funds, credit funds, private equity, real estate, currencies, commodities, and asset allocation strategies; and provides customized investment advisory solutions, wealth advisory services, personalized financial planning, and private banking services, as well as invests in corporate equity, credit, real estate, and infrastructure assets. The Platform Solutions segment offers credit cards; and transaction banking and other services, such as deposit-taking, payment solutions, and other cash management services for corporate and institutional clients. The Goldman Sachs Group, Inc. was founded in 1869 and is headquartered in New York, New York.",
-  "previous_close": 821.42,
-  "open_price": 810.0,
-  "day_high": 836.43,
-  "day_low": 795.0,
-  "fifty_day_average": 916.9372,
-  "two_hundred_day_average": 789.7232,
+  "previous_close": 832.03,
+  "open_price": 834.68,
+  "day_high": 846.0,
+  "day_low": 826.35,
+  "fifty_day_average": 915.3978,
+  "two_hundred_day_average": 790.9249,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:10:37.543255",
+  "last_updated": "2026-03-11T16:11:31.404027",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 884.5846557617188,
-      "open": 866.7882986217422,
-      "high": 892.5030055591475,
-      "low": 864.7192315185519,
-      "volume": 2394300
-    },
     {
       "date": "2025-12-11",
       "close": 906.2606201171875,
@@ -511,7 +503,15 @@
       "open": 810.0,
       "high": 836.6799926757812,
       "low": 795.0,
-      "volume": 3254000
+      "volume": 3258200
+    },
+    {
+      "date": "2026-03-10",
+      "close": 833.8099975585938,
+      "open": 834.6799926757812,
+      "high": 846.0900268554688,
+      "low": 826.3499755859375,
+      "volume": 1869600
     }
   ]
 }

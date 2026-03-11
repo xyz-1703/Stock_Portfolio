@@ -1,94 +1,38 @@
 {
   "symbol": "TCS.NS",
   "name": "Tata Consultancy Services Limited",
-  "current_price": 2605.2,
-  "pe_ratio": 19.755821,
-  "forward_pe": 16.95294,
+  "current_price": 2464.9,
+  "pe_ratio": 18.681976,
+  "forward_pe": 16.048363,
   "peg_ratio": null,
-  "price_to_book": 8.304035,
+  "price_to_book": 7.856831,
   "profit_margin": 0.18295999,
   "operating_margin": 0.25179002,
   "return_on_equity": 0.42635,
   "debt_to_equity": 9.444,
   "fifty_two_week_high": 3710.0,
-  "fifty_two_week_low": 2561.3,
-  "three_month_average_volume": 3431024,
-  "market_cap": 9425841553408,
-  "enterprise_value": 9093854003200,
-  "dividend_yield": 2.39,
+  "fifty_two_week_low": 2460.1,
+  "three_month_average_volume": 3470781,
+  "market_cap": 8918223814656,
+  "enterprise_value": 8644125523968,
+  "dividend_yield": 2.51,
   "dividend_rate": 63.0,
   "payout_ratio": 0.4701,
   "five_year_avg_dividend_yield": 1.41,
-  "beta": 0.25,
+  "beta": 0.199,
   "sector": "Technology",
   "industry": "Information Technology Services",
   "website": "https://www.tcs.com",
   "description": "Tata Consultancy Services Limited provides information technology (IT) and IT enabled services in the Americas, Europe, India, and internationally. The company provides TCS ADD, a suite of AI powered life sciences platforms; TCS BaNCS, a financial services platform; TCS BFSI Platforms, a cloud-native, as-a-service digital ecosystem for insurers and financial firms; TCS Chroma, a cloud-based human resource management system platform; TCS Customer Intelligence & Insights, an AI-driven customer analytics and real-time CDP solution; TCS ERP on Cloud, an SAP platform as a service; ignio, a cognitive automation software product; TCS iON, a learning ecosystem; and TCS HOBS, a cloud-native, catalog-centric platform for personalization of products and processes. It also offers TCS Intelligent Urban Exchange for enterprises and smart cities; TCS OmniStore, a retail commerce platform; TCS Optumera, a retail-connected strategic intelligence platform; TCS Tap, a platform for intelligent procurement; Quartz, a distributed ledger technology; TCS TwinX, an enterprise digital twin platform; TCS MasterCraft, an AI-driven cognitive automation product; Jile, an enterprise agile planning and delivery tool; and TCS DigiBOLT, an end-to-end, organization-wide enterprise platform. In addition, the company provides cloud, cognitive business, consulting, cybersecurity, data and analytics, enterprise solutions, IoT and digital engineering, TCS interactive, artificial intelligence, network solutions, and sustainability services. It serves banking; capital markets; consumer packaged goods and distribution; communications, media, and information services; education; energy, resources, and utilities; healthcare; high tech; insurance; life sciences; manufacturing; public services; retail; and travel and logistics industries. The company was founded in 1968 and is based in Mumbai, India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Private Limited.",
-  "previous_close": 2637.4,
-  "open_price": 2592.0,
-  "day_high": 2623.8,
-  "day_low": 2580.3,
-  "fifty_day_average": 3052.514,
-  "two_hundred_day_average": 3137.764,
+  "previous_close": 2513.1,
+  "open_price": 2508.1,
+  "day_high": 2521.0,
+  "day_low": 2460.1,
+  "fifty_day_average": 2953.698,
+  "two_hundred_day_average": 3106.7534,
   "stock_splits": null,
-  "last_updated": "2026-03-02T14:07:42.583368",
+  "last_updated": "2026-03-11T16:12:31.099736",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 3079.714111328125,
-      "open": 3075.0980746626374,
-      "high": 3087.8659682974553,
-      "low": 3064.6872347092776,
-      "volume": 2512003
-    },
-    {
-      "date": "2025-12-03",
-      "close": 3123.22314453125,
-      "open": 3083.9373188138757,
-      "high": 3154.5534946281955,
-      "low": 3082.9551731709416,
-      "volume": 3952112
-    },
-    {
-      "date": "2025-12-04",
-      "close": 3171.544677734375,
-      "open": 3136.9731988901626,
-      "high": 3191.9733551637537,
-      "low": 3130.4909417024,
-      "volume": 5025905
-    },
-    {
-      "date": "2025-12-05",
-      "close": 3180.384033203125,
-      "open": 3172.330486734928,
-      "high": 3213.187842167148,
-      "low": 3164.866083794654,
-      "volume": 5244013
-    },
-    {
-      "date": "2025-12-08",
-      "close": 3178.71435546875,
-      "open": 3185.0983021118977,
-      "high": 3201.6964674714213,
-      "low": 3151.3125880977464,
-      "volume": 2544725
-    },
-    {
-      "date": "2025-12-09",
-      "close": 3151.01806640625,
-      "open": 3172.330579931189,
-      "high": 3175.964471029267,
-      "low": 3124.401822284255,
-      "volume": 2734893
-    },
-    {
-      "date": "2025-12-10",
-      "close": 3132.259033203125,
-      "open": 3167.41989738469,
-      "high": 3167.41989738469,
-      "low": 3121.357359750894,
-      "volume": 1386849
-    },
     {
       "date": "2025-12-11",
       "close": 3134.91064453125,
@@ -531,11 +475,59 @@
     },
     {
       "date": "2026-03-02",
-      "close": 2605.300048828125,
+      "close": 2613.5,
       "open": 2592.0,
       "high": 2623.800048828125,
       "low": 2580.300048828125,
-      "volume": 2384393
+      "volume": 3374385
+    },
+    {
+      "date": "2026-03-04",
+      "close": 2587.800048828125,
+      "open": 2625.0,
+      "high": 2635.0,
+      "low": 2580.39990234375,
+      "volume": 3446434
+    },
+    {
+      "date": "2026-03-05",
+      "close": 2578.800048828125,
+      "open": 2600.0,
+      "high": 2609.5,
+      "low": 2546.39990234375,
+      "volume": 2960636
+    },
+    {
+      "date": "2026-03-06",
+      "close": 2557.60009765625,
+      "open": 2572.0,
+      "high": 2619.199951171875,
+      "low": 2553.60009765625,
+      "volume": 3998643
+    },
+    {
+      "date": "2026-03-09",
+      "close": 2527.39990234375,
+      "open": 2530.0,
+      "high": 2560.0,
+      "low": 2505.0,
+      "volume": 3653428
+    },
+    {
+      "date": "2026-03-10",
+      "close": 2513.10009765625,
+      "open": 2541.0,
+      "high": 2545.199951171875,
+      "low": 2490.10009765625,
+      "volume": 4323710
+    },
+    {
+      "date": "2026-03-11",
+      "close": 2464.89990234375,
+      "open": 2508.10009765625,
+      "high": 2521.0,
+      "low": 2460.10009765625,
+      "volume": 2719016
     }
   ]
 }

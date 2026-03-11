@@ -1,0 +1,517 @@
+{
+  "symbol": "GOLD",
+  "name": "Gold.com, Inc.",
+  "current_price": 50.65,
+  "pe_ratio": 105.520836,
+  "forward_pe": null,
+  "peg_ratio": null,
+  "price_to_book": 1.9287157,
+  "profit_margin": 0.0008,
+  "operating_margin": 0.00402,
+  "return_on_equity": 0.020380002,
+  "debt_to_equity": 129.618,
+  "fifty_two_week_high": 66.7,
+  "fifty_two_week_low": 19.39,
+  "three_month_average_volume": 847333,
+  "market_cap": 1425161344,
+  "enterprise_value": 2103020672,
+  "dividend_yield": 1.58,
+  "dividend_rate": 0.8,
+  "payout_ratio": 1.6667,
+  "five_year_avg_dividend_yield": null,
+  "beta": 0.406,
+  "sector": "Financial Services",
+  "industry": "Capital Markets",
+  "website": "https://www.Gold.com",
+  "description": "Gold.com, Inc., together with its subsidiaries, operates as a precious metals company. It operates through three segments: Wholesale Sales & Ancillary Services, Direct-to-Consumer, and Secured Lending. The Wholesale Sales & Ancillary Services segment sells gold, silver, platinum, and palladium in the form of bars, plates, powders, wafers, grains, ingots, and coins. This segment also offers complementary services, such as receiving, handling, inventorying, processing, packing, and shipping of precious metals and custom coins on a secure basis; and designs and produces minted silver products. The Direct-to-Consumer segment provides access to gold, silver, copper, platinum, and palladium products primarily through its websites; rarities and numismatic collections; and numismatic and bullion products. It operates various websites targeting specific niches within the precious metals retail market. This segment also operates as a direct retailer of precious metals to the investor community and markets its precious metal products on television, radio, and the internet, as well as through customer service outreach. The Secured Lending segment originates and acquires commercial loans secured by bullion, numismatic coins, and graded sports cards. The company serves customers, including financial institutions, bullion retailers, industrial manufacturers and fabricators, sovereign mints, refiners, coin and metal dealers, investors, collectors, and e-commerce and other retail customers. It operates in the United States, Europe, Canada, Asia Pacific, Africa, Australia, and South America. The company was formerly known as A-Mark Precious Metals, Inc. and changed its name to Gold.com, Inc. in December 2025. The company was founded in 1965 and is headquartered in Costa Mesa, California.",
+  "previous_close": 50.1,
+  "open_price": 50.49,
+  "day_high": 52.55,
+  "day_low": 50.01,
+  "fifty_day_average": 49.1324,
+  "two_hundred_day_average": 31.043474,
+  "stock_splits": null,
+  "last_updated": "2026-03-11T16:19:44.050856",
+  "historical_data": [
+    {
+      "date": "2025-12-11",
+      "close": 31.273027420043945,
+      "open": 30.665108150592445,
+      "high": 31.910847007205593,
+      "low": 30.665108150592445,
+      "volume": 523800
+    },
+    {
+      "date": "2025-12-12",
+      "close": 31.611867904663086,
+      "open": 31.890914087231135,
+      "high": 32.329412787321004,
+      "low": 30.92422143826672,
+      "volume": 963200
+    },
+    {
+      "date": "2025-12-15",
+      "close": 31.641767501831055,
+      "open": 32.289553239081314,
+      "high": 32.38921082864596,
+      "low": 30.545516908999854,
+      "volume": 887300
+    },
+    {
+      "date": "2025-12-16",
+      "close": 32.05036926269531,
+      "open": 31.641767068368367,
+      "high": 32.518768290957894,
+      "low": 31.3328243630875,
+      "volume": 818900
+    },
+    {
+      "date": "2025-12-17",
+      "close": 32.58852767944336,
+      "open": 32.449005542494845,
+      "high": 32.648320708596664,
+      "low": 31.19329870657203,
+      "volume": 786700
+    },
+    {
+      "date": "2025-12-18",
+      "close": 32.518768310546875,
+      "open": 32.887505949138855,
+      "high": 33.5452559160539,
+      "low": 32.431067047727105,
+      "volume": 864900
+    },
+    {
+      "date": "2025-12-19",
+      "close": 33.046958923339844,
+      "open": 32.53869916277789,
+      "high": 34.30266196817669,
+      "low": 32.46893809371435,
+      "volume": 1277500
+    },
+    {
+      "date": "2025-12-22",
+      "close": 33.61501693725586,
+      "open": 33.21638278312853,
+      "high": 34.02361913121001,
+      "low": 33.086824877232836,
+      "volume": 1109800
+    },
+    {
+      "date": "2025-12-23",
+      "close": 33.62498474121094,
+      "open": 33.585120185569856,
+      "high": 34.59167550450089,
+      "low": 33.585120185569856,
+      "volume": 1242000
+    },
+    {
+      "date": "2025-12-24",
+      "close": 34.67140579223633,
+      "open": 33.73460771135031,
+      "high": 35.040143440194974,
+      "low": 33.28614475109757,
+      "volume": 632900
+    },
+    {
+      "date": "2025-12-26",
+      "close": 34.47208786010742,
+      "open": 35.37898565005518,
+      "high": 35.58826887811385,
+      "low": 33.64491538488479,
+      "volume": 519400
+    },
+    {
+      "date": "2025-12-29",
+      "close": 33.30607223510742,
+      "open": 33.6349491179625,
+      "high": 33.93691761573356,
+      "low": 32.64832227109056,
+      "volume": 543700
+    },
+    {
+      "date": "2025-12-30",
+      "close": 33.33597183227539,
+      "open": 33.654880668439475,
+      "high": 33.774470531577705,
+      "low": 33.02702723400065,
+      "volume": 478900
+    },
+    {
+      "date": "2025-12-31",
+      "close": 33.93392562866211,
+      "open": 34.023618978233806,
+      "high": 34.24287023311869,
+      "low": 33.435630086973404,
+      "volume": 401800
+    },
+    {
+      "date": "2026-01-02",
+      "close": 34.65147399902344,
+      "open": 34.18307495202063,
+      "high": 34.820892666079416,
+      "low": 33.93392716986058,
+      "volume": 368100
+    },
+    {
+      "date": "2026-01-05",
+      "close": 36.20615768432617,
+      "open": 35.74772287388923,
+      "high": 36.52606258641884,
+      "low": 34.45215516141297,
+      "volume": 585800
+    },
+    {
+      "date": "2026-01-06",
+      "close": 37.920291900634766,
+      "open": 36.275918810018624,
+      "high": 37.93025994092634,
+      "low": 35.87728083561221,
+      "volume": 693100
+    },
+    {
+      "date": "2026-01-07",
+      "close": 37.75086975097656,
+      "open": 37.621311850989144,
+      "high": 37.9701171951555,
+      "low": 36.417429689276226,
+      "volume": 467500
+    },
+    {
+      "date": "2026-01-08",
+      "close": 37.940223693847656,
+      "open": 37.17284807403932,
+      "high": 38.16943919560441,
+      "low": 36.99346136802213,
+      "volume": 351900
+    },
+    {
+      "date": "2026-01-09",
+      "close": 38.8670539855957,
+      "open": 38.079746082199,
+      "high": 39.34541727075367,
+      "low": 38.0299172861459,
+      "volume": 569100
+    },
+    {
+      "date": "2026-01-12",
+      "close": 42.683998107910156,
+      "open": 40.83033807665158,
+      "high": 43.27198319998497,
+      "low": 40.252313421014684,
+      "volume": 1172900
+    },
+    {
+      "date": "2026-01-13",
+      "close": 41.53791809082031,
+      "open": 43.132462358499374,
+      "high": 43.34174938250815,
+      "low": 40.955909243032785,
+      "volume": 797300
+    },
+    {
+      "date": "2026-01-14",
+      "close": 39.68425750732422,
+      "open": 41.93655553416047,
+      "high": 42.355121973556926,
+      "low": 38.94678221837998,
+      "volume": 983900
+    },
+    {
+      "date": "2026-01-15",
+      "close": 39.953338623046875,
+      "open": 39.31552090701185,
+      "high": 40.30214399847432,
+      "low": 38.498316483130296,
+      "volume": 453200
+    },
+    {
+      "date": "2026-01-16",
+      "close": 41.76713180541992,
+      "open": 40.959891665978446,
+      "high": 42.15081769658882,
+      "low": 40.45163189042191,
+      "volume": 643700
+    },
+    {
+      "date": "2026-01-20",
+      "close": 41.9963493347168,
+      "open": 42.335190468764026,
+      "high": 43.131466563521,
+      "low": 41.85682718570207,
+      "volume": 636700
+    },
+    {
+      "date": "2026-01-21",
+      "close": 42.524539947509766,
+      "open": 42.27539217523227,
+      "high": 42.89328138769963,
+      "low": 40.76057706527522,
+      "volume": 541300
+    },
+    {
+      "date": "2026-01-22",
+      "close": 43.70051956176758,
+      "open": 42.72386070985686,
+      "high": 44.1489863309341,
+      "low": 42.67403191365913,
+      "volume": 495400
+    },
+    {
+      "date": "2026-01-23",
+      "close": 42.963043212890625,
+      "open": 43.850008689474976,
+      "high": 44.15895330112407,
+      "low": 42.46474765960114,
+      "volume": 520900
+    },
+    {
+      "date": "2026-01-26",
+      "close": 43.94966506958008,
+      "open": 43.85000748234297,
+      "high": 44.32139463698851,
+      "low": 42.55443983979421,
+      "volume": 858300
+    },
+    {
+      "date": "2026-01-27",
+      "close": 50.97563552856445,
+      "open": 44.2785422194908,
+      "high": 52.74358638013389,
+      "low": 44.2785422194908,
+      "volume": 2113900
+    },
+    {
+      "date": "2026-01-28",
+      "close": 53.80595397949219,
+      "open": 52.121712624415494,
+      "high": 55.44036273930916,
+      "low": 51.82273606132343,
+      "volume": 1617100
+    },
+    {
+      "date": "2026-01-29",
+      "close": 53.34751892089844,
+      "open": 56.31735986222135,
+      "high": 57.46344111684328,
+      "low": 52.121712357317364,
+      "volume": 1837900
+    },
+    {
+      "date": "2026-01-30",
+      "close": 51.673248291015625,
+      "open": 50.93577298774307,
+      "high": 53.138238460753065,
+      "low": 49.92124167178612,
+      "volume": 1132700
+    },
+    {
+      "date": "2026-02-02",
+      "close": 51.11515808105469,
+      "open": 50.22819261640503,
+      "high": 51.20485143150765,
+      "low": 47.53739590450952,
+      "volume": 1190900
+    },
+    {
+      "date": "2026-02-03",
+      "close": 52.52035140991211,
+      "open": 52.68977007106568,
+      "high": 53.02861119506615,
+      "low": 50.61686257259302,
+      "volume": 865800
+    },
+    {
+      "date": "2026-02-04",
+      "close": 51.304508209228516,
+      "open": 52.84922361888635,
+      "high": 53.397351752820356,
+      "low": 49.95911177539275,
+      "volume": 704200
+    },
+    {
+      "date": "2026-02-05",
+      "close": 50.17835998535156,
+      "open": 49.00238219209765,
+      "high": 51.10020978724398,
+      "low": 48.83296353118998,
+      "volume": 634500
+    },
+    {
+      "date": "2026-02-06",
+      "close": 55.13142013549805,
+      "open": 52.65987462839158,
+      "high": 57.43354697799692,
+      "low": 50.53713449059097,
+      "volume": 1371000
+    },
+    {
+      "date": "2026-02-09",
+      "close": 63.92135238647461,
+      "open": 57.084736849236506,
+      "high": 66.4726231630346,
+      "low": 56.795728320243484,
+      "volume": 2042600
+    },
+    {
+      "date": "2026-02-10",
+      "close": 62.37663650512695,
+      "open": 64.77842088111278,
+      "high": 66.41980957013996,
+      "low": 62.077659938322014,
+      "volume": 1368900
+    },
+    {
+      "date": "2026-02-11",
+      "close": 62.65568161010742,
+      "open": 64.03097839735749,
+      "high": 66.27330838014433,
+      "low": 57.92187386866854,
+      "volume": 1187100
+    },
+    {
+      "date": "2026-02-12",
+      "close": 57.5033073425293,
+      "open": 62.785239422495835,
+      "high": 63.28851899345188,
+      "low": 56.95518299679856,
+      "volume": 919300
+    },
+    {
+      "date": "2026-02-13",
+      "close": 60.702362060546875,
+      "open": 58.479964425564205,
+      "high": 61.65908857752992,
+      "low": 56.59640790722469,
+      "volume": 1069400
+    },
+    {
+      "date": "2026-02-17",
+      "close": 58.48992919921875,
+      "open": 59.62604622544608,
+      "high": 59.62604622544608,
+      "low": 55.02179269212253,
+      "volume": 1115200
+    },
+    {
+      "date": "2026-02-18",
+      "close": 57.57306671142578,
+      "open": 58.79887327433154,
+      "high": 59.25332008073598,
+      "low": 56.626304432263154,
+      "volume": 725900
+    },
+    {
+      "date": "2026-02-19",
+      "close": 58.46999740600586,
+      "open": 57.573067706320685,
+      "high": 58.97826099068476,
+      "low": 56.277500050091014,
+      "volume": 697400
+    },
+    {
+      "date": "2026-02-20",
+      "close": 58.81999969482422,
+      "open": 57.849998474121094,
+      "high": 59.970001220703125,
+      "low": 57.279998779296875,
+      "volume": 743400
+    },
+    {
+      "date": "2026-02-23",
+      "close": 56.97999954223633,
+      "open": 59.0,
+      "high": 60.599998474121094,
+      "low": 56.31999969482422,
+      "volume": 758800
+    },
+    {
+      "date": "2026-02-24",
+      "close": 56.959999084472656,
+      "open": 56.0,
+      "high": 57.43000030517578,
+      "low": 54.150001525878906,
+      "volume": 652200
+    },
+    {
+      "date": "2026-02-25",
+      "close": 56.18000030517578,
+      "open": 57.58000183105469,
+      "high": 58.16999816894531,
+      "low": 54.9900016784668,
+      "volume": 600900
+    },
+    {
+      "date": "2026-02-26",
+      "close": 56.380001068115234,
+      "open": 55.41999816894531,
+      "high": 56.720001220703125,
+      "low": 54.505001068115234,
+      "volume": 515800
+    },
+    {
+      "date": "2026-02-27",
+      "close": 57.470001220703125,
+      "open": 56.279998779296875,
+      "high": 57.630001068115234,
+      "low": 55.56999969482422,
+      "volume": 797800
+    },
+    {
+      "date": "2026-03-02",
+      "close": 56.86000061035156,
+      "open": 59.0,
+      "high": 59.099998474121094,
+      "low": 54.93000030517578,
+      "volume": 1011100
+    },
+    {
+      "date": "2026-03-03",
+      "close": 56.380001068115234,
+      "open": 55.0099983215332,
+      "high": 56.599998474121094,
+      "low": 52.22999954223633,
+      "volume": 571900
+    },
+    {
+      "date": "2026-03-04",
+      "close": 56.0099983215332,
+      "open": 56.5,
+      "high": 58.43000030517578,
+      "low": 56.0,
+      "volume": 590900
+    },
+    {
+      "date": "2026-03-05",
+      "close": 54.599998474121094,
+      "open": 55.290000915527344,
+      "high": 55.96699905395508,
+      "low": 53.189998626708984,
+      "volume": 592600
+    },
+    {
+      "date": "2026-03-06",
+      "close": 52.41999816894531,
+      "open": 53.59000015258789,
+      "high": 54.400001525878906,
+      "low": 52.38999938964844,
+      "volume": 455300
+    },
+    {
+      "date": "2026-03-09",
+      "close": 50.099998474121094,
+      "open": 51.06999969482422,
+      "high": 51.27000045776367,
+      "low": 48.0,
+      "volume": 915800
+    },
+    {
+      "date": "2026-03-10",
+      "close": 50.650001525878906,
+      "open": 50.4900016784668,
+      "high": 52.54999923706055,
+      "low": 50.0,
+      "volume": 526300
+    }
+  ]
+}

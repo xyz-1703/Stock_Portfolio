@@ -1,21 +1,21 @@
 {
   "symbol": "F",
   "name": "Ford Motor Company",
-  "current_price": 12.19,
+  "current_price": 12.24,
   "pe_ratio": null,
-  "forward_pe": 6.6388187,
+  "forward_pe": 6.6660495,
   "peg_ratio": null,
-  "price_to_book": 1.3524909,
+  "price_to_book": 1.3580384,
   "profit_margin": -0.04369,
   "operating_margin": -0.0669,
   "return_on_equity": -0.20193,
   "debt_to_equity": 460.639,
   "fifty_two_week_high": 14.8,
   "fifty_two_week_low": 8.44,
-  "three_month_average_volume": 63716045,
-  "market_cap": 48631701504,
-  "enterprise_value": 185964707840,
-  "dividend_yield": 4.92,
+  "three_month_average_volume": 63677154,
+  "market_cap": 48831176704,
+  "enterprise_value": 186164183040,
+  "dividend_yield": 4.9,
   "dividend_rate": 0.6,
   "payout_ratio": 0.641,
   "five_year_avg_dividend_yield": 5.76,
@@ -24,23 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.ford.com",
   "description": "Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles in the United States, Canada, the United Kingdom, Mexico, and internationally. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sells Ford and Lincoln internal combustion engine and hybrid vehicles, electric vehicles, service parts, accessories, and digital services for retail customers; develops EV and digital vehicle technologies, and software; and provides telematics and EV charging solutions. It also sells Ford and Lincoln vehicles, service parts, and accessories through distributors and dealers, as well as through dealerships to commercial fleet customers, daily rental car companies, and governments. In addition, it engages in vehicle-related financing and leasing activities to and through automotive dealers. Further, the company provides retail installment sale contracts for new and used vehicles; and direct financing leases for new vehicles to retail and commercial customers, such as leasing companies, government entities, daily rental companies, and fleet customers. Additionally, it offers wholesale loans to dealers to finance the purchase of vehicle inventory; and loans to dealers to finance working capital and enhance dealership facilities, purchase dealership real estate, and other dealer vehicle programs. Ford Motor Company was incorporated in 1903 and is based in Dearborn, Michigan.",
-  "previous_close": 12.15,
-  "open_price": 11.94,
-  "day_high": 12.1985,
-  "day_low": 11.8,
-  "fifty_day_average": 13.6406,
-  "two_hundred_day_average": 12.30155,
+  "previous_close": 12.19,
+  "open_price": 12.19,
+  "day_high": 12.51,
+  "day_low": 12.195,
+  "fifty_day_average": 13.6182,
+  "two_hundred_day_average": 12.31035,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:08:57.592146",
+  "last_updated": "2026-03-11T16:11:29.144560",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 13.266321182250977,
-      "open": 12.939856974360051,
-      "high": 13.276214265752246,
-      "low": 12.929963890858781,
-      "volume": 72210700
-    },
     {
       "date": "2025-12-11",
       "close": 13.483963966369629,
@@ -511,7 +503,15 @@
       "open": 11.9399995803833,
       "high": 12.199999809265137,
       "low": 11.800000190734863,
-      "volume": 69536300
+      "volume": 69611200
+    },
+    {
+      "date": "2026-03-10",
+      "close": 12.239999771118164,
+      "open": 12.1899995803833,
+      "high": 12.510000228881836,
+      "low": 12.1899995803833,
+      "volume": 56642800
     }
   ]
 }

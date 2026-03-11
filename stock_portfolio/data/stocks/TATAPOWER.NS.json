@@ -1,94 +1,38 @@
 {
   "symbol": "TATAPOWER.NS",
   "name": "Tata Power Company Limited",
-  "current_price": 368.35,
-  "pe_ratio": 31.05818,
-  "forward_pe": 21.412523,
+  "current_price": 385.75,
+  "pe_ratio": 32.525295,
+  "forward_pe": 22.424,
   "peg_ratio": null,
-  "price_to_book": 3.1089373,
+  "price_to_book": 3.2557962,
   "profit_margin": 0.058709998,
   "operating_margin": 0.13242,
   "return_on_equity": null,
   "debt_to_equity": 156.16,
   "fifty_two_week_high": 416.8,
   "fifty_two_week_low": 335.0,
-  "three_month_average_volume": 3890329,
-  "market_cap": 1177003360256,
-  "enterprise_value": 1839857401856,
-  "dividend_yield": 0.61,
+  "three_month_average_volume": 3960589,
+  "market_cap": 1232602267648,
+  "enterprise_value": 1881339330560,
+  "dividend_yield": 0.59,
   "dividend_rate": 2.25,
   "payout_ratio": 0.18969999,
   "five_year_avg_dividend_yield": 0.73,
-  "beta": 0.278,
+  "beta": 0.284,
   "sector": "Utilities",
   "industry": "Utilities - Independent Power Producers",
   "website": "https://www.tatapower.com",
   "description": "Tata Power Company Limited engages in the generation, transmission, distribution, and trading of electricity in India and internationally. It operates through Thermal and Hydro, Renewables, Transmission and Distribution, and Others segments. The company generates power from hydroelectric and thermal sources, such as coal, gas, and oil; and provides related ancillary services. It also engages in the operation of transmission and distribution networks; and sale of power to retail customers through distribution network and related ancillary services. In addition, the company offers project management contracts/infrastructure management, and property development services, as well as rents oil tanks. Further, the company manufactures and sells solar cells and modules, and pumps; operates electric vehicle charging stations and coal mines; generates electricity through solar, wind, and waste heat sources; trades in power; and provides engineering, procurement, and construction, as well as logistics services. Additionally, it offers microgrid, rooftop solar, and home automation solutions. As of March 31, 2025, it had an installed generation capacity of 15,733 megawatt. Tata Power Company Limited was founded in 1915 and is headquartered in Mumbai, India.",
-  "previous_close": 377.55,
-  "open_price": 356.0,
-  "day_high": 373.95,
-  "day_low": 356.0,
-  "fifty_day_average": 370.542,
-  "two_hundred_day_average": 386.98325,
+  "previous_close": 381.3,
+  "open_price": 383.0,
+  "day_high": 392.5,
+  "day_low": 382.35,
+  "fifty_day_average": 369.975,
+  "two_hundred_day_average": 386.34476,
   "stock_splits": null,
-  "last_updated": "2026-03-03T10:59:34.271727",
+  "last_updated": "2026-03-11T16:12:28.267905",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 388.45001220703125,
-      "open": 387.1000061035156,
-      "high": 389.1499938964844,
-      "low": 385.8999938964844,
-      "volume": 3302460
-    },
-    {
-      "date": "2025-12-03",
-      "close": 383.6499938964844,
-      "open": 387.20001220703125,
-      "high": 389.1000061035156,
-      "low": 382.29998779296875,
-      "volume": 3885600
-    },
-    {
-      "date": "2025-12-04",
-      "close": 384.45001220703125,
-      "open": 383.6000061035156,
-      "high": 386.8500061035156,
-      "low": 382.0,
-      "volume": 3786100
-    },
-    {
-      "date": "2025-12-05",
-      "close": 384.5,
-      "open": 385.0,
-      "high": 386.0,
-      "low": 380.54998779296875,
-      "volume": 5332479
-    },
-    {
-      "date": "2025-12-08",
-      "close": 374.1499938964844,
-      "open": 383.20001220703125,
-      "high": 385.25,
-      "low": 372.29998779296875,
-      "volume": 7008862
-    },
-    {
-      "date": "2025-12-09",
-      "close": 376.25,
-      "open": 373.5,
-      "high": 378.3500061035156,
-      "low": 369.79998779296875,
-      "volume": 2822828
-    },
-    {
-      "date": "2025-12-10",
-      "close": 379.8500061035156,
-      "open": 376.75,
-      "high": 382.3999938964844,
-      "low": 376.5,
-      "volume": 4914788
-    },
     {
       "date": "2025-12-11",
       "close": 380.1499938964844,
@@ -536,6 +480,54 @@
       "high": 373.95001220703125,
       "low": 356.0,
       "volume": 5645823
+    },
+    {
+      "date": "2026-03-04",
+      "close": 365.8500061035156,
+      "open": 362.29998779296875,
+      "high": 369.8999938964844,
+      "low": 362.1000061035156,
+      "volume": 5707031
+    },
+    {
+      "date": "2026-03-05",
+      "close": 376.8500061035156,
+      "open": 366.25,
+      "high": 378.5,
+      "low": 366.25,
+      "volume": 5981063
+    },
+    {
+      "date": "2026-03-06",
+      "close": 375.5,
+      "open": 375.0,
+      "high": 385.25,
+      "low": 373.1000061035156,
+      "volume": 3748549
+    },
+    {
+      "date": "2026-03-09",
+      "close": 372.8999938964844,
+      "open": 366.5,
+      "high": 374.20001220703125,
+      "low": 365.1499938964844,
+      "volume": 5063475
+    },
+    {
+      "date": "2026-03-10",
+      "close": 381.29998779296875,
+      "open": 375.8999938964844,
+      "high": 384.1499938964844,
+      "low": 375.8999938964844,
+      "volume": 7675259
+    },
+    {
+      "date": "2026-03-11",
+      "close": 385.75,
+      "open": 383.0,
+      "high": 392.5,
+      "low": 382.3500061035156,
+      "volume": 9678263
     }
   ]
 }

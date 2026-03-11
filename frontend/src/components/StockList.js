@@ -54,29 +54,11 @@ function StockList({ sectorId, onStockClick, portfolioId }) {
   const startIndex = (currentPage - 1) * itemsPerPage;
   const paginatedStocks = filteredStocks.slice(startIndex, startIndex + itemsPerPage);
 
-  const addStock = async (stockId, stockName) => {
-    if (portfolioId) {
-      setAddingStock(stockId);
-      try {
-        const response = await fetch("http://127.0.0.1:8000/api/add-stock/", {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ stock_id: stockId, portfolio_id: portfolioId }),
-        });
-        if (!response.ok) throw new Error("Failed to add stock");
-        setSuccessMessage(`Added ${stockName} to portfolio`);
-        setTimeout(() => setSuccessMessage(""), 3000);
-      } catch (err) {
-        setError(`Failed to add ${stockName}: ${err.message}`);
-        setTimeout(() => setError(""), 3000);
-      } finally {
-        setAddingStock(null);
-      }
-    } else {
-      setSelectedStock({ id: stockId, name: stockName });
-      setShowPortfolioSelector(true);
-      fetchPortfolios();
-    }
+  const addStock = (stockId, stockName) => {
+    setSelectedStock({ id: stockId, name: stockName });
+    setSelectedPortfolioId(portfolioId || null);
+    setShowPortfolioSelector(true);
+    fetchPortfolios();
   };
 
   const fetchPortfolios = async () => {

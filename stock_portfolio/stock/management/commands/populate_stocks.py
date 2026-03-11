@@ -5,8 +5,41 @@ from stock.models import Sector, Stock
 class Command(BaseCommand):
     help = 'Populate database with stocks for each sector'
 
+    # Old symbol → new symbol corrections for existing DB records
+    SYMBOL_CORRECTIONS = {
+        'TAJHOTELS.NS': 'INDHOTEL.NS',
+        'BAJAJAUT01.NS': 'BAJAJ-AUTO.NS',
+        'ADANIENTERP.NS': 'ADANIENT.NS',
+        'ADANIHOLDI.NS': 'ADANIWILMAR.NS',
+        'ADANITRANS.NS': 'ATGL.NS',
+        'ADANILOG.NS': None,       # Remove – not a valid listed symbol
+        'ADANIGLOBAL.NS': None,    # Remove – not a valid listed symbol
+        'ADANIHEAL.NS': None,      # Remove – not a valid listed symbol
+        'ADANENRGY.NS': 'ADANIENSOL.NS',
+    }
+
     def handle(self, *args, **options):
-        # Define sector data with stocks
+        # ------------------------------------------------------------------
+        # Step 1: Apply symbol corrections to existing DB records
+        # ------------------------------------------------------------------
+        for old_sym, new_sym in self.SYMBOL_CORRECTIONS.items():
+            if new_sym is None:
+                deleted, _ = Stock.objects.filter(symbol=old_sym).delete()
+                if deleted:
+                    self.stdout.write(self.style.WARNING(f'Removed invalid stock {old_sym}'))
+            else:
+                # Avoid collisions: if the corrected symbol already exists, remove the old one
+                if Stock.objects.filter(symbol=new_sym).exists():
+                    Stock.objects.filter(symbol=old_sym).delete()
+                    self.stdout.write(self.style.WARNING(f'Removed duplicate {old_sym} (kept {new_sym})'))
+                else:
+                    updated = Stock.objects.filter(symbol=old_sym).update(symbol=new_sym)
+                    if updated:
+                        self.stdout.write(self.style.SUCCESS(f'Corrected symbol {old_sym} → {new_sym}'))
+
+        # ------------------------------------------------------------------
+        # Step 2: Define sector data with validated symbols
+        # ------------------------------------------------------------------
         sectors_data = {
             'IT': [
                 {'name': 'Apple Inc.', 'symbol': 'AAPL', 'description': 'Consumer electronics and software'},
@@ -47,36 +80,32 @@ class Command(BaseCommand):
                 {'name': 'Volkswagen', 'symbol': 'VWAGY', 'description': 'German automaker'},
                 {'name': 'Maruti Suzuki', 'symbol': 'MARUTI.NS', 'description': 'Leading Indian automaker'},
                 {'name': 'Tata Motors', 'symbol': 'TATAMOTORS.NS', 'description': 'Major Indian automotive company'},
-                {'name': 'Bajaj Auto', 'symbol': 'BAJAJAUT01.NS', 'description': 'Indian two-wheeler manufacturer'},
+                {'name': 'Bajaj Auto', 'symbol': 'BAJAJ-AUTO.NS', 'description': 'Indian two-wheeler manufacturer'},
                 {'name': 'Hero MotoCorp', 'symbol': 'HEROMOTOCO.NS', 'description': 'Indian two-wheeler company'},
             ],
             'TATA': [
                 {'name': 'Tata Consultancy Services', 'symbol': 'TCS.NS', 'description': 'Leading Indian IT services'},
                 {'name': 'Tata Steel', 'symbol': 'TATASTEEL.NS', 'description': 'Major steel manufacturer'},
                 {'name': 'Tata Motors', 'symbol': 'TATAMOTORS.NS', 'description': 'Automotive and engineering'},
-                {'name': 'Taj Hotels', 'symbol': 'TAJHOTELS.NS', 'description': 'Luxury hospitality chain'},
                 {'name': 'Tata Power', 'symbol': 'TATAPOWER.NS', 'description': 'Energy and power generation'},
                 {'name': 'Tata Communications', 'symbol': 'TATACOMM.NS', 'description': 'Telecom services'},
                 {'name': 'Titan Company', 'symbol': 'TITAN.NS', 'description': 'Jewelry and watches'},
                 {'name': 'Voltas Limited', 'symbol': 'VOLTAS.NS', 'description': 'HVAC and cooling solutions'},
-                {'name': 'Indian Hotels', 'symbol': 'INDHOTEL.NS', 'description': 'Hotel and hospitality'},
+                {'name': 'Taj Hotels (IHCL)', 'symbol': 'INDHOTEL.NS', 'description': 'Luxury hospitality – Indian Hotels Co.'},
                 {'name': 'Tata Chemicals', 'symbol': 'TATACHEM.NS', 'description': 'Chemical manufacturing'},
                 {'name': 'Tata Investment', 'symbol': 'TATAINVEST.NS', 'description': 'Investment company'},
                 {'name': 'Rallis India', 'symbol': 'RALLIS.NS', 'description': 'Agrochemicals company'},
             ],
             'Adani': [
-                {'name': 'Adani Enterprises', 'symbol': 'ADANIENTERP.NS', 'description': 'Diversified conglomerate'},
+                {'name': 'Adani Enterprises', 'symbol': 'ADANIENT.NS', 'description': 'Diversified conglomerate'},
                 {'name': 'Adani Ports', 'symbol': 'ADANIPORTS.NS', 'description': 'Port and logistics operator'},
                 {'name': 'Adani Power', 'symbol': 'ADANIPOWER.NS', 'description': 'Thermal power generation'},
-                {'name': 'Adani Transmission', 'symbol': 'ADANIGREEN.NS', 'description': 'Power transmission'},
+                {'name': 'Adani Transmission', 'symbol': 'ADANITRANS.NS', 'description': 'Power transmission'},
                 {'name': 'Adani Green Energy', 'symbol': 'ADANIGREEN.NS', 'description': 'Renewable energy company'},
                 {'name': 'NDTV Limited', 'symbol': 'NDTV.NS', 'description': 'Media and broadcasting'},
-                {'name': 'Adani Wilmar', 'symbol': 'ADANIHOLDI.NS', 'description': 'Food and edible oils'},
-                {'name': 'Adani Total Gas', 'symbol': 'ADANITRANS.NS', 'description': 'Gas distribution network'},
-                {'name': 'Adani Logistics', 'symbol': 'ADANILOG.NS', 'description': 'Logistics and supply chain'},
-                {'name': 'Adani Global', 'symbol': 'ADANIGLOBAL.NS', 'description': 'Global business operations'},
-                {'name': 'Adani Healthcare', 'symbol': 'ADANIHEAL.NS', 'description': 'Healthcare services'},
-                {'name': 'Adani Energy Solutions', 'symbol': 'ADANENRGY.NS', 'description': 'Energy solutions provider'},
+                {'name': 'Adani Wilmar', 'symbol': 'ADANIWILMAR.NS', 'description': 'Food and edible oils'},
+                {'name': 'Adani Total Gas', 'symbol': 'ATGL.NS', 'description': 'Gas distribution network'},
+                {'name': 'Adani Energy Solutions', 'symbol': 'ADANIENSOL.NS', 'description': 'Energy solutions provider'},
             ],
             'Precious Metals': [
                 {'name': 'SPDR Gold Shares', 'symbol': 'GLD', 'description': 'Gold ETF tracking spot gold'},

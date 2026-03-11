@@ -1,20 +1,20 @@
 {
   "symbol": "MS",
   "name": "Morgan Stanley",
-  "current_price": 160.45,
-  "pe_ratio": 15.730392,
-  "forward_pe": 13.021678,
+  "current_price": 160.75,
+  "pe_ratio": 15.744369,
+  "forward_pe": 13.046025,
   "peg_ratio": null,
-  "price_to_book": 2.492737,
+  "price_to_book": 2.497398,
   "profit_margin": 0.23986,
   "operating_margin": 0.38625,
   "return_on_equity": 0.15614,
   "debt_to_equity": 455.747,
   "fifty_two_week_high": 192.68,
   "fifty_two_week_low": 94.33,
-  "three_month_average_volume": 7019930,
-  "market_cap": 254772166656,
-  "enterprise_value": 178559172608,
+  "three_month_average_volume": 6964506,
+  "market_cap": 255248531456,
+  "enterprise_value": 179035521024,
   "dividend_yield": 2.49,
   "dividend_rate": 4.0,
   "payout_ratio": 0.3771,
@@ -24,23 +24,15 @@
   "industry": "Capital Markets",
   "website": "https://www.morganstanley.com",
   "description": "Morgan Stanley, a financial holding company, provides various financial products and services to corporations, governments, financial institutions, and individuals in the Americas, Asia, Europe, the Middle East, and Africa. It operates through Institutional Securities, Wealth Management, and Investment Management segments. The company offers capital raising and financial advisory services, including services related to the underwriting of debt, equity securities, and other products, as well as advice on mergers and acquisitions, restructurings, and project finance. It also provides equity and fixed income products comprising sales, financing, prime brokerage, and market-making services; Asia wealth management; business-related investments services; originating corporate and commercial real estate loans, secured lending facilities, and extending securities-based and other financing; and research activities. In addition, the company offers financial advisor-led brokerage, investment advisory, custody, cash management, and administrative services; self-directed brokerage services; financial and wealth planning services; stock plan administration; securities-based lending, residential real estate loans, and other lending products; banking; and retirement plan services. Further, it provides equity, fixed income, alternatives and solutions, and liquidity and overlay services to benefit/defined contribution plans, foundations, endowments, government entities, sovereign wealth funds, insurance companies, third-party fund sponsors, corporations, and individuals. Morgan Stanley was founded in 1924 and is headquartered in New York, New York.",
-  "previous_close": 160.27,
-  "open_price": 157.92,
-  "day_high": 161.85,
-  "day_low": 154.07,
-  "fifty_day_average": 177.9416,
-  "two_hundred_day_average": 158.3654,
+  "previous_close": 160.45,
+  "open_price": 161.835,
+  "day_high": 163.47,
+  "day_low": 159.86,
+  "fifty_day_average": 177.5236,
+  "two_hundred_day_average": 158.54265,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:10:26.224784",
+  "last_updated": "2026-03-11T16:12:06.168195",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 179.7100067138672,
-      "open": 178.5,
-      "high": 181.30999755859375,
-      "low": 177.75,
-      "volume": 6591200
-    },
     {
       "date": "2025-12-11",
       "close": 180.2899932861328,
@@ -511,7 +503,15 @@
       "open": 157.9199981689453,
       "high": 161.85000610351562,
       "low": 154.07000732421875,
-      "volume": 7464600
+      "volume": 7480800
+    },
+    {
+      "date": "2026-03-10",
+      "close": 160.75,
+      "open": 161.83999633789062,
+      "high": 163.47999572753906,
+      "low": 159.86000061035156,
+      "volume": 4312500
     }
   ]
 }

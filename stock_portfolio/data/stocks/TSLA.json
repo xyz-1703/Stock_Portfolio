@@ -1,20 +1,20 @@
 {
   "symbol": "TSLA",
   "name": "Tesla, Inc.",
-  "current_price": 398.68,
-  "pe_ratio": 369.14813,
-  "forward_pe": 141.85728,
+  "current_price": 412.3251,
+  "pe_ratio": 381.75925,
+  "forward_pe": 146.70352,
   "peg_ratio": null,
-  "price_to_book": 18.20706,
+  "price_to_book": 18.829063,
   "profit_margin": 0.040009998,
   "operating_margin": 0.047030002,
   "return_on_equity": 0.049250003,
   "debt_to_equity": 17.763,
   "fifty_two_week_high": 498.83,
   "fifty_two_week_low": 214.25,
-  "three_month_average_volume": 65522916,
-  "market_cap": 1496019501056,
-  "enterprise_value": 1467407532032,
+  "three_month_average_volume": 65579974,
+  "market_cap": 1547127619584,
+  "enterprise_value": 1469490135040,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
@@ -24,23 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.tesla.com",
   "description": "Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage. The company offers electric vehicles, as well as sells automotive regulatory credits; and non-warranty maintenance services and collision, automotive insurance services, as well as part sales and retail merchandise sale. It also provides sedans and sport utility vehicles through direct and used vehicle sales, a network of Tesla Superchargers, and in-app upgrades; purchase financing and leasing services; services for electric vehicles through its company-owned service locations and Tesla mobile service technicians; and vehicle limited warranties and extended service plans. In addition, the company engages in the design, manufacture, installation, sale, and leasing of solar energy generation and energy storage products, and related services to residential, commercial, and industrial customers and utilities through its website, stores, and galleries, as well as through a network of channel partners. Further, it provides services and repairs to its energy product customers, including under warranty and extended service plans; and various financing options to its residential customers; lithium-ion battery energy storage products, such as Powerwall and Megapack; energy generation products, including solar panels and solar roof; self-driving development and artificial intelligence software, vehicle control and infotainment software, and battery and powertrain. The company was formerly known as Tesla Motors, Inc. and changed its name to Tesla, Inc. in February 2017. Tesla, Inc. was incorporated in 2003 and is headquartered in Austin, Texas.",
-  "previous_close": 396.72998,
-  "open_price": 390.05,
-  "day_high": 401.578,
-  "day_low": 381.4,
-  "fifty_day_average": 426.2722,
-  "two_hundred_day_average": 392.37265,
+  "previous_close": 399.235,
+  "open_price": 402.22,
+  "day_high": 416.3799,
+  "day_low": 402.15,
+  "fifty_day_average": 424.549,
+  "two_hundred_day_average": 392.69574,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:08:47.412587",
+  "last_updated": "2026-03-11T20:08:11.289970",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 451.45001220703125,
-      "open": 446.07000732421875,
-      "high": 456.8800048828125,
-      "low": 443.6099853515625,
-      "volume": 63257500
-    },
     {
       "date": "2025-12-11",
       "close": 446.8900146484375,
@@ -511,7 +503,23 @@
       "open": 390.04998779296875,
       "high": 401.5899963378906,
       "low": 381.3999938964844,
-      "volume": 66821300
+      "volume": 67018900
+    },
+    {
+      "date": "2026-03-10",
+      "close": 399.239990234375,
+      "open": 402.2200012207031,
+      "high": 406.5899963378906,
+      "low": 398.19000244140625,
+      "volume": 59148300
+    },
+    {
+      "date": "2026-03-11",
+      "close": 412.29998779296875,
+      "open": 402.2200012207031,
+      "high": 416.3799133300781,
+      "low": 402.1499938964844,
+      "volume": 23114622
     }
   ]
 }

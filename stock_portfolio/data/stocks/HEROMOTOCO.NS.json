@@ -1,21 +1,21 @@
 {
   "symbol": "HEROMOTOCO.NS",
   "name": "Hero MotoCorp Limited",
-  "current_price": 5554.5,
-  "pe_ratio": 20.438238,
-  "forward_pe": 18.778925,
+  "current_price": 5575.0,
+  "pe_ratio": 20.506124,
+  "forward_pe": 18.848234,
   "peg_ratio": null,
-  "price_to_book": 5.291542,
+  "price_to_book": 5.311072,
   "profit_margin": 0.12258001,
   "operating_margin": 0.13035,
   "return_on_equity": null,
   "debt_to_equity": 3.395,
   "fifty_two_week_high": 6388.5,
   "fifty_two_week_low": 3344.0,
-  "three_month_average_volume": 554765,
-  "market_cap": 1111398678528,
-  "enterprise_value": 996985995264,
-  "dividend_yield": 3.17,
+  "three_month_average_volume": 551403,
+  "market_cap": 1115500445696,
+  "enterprise_value": 1043298779136,
+  "dividend_yield": 3.06,
   "dividend_rate": 175.0,
   "payout_ratio": 0.6068,
   "five_year_avg_dividend_yield": 3.11,
@@ -24,23 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.heromotocorp.com",
   "description": "Hero MotoCorp Limited primarily engages in the manufacture and sale of motorised two wheelers in India, Asia, Central and Latin America, Africa, and the Middle East. The company offers motorcycles and scooters, as well as electric scooters. It provides engines, parts, and accessories, as well as non-banking financial and other related services. The company is also involved in merchandise business. The company was formerly known as Hero Honda Motors Ltd. and changed its name to Hero MotoCorp Limited in July 2011. Hero MotoCorp Limited was incorporated in 1984 and is based in New Delhi, India.",
-  "previous_close": 5480.0,
-  "open_price": 5546.5,
-  "day_high": 5609.5,
-  "day_low": 5527.5,
-  "fifty_day_average": 5651.05,
-  "two_hundred_day_average": 5277.0376,
+  "previous_close": 5711.5,
+  "open_price": 5729.5,
+  "day_high": 5766.0,
+  "day_low": 5554.0,
+  "fifty_day_average": 5649.86,
+  "two_hundred_day_average": 5284.592,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:08:14.125299",
+  "last_updated": "2026-03-11T16:11:32.947535",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 5831.8291015625,
-      "open": 5912.751799549029,
-      "high": 5928.936339146335,
-      "low": 5802.402665931035,
-      "volume": 820197
-    },
     {
       "date": "2025-12-11",
       "close": 5865.17919921875,
@@ -523,11 +515,19 @@
     },
     {
       "date": "2026-03-10",
-      "close": 5554.5,
+      "close": 5711.5,
       "open": 5546.5,
-      "high": 5609.5,
+      "high": 5733.5,
       "low": 5527.5,
-      "volume": 61571
+      "volume": 493375
+    },
+    {
+      "date": "2026-03-11",
+      "close": 5575.0,
+      "open": 5729.5,
+      "high": 5766.0,
+      "low": 5554.0,
+      "volume": 511865
     }
   ]
 }

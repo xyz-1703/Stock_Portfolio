@@ -1,21 +1,21 @@
 {
   "symbol": "SBIN.NS",
   "name": "State Bank of India",
-  "current_price": 1111.9,
-  "pe_ratio": 12.108244,
-  "forward_pe": 11.96977,
+  "current_price": 1091.1,
+  "pe_ratio": 11.876564,
+  "forward_pe": 11.745855,
   "peg_ratio": null,
-  "price_to_book": 1.733657,
+  "price_to_book": 1.7012259,
   "profit_margin": 0.22498,
   "operating_margin": 0.29676,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 1234.7,
   "fifty_two_week_low": 719.05,
-  "three_month_average_volume": 11853735,
-  "market_cap": 10263523753984,
-  "enterprise_value": 14051848486912,
-  "dividend_yield": 1.45,
+  "three_month_average_volume": 12045609,
+  "market_cap": 10071526342656,
+  "enterprise_value": 14178307801088,
+  "dividend_yield": 1.43,
   "dividend_rate": 15.9,
   "payout_ratio": 0.1731,
   "five_year_avg_dividend_yield": 1.39,
@@ -24,23 +24,15 @@
   "industry": "Banks - Regional",
   "website": "https://sbi.bank.in",
   "description": "State Bank of India provides banking products and services in India and internationally. It operates through the Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Business segments. The company offers personal banking products and services, including current, savings, salary, and deposit accounts; home, personal, pension, auto, education, and gold loans, as well as loans against insurance policies, property, and securities; debit, business debit, prepaid, and green remit cards; overdrafts; mutual funds, insurance, equity trading, portfolio investment schemes, remittance services; digital lending; and mobile, internet, and digital banking services. It also provides corporate banking products and services comprising corporate accounts, working capital and project finance, deferred payment guarantees, corporate term loans, structured finance, dealer and channel financing, equipment leasing, loan syndication, construction equipment loans, financing Indian firms' overseas subsidiaries or JVs, and cash management, as well as trade and service products. In addition, the company offers NRI services, including accounts, investments, loans, and remittances; agricultural banking services; and international banking services. Further, it provides life and general insurance; estate planning services; merchant banking and advisory; securities broking; trusteeship service; factoring; payment solution; asset management; portfolio and investment management; credit cards; and custody and fund accounting services. State Bank of India was founded in 1806 and is headquartered in Mumbai, India.",
-  "previous_close": 1098.5,
-  "open_price": 1111.1,
-  "day_high": 1119.9,
-  "day_low": 1104.5,
-  "fifty_day_average": 1097.65,
-  "two_hundred_day_average": 927.3325,
+  "previous_close": 1112.2,
+  "open_price": 1113.4,
+  "day_high": 1115.9,
+  "day_low": 1088.0,
+  "fifty_day_average": 1100.25,
+  "two_hundred_day_average": 928.861,
   "stock_splits": null,
-  "last_updated": "2026-03-10T10:09:40.385809",
+  "last_updated": "2026-03-11T16:12:15.981085",
   "historical_data": [
-    {
-      "date": "2025-12-10",
-      "close": 959.75,
-      "open": 960.0999755859375,
-      "high": 963.9500122070312,
-      "low": 955.25,
-      "volume": 6989178
-    },
     {
       "date": "2025-12-11",
       "close": 963.25,
@@ -523,11 +515,19 @@
     },
     {
       "date": "2026-03-10",
-      "close": 1111.9000244140625,
+      "close": 1112.199951171875,
       "open": 1111.0999755859375,
       "high": 1119.9000244140625,
       "low": 1104.5,
-      "volume": 4690584
+      "volume": 17491459
+    },
+    {
+      "date": "2026-03-11",
+      "close": 1091.0999755859375,
+      "open": 1113.4000244140625,
+      "high": 1115.9000244140625,
+      "low": 1088.0,
+      "volume": 8363152
     }
   ]
 }

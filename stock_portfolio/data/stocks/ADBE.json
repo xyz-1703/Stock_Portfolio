@@ -1,110 +1,38 @@
 {
   "symbol": "ADBE",
   "name": "Adobe Inc.",
-  "current_price": 262.41,
-  "pe_ratio": 15.722589,
-  "forward_pe": 9.94047,
+  "current_price": 275.13,
+  "pe_ratio": 16.47485,
+  "forward_pe": 10.416655,
   "peg_ratio": null,
-  "price_to_book": 9.324166,
+  "price_to_book": 9.776144,
   "profit_margin": 0.29997,
   "operating_margin": 0.36503,
   "return_on_equity": 0.55426,
   "debt_to_equity": 57.266,
-  "fifty_two_week_high": 453.26,
+  "fifty_two_week_high": 443.9,
   "fifty_two_week_low": 244.28,
-  "three_month_average_volume": 5201355,
-  "market_cap": 109844824064,
-  "enterprise_value": 107778301952,
+  "three_month_average_volume": 5101872,
+  "market_cap": 112940867584,
+  "enterprise_value": 112999866368,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
   "five_year_avg_dividend_yield": 0.12,
-  "beta": 1.515,
+  "beta": 1.532,
   "sector": "Technology",
   "industry": "Software - Application",
   "website": "https://www.adobe.com",
   "description": "Adobe Inc. operates as a technology company worldwide. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to create, publish, and promote content. This segment serves photographers, video editors, graphic and experience designers, game developers, content creators, students, marketers, business owners, knowledge workers, and consumers. The Digital Experience segment provides an integrated platform; and products, services, and solutions that enable brands and businesses to create, manage, execute, measure, monetize, and optimize customer experiences from analytics to commerce. This segment serves marketers, advertisers, agencies, publishers, merchandisers, merchants, web analysts, data scientists, developers, and executives across the C-suite. The Publishing and Advertising segment offers e-learning, technical document publishing, web conferencing, document and forms platform, web application development, printing, and Adobe Advertising solutions. It also provides consulting, training, customer management, technical support, and learning services. The company offers its solutions to enterprise customers, and businesses and consumers; and licenses its products to end-user customers through app stores and website at adobe.com. It markets and distributes its products through distributors, retailers, software developers, mobile app stores, systems integrators, independent software vendors, value-added resellers, and original equipment and hardware manufacturers. The company has a strategic alliance with HUMAIN for the development of generative AI models and AI-powered applications. The company was formerly known as Adobe Systems Incorporated and changed its name to Adobe Inc. in October 2018. Adobe Inc. was founded in 1982 and is headquartered in San Jose, California.",
-  "previous_close": 259.04,
-  "open_price": 253.86,
-  "day_high": 262.75,
-  "day_low": 253.06,
-  "fifty_day_average": 302.6668,
-  "two_hundred_day_average": 346.39426,
+  "previous_close": 282.44,
+  "open_price": 282.395,
+  "day_high": 282.395,
+  "day_low": 268.37,
+  "fifty_day_average": 291.6822,
+  "two_hundred_day_average": 341.6788,
   "stock_splits": null,
-  "last_updated": "2026-03-02T16:30:27.653650",
+  "last_updated": "2026-03-11T16:11:19.453356",
   "historical_data": [
-    {
-      "date": "2025-11-28",
-      "close": 320.1300048828125,
-      "open": 317.79998779296875,
-      "high": 322.30999755859375,
-      "low": 317.5199890136719,
-      "volume": 1802200
-    },
-    {
-      "date": "2025-12-01",
-      "close": 322.8500061035156,
-      "open": 316.3900146484375,
-      "high": 326.1400146484375,
-      "low": 316.1099853515625,
-      "volume": 3651300
-    },
-    {
-      "date": "2025-12-02",
-      "close": 322.80999755859375,
-      "open": 321.6199951171875,
-      "high": 325.9599914550781,
-      "low": 318.0799865722656,
-      "volume": 3959500
-    },
-    {
-      "date": "2025-12-03",
-      "close": 326.7799987792969,
-      "open": 321.9800109863281,
-      "high": 326.989990234375,
-      "low": 320.6300048828125,
-      "volume": 3082200
-    },
-    {
-      "date": "2025-12-04",
-      "close": 328.7300109863281,
-      "open": 328.57000732421875,
-      "high": 330.8900146484375,
-      "low": 324.1199951171875,
-      "volume": 3592300
-    },
-    {
-      "date": "2025-12-05",
-      "close": 346.260009765625,
-      "open": 330.6000061035156,
-      "high": 348.5899963378906,
-      "low": 329.7099914550781,
-      "volume": 7650400
-    },
-    {
-      "date": "2025-12-08",
-      "close": 339.1199951171875,
-      "open": 347.45001220703125,
-      "high": 348.4800109863281,
-      "low": 338.05999755859375,
-      "volume": 4293600
-    },
-    {
-      "date": "2025-12-09",
-      "close": 344.32000732421875,
-      "open": 341.3999938964844,
-      "high": 347.7799987792969,
-      "low": 338.4800109863281,
-      "volume": 4267700
-    },
-    {
-      "date": "2025-12-10",
-      "close": 343.1300048828125,
-      "open": 342.1300048828125,
-      "high": 347.9200134277344,
-      "low": 340.57000732421875,
-      "volume": 6789900
-    },
     {
       "date": "2025-12-11",
       "close": 350.42999267578125,
@@ -527,7 +455,63 @@
       "open": 254.02000427246094,
       "high": 262.75,
       "low": 253.05999755859375,
-      "volume": 5095800
+      "volume": 5098200
+    },
+    {
+      "date": "2026-03-02",
+      "close": 260.8800048828125,
+      "open": 257.6000061035156,
+      "high": 264.2200012207031,
+      "low": 257.05999755859375,
+      "volume": 3486900
+    },
+    {
+      "date": "2026-03-03",
+      "close": 270.989990234375,
+      "open": 260.04998779296875,
+      "high": 272.8299865722656,
+      "low": 260.04998779296875,
+      "volume": 6206600
+    },
+    {
+      "date": "2026-03-04",
+      "close": 273.1199951171875,
+      "open": 271.510009765625,
+      "high": 276.6700134277344,
+      "low": 270.3399963378906,
+      "volume": 4329200
+    },
+    {
+      "date": "2026-03-05",
+      "close": 281.739990234375,
+      "open": 275.3999938964844,
+      "high": 285.3599853515625,
+      "low": 275.3999938964844,
+      "volume": 5822300
+    },
+    {
+      "date": "2026-03-06",
+      "close": 283.6199951171875,
+      "open": 280.2799987792969,
+      "high": 283.8500061035156,
+      "low": 276.04998779296875,
+      "volume": 4802300
+    },
+    {
+      "date": "2026-03-09",
+      "close": 282.44000244140625,
+      "open": 281.32000732421875,
+      "high": 285.20001220703125,
+      "low": 277.8999938964844,
+      "volume": 4728400
+    },
+    {
+      "date": "2026-03-10",
+      "close": 275.1300048828125,
+      "open": 281.82000732421875,
+      "high": 282.3999938964844,
+      "low": 268.3699951171875,
+      "volume": 4587200
     }
   ]
 }

@@ -1,94 +1,38 @@
 {
   "symbol": "TATASTEEL.NS",
   "name": "Tata Steel Limited",
-  "current_price": 211.1,
-  "pe_ratio": 0.33399788,
-  "forward_pe": 12.132185,
+  "current_price": 194.74,
+  "pe_ratio": 0.30811828,
+  "forward_pe": 11.191955,
   "peg_ratio": null,
-  "price_to_book": 2.769578,
+  "price_to_book": 2.554939,
   "profit_margin": 0.04073,
   "operating_margin": 0.09036,
   "return_on_equity": null,
   "debt_to_equity": 99.699,
   "fifty_two_week_high": 216.45,
   "fifty_two_week_low": 125.3,
-  "three_month_average_volume": 29862509,
-  "market_cap": 2632807088128,
-  "enterprise_value": 3524438261760,
-  "dividend_yield": 1.7,
+  "three_month_average_volume": 31702447,
+  "market_cap": 2428767830016,
+  "enterprise_value": 3308719702016,
+  "dividend_yield": 1.85,
   "dividend_rate": 3.6,
   "payout_ratio": 0.0057,
   "five_year_avg_dividend_yield": 2.76,
-  "beta": 0.815,
+  "beta": 0.852,
   "sector": "Basic Materials",
   "industry": "Steel",
   "website": "https://www.tatasteel.com",
   "description": "Tata Steel Limited engages in the manufacture and distribution of steel products in India and internationally. It offers reinforcement bars (rebars) and wire rods, cut-and-bend reinforcement bars, welded wire mesh, prefabricated cages (pre-cages), steel couplers and carpet reinforcement, hot-rolled, cold rolled, coated coil, tubes, rebar, metallic coated, pre-finished steels, alloy steels, and profiles and construction systems. The company also provides solutions in building envelope, structural, fit-out, foundations, and highway engineering products, as well as operates steel service centers. It serves agricultural, automotive, construction, consumer goods, energy and power, engineering, and material handling industries. The company was incorporated in 1907 and is based in Mumbai, India.",
-  "previous_close": 212.33,
-  "open_price": 205.0,
-  "day_high": 214.34,
-  "day_low": 204.5,
-  "fifty_day_average": 191.9878,
-  "two_hundred_day_average": 172.20575,
+  "previous_close": 195.0,
+  "open_price": 197.14,
+  "day_high": 198.88,
+  "day_low": 194.0,
+  "fifty_day_average": 195.8968,
+  "two_hundred_day_average": 173.61665,
   "stock_splits": null,
-  "last_updated": "2026-03-02T14:47:11.826412",
+  "last_updated": "2026-03-11T16:12:29.661059",
   "historical_data": [
-    {
-      "date": "2025-12-02",
-      "close": 167.77999877929688,
-      "open": 168.42999267578125,
-      "high": 168.85000610351562,
-      "low": 167.0,
-      "volume": 15355023
-    },
-    {
-      "date": "2025-12-03",
-      "close": 166.9199981689453,
-      "open": 167.77999877929688,
-      "high": 167.99000549316406,
-      "low": 165.0,
-      "volume": 18873943
-    },
-    {
-      "date": "2025-12-04",
-      "close": 166.77000427246094,
-      "open": 167.8000030517578,
-      "high": 167.97000122070312,
-      "low": 166.1999969482422,
-      "volume": 11419966
-    },
-    {
-      "date": "2025-12-05",
-      "close": 167.11000061035156,
-      "open": 167.0,
-      "high": 167.64999389648438,
-      "low": 165.0,
-      "volume": 33500436
-    },
-    {
-      "date": "2025-12-08",
-      "close": 163.47000122070312,
-      "open": 167.08999633789062,
-      "high": 168.1999969482422,
-      "low": 163.0,
-      "volume": 15772400
-    },
-    {
-      "date": "2025-12-09",
-      "close": 160.6699981689453,
-      "open": 163.38999938964844,
-      "high": 163.38999938964844,
-      "low": 160.05999755859375,
-      "volume": 25766371
-    },
-    {
-      "date": "2025-12-10",
-      "close": 162.22999572753906,
-      "open": 161.0,
-      "high": 163.67999267578125,
-      "low": 160.80999755859375,
-      "volume": 22537548
-    },
     {
       "date": "2025-12-11",
       "close": 166.3800048828125,
@@ -531,11 +475,59 @@
     },
     {
       "date": "2026-03-02",
-      "close": 211.1199951171875,
+      "close": 211.00999450683594,
       "open": 205.0,
       "high": 214.33999633789062,
       "low": 204.5,
-      "volume": 25260044
+      "volume": 30523310
+    },
+    {
+      "date": "2026-03-04",
+      "close": 196.72999572753906,
+      "open": 207.0,
+      "high": 207.0,
+      "low": 194.42999267578125,
+      "volume": 72096617
+    },
+    {
+      "date": "2026-03-05",
+      "close": 200.57000732421875,
+      "open": 198.5,
+      "high": 203.0399932861328,
+      "low": 197.6300048828125,
+      "volume": 41033397
+    },
+    {
+      "date": "2026-03-06",
+      "close": 198.4600067138672,
+      "open": 199.5,
+      "high": 202.1999969482422,
+      "low": 197.10000610351562,
+      "volume": 28551376
+    },
+    {
+      "date": "2026-03-09",
+      "close": 191.00999450683594,
+      "open": 193.4499969482422,
+      "high": 193.6999969482422,
+      "low": 187.02999877929688,
+      "volume": 43019965
+    },
+    {
+      "date": "2026-03-10",
+      "close": 195.0,
+      "open": 194.00999450683594,
+      "high": 196.63999938964844,
+      "low": 192.0,
+      "volume": 25783308
+    },
+    {
+      "date": "2026-03-11",
+      "close": 194.74000549316406,
+      "open": 197.13999938964844,
+      "high": 198.8800048828125,
+      "low": 194.0,
+      "volume": 34204147
     }
   ]
 }
