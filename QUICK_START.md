@@ -1,5 +1,23 @@
 # Quick Start Guide
 
+## Fast Start (Using Scripts)
+
+### Windows
+```bash
+scripts\setup.bat
+scripts\start_all.bat
+```
+
+### Git Bash / WSL
+```bash
+bash scripts/setup.sh
+bash scripts/start_all.sh
+```
+
+If you want to run services separately:
+- Backend: `scripts\start_backend.bat` or `bash scripts/start_backend.sh`
+- Frontend: `scripts\start_frontend.bat` or `bash scripts/start_frontend.sh`
+
 ## For Windows Users
 
 ### 1. Start the Backend (Django)

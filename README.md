@@ -128,6 +128,20 @@ Tested using Postman.
 
 ## How to Run Project
 
+### One-Command Scripts (Recommended)
+
+From project root:
+
+```bash
+# Windows Command Prompt / PowerShell
+scripts\setup.bat
+scripts\start_all.bat
+
+# Git Bash / WSL
+bash scripts/setup.sh
+bash scripts/start_all.sh
+```
+
 ### Backend Setup
 
 ```
@@ -150,6 +164,13 @@ Frontend runs at:
 
 Backend runs at:
 [http://127.0.0.1:8000](http://127.0.0.1:8000)
+
+### Available Helper Scripts
+
+* `scripts/setup.bat` or `scripts/setup.sh`: install backend + frontend dependencies
+* `scripts/start_backend.bat` or `scripts/start_backend.sh`: run Django backend
+* `scripts/start_frontend.bat` or `scripts/start_frontend.sh`: run React frontend
+* `scripts/start_all.bat` or `scripts/start_all.sh`: start both services
 
 ---
 
