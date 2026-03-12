@@ -1,0 +1,15 @@
+[Unit]
+Description=Gunicorn service for Stock Portfolio Django app
+After=network.target
+
+[Service]
+User=__SERVER_USER__
+Group=__SERVER_USER__
+WorkingDirectory=__SERVER_PATH__/stock_portfolio
+EnvironmentFile=__SERVER_PATH__/.env.deploy
+ExecStart=__SERVER_PATH__/env/bin/gunicorn --workers 3 --bind 127.0.0.1:8000 stock_portfolio.wsgi:application
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
