@@ -1,5 +1,6 @@
 import React, { useEffect, useState, useMemo } from "react";
 import { Plus, Loader2, AlertCircle, CheckCircle2, Eye, Search, X } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function StockList({ sectorId, onStockClick, portfolioId }) {
   const [stocks, setStocks] = useState([]);
@@ -31,7 +32,7 @@ function StockList({ sectorId, onStockClick, portfolioId }) {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch(`http://127.0.0.1:8000/api/stocks/${sectorId}/`);
+      const response = await fetch(apiUrl(`/api/stocks/${sectorId}/`));
       if (!response.ok) throw new Error("Failed to fetch stocks");
       const data = await response.json();
       setStocks(data);
@@ -64,7 +65,7 @@ function StockList({ sectorId, onStockClick, portfolioId }) {
   const fetchPortfolios = async () => {
     try {
       setPortfoliosLoading(true);
-      const response = await fetch("http://127.0.0.1:8000/api/portfolios/");
+      const response = await fetch(apiUrl("/api/portfolios/"));
       if (!response.ok) throw new Error("Failed to fetch portfolios");
       const data = await response.json();
       setPortfolios(data.portfolios || []);
@@ -83,7 +84,7 @@ function StockList({ sectorId, onStockClick, portfolioId }) {
     if (!selectedStock || !selectedPortfolioId) return;
     setAddingStock(selectedStock.id);
     try {
-      const response = await fetch("http://127.0.0.1:8000/api/add-stock/", {
+      const response = await fetch(apiUrl("/api/add-stock/"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ stock_id: selectedStock.id, portfolio_id: selectedPortfolioId }),

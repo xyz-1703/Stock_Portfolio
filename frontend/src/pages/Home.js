@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Loader2, AlertCircle, TrendingUp, RefreshCw, ChevronDown } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function Home({ onStockClick }) {
   const [sectorsWithStocks, setSectorsWithStocks] = useState([]);
@@ -19,7 +20,7 @@ function Home({ onStockClick }) {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch("http://127.0.0.1:8000/api/home/sectors-with-stocks/");
+      const response = await fetch(apiUrl("/api/home/sectors-with-stocks/"));
       if (!response.ok) throw new Error("Failed to fetch sectors");
       const data = await response.json();
       setSectorsWithStocks(data);

@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Loader2, AlertCircle, Trash2 } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function PortfolioList({ selectedPortfolioId, onSelectPortfolio, onRefresh }) {
   const [portfolios, setPortfolios] = useState([]);
@@ -14,7 +15,7 @@ function PortfolioList({ selectedPortfolioId, onSelectPortfolio, onRefresh }) {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch("http://127.0.0.1:8000/api/portfolios/");
+      const response = await fetch(apiUrl("/api/portfolios/"));
       if (!response.ok) throw new Error("Failed to fetch portfolios");
       const data = await response.json();
       setPortfolios(data.portfolios || []);
@@ -34,7 +35,7 @@ function PortfolioList({ selectedPortfolioId, onSelectPortfolio, onRefresh }) {
     if (!window.confirm("Are you sure you want to delete this portfolio?")) return;
 
     try {
-      const response = await fetch(`http://127.0.0.1:8000/api/portfolios/${portfolioId}/delete/`, {
+      const response = await fetch(apiUrl(`/api/portfolios/${portfolioId}/delete/`), {
         method: "DELETE",
       });
       if (!response.ok) throw new Error("Failed to delete portfolio");

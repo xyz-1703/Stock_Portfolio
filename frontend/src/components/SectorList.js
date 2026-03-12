@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Loader2, AlertCircle, Grid3X3 } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function SectorList({ setSectorId }) {
   const [sectors, setSectors] = useState([]);
@@ -16,7 +17,7 @@ function SectorList({ setSectorId }) {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch("http://127.0.0.1:8000/api/sectors/");
+      const response = await fetch(apiUrl("/api/sectors/"));
       if (!response.ok) throw new Error("Failed to fetch sectors");
       const data = await response.json();
       setSectors(data);
@@ -24,9 +25,7 @@ function SectorList({ setSectorId }) {
       const counts = {};
       for (const sector of data) {
         try {
-          const stockResponse = await fetch(
-            `http://127.0.0.1:8000/api/stocks/${sector.id}/`
-          );
+          const stockResponse = await fetch(apiUrl(`/api/stocks/${sector.id}/`));
           if (stockResponse.ok) {
             const stocks = await stockResponse.json();
             counts[sector.id] = stocks.length;

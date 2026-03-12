@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Loader2, AlertCircle, Trash2, Eye, Package } from "lucide-react";
 import ClusteringPlot from "./ClusteringPlot";
+import { apiUrl } from "../utils/api";
 
 function Portfolio({ portfolioId, onStockClick, onPortfolioUpdate }) {
   const [stocks, setStocks] = useState([]);
@@ -18,7 +19,7 @@ function Portfolio({ portfolioId, onStockClick, onPortfolioUpdate }) {
     try {
       setLoading(true);
       setError(null);
-      const response = await fetch(`http://127.0.0.1:8000/api/portfolio/${portfolioId}/`);
+      const response = await fetch(apiUrl(`/api/portfolio/${portfolioId}/`));
       if (!response.ok) throw new Error("Failed to fetch portfolio");
       const data = await response.json();
 
@@ -50,7 +51,7 @@ function Portfolio({ portfolioId, onStockClick, onPortfolioUpdate }) {
         return;
       }
 
-      const response = await fetch("http://127.0.0.1:8000/api/remove-stock/", {
+      const response = await fetch(apiUrl("/api/remove-stock/"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

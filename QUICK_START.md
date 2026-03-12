@@ -15,6 +15,30 @@ bash scripts/setup.sh
 bash scripts/start_all.sh
 ```
 
+## Linux VM Access
+
+Run the services on the VM:
+
+```bash
+bash scripts/start_backend.sh
+bash scripts/start_frontend.sh
+```
+
+Then open these ports on the VM:
+
+```bash
+sudo ufw allow 8000/tcp
+sudo ufw allow 3000/tcp
+```
+
+If the VM is hosted in a cloud provider, also open ports `8000` and `3000` in the cloud firewall or security group.
+
+Open the frontend in your browser using:
+
+```text
+http://<vm-ip>:3000
+```
+
 If you want to run services separately:
 - Backend: `scripts\start_backend.bat` or `bash scripts/start_backend.sh`
 - Frontend: `scripts\start_frontend.bat` or `bash scripts/start_frontend.sh`

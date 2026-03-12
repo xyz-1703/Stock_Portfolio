@@ -14,5 +14,8 @@ if [[ ! -f "$ROOT_DIR/frontend/package.json" ]]; then
 fi
 
 cd "$ROOT_DIR/frontend"
-echo "Starting React frontend at http://localhost:3000/"
-npm start
+FRONTEND_HOST="${FRONTEND_HOST:-0.0.0.0}"
+FRONTEND_PORT="${FRONTEND_PORT:-3000}"
+
+echo "Starting React frontend at http://${FRONTEND_HOST}:${FRONTEND_PORT}/"
+HOST="$FRONTEND_HOST" PORT="$FRONTEND_PORT" npm start

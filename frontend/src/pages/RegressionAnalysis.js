@@ -8,6 +8,7 @@ import {
   BarChart3,
   Sparkles,
 } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function RegressionAnalysis() {
   const [loading, setLoading] = useState(false);
@@ -26,7 +27,7 @@ function RegressionAnalysis() {
       setError(null);
       // Metal type parameter is ignored - always analyzes both gold and silver together
       const response = await fetch(
-        `http://127.0.0.1:8000/api/regression/precious-metals/?metal=gold`
+        apiUrl("/api/regression/precious-metals/?metal=gold")
       );
       if (!response.ok) throw new Error("Failed to fetch regression data");
       const result = await response.json();

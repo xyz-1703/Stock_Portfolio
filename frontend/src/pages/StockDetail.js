@@ -3,6 +3,7 @@ import { ArrowLeft, Loader2, AlertCircle, TrendingUp } from "lucide-react";
 import PriceChart from "../components/PriceChart";
 import StockMetrics from "../components/StockMetrics";
 import OpportunityScore from "../components/OpportunityScore";
+import { apiUrl } from "../utils/api";
 
 function StockDetail({ symbol, onBack }) {
   const [stock, setStock] = useState(null);
@@ -14,7 +15,7 @@ function StockDetail({ symbol, onBack }) {
       try {
         setLoading(true);
         setError(null);
-        const response = await fetch(`http://127.0.0.1:8000/api/stock/${symbol}/`);
+        const response = await fetch(apiUrl(`/api/stock/${symbol}/`));
         if (!response.ok) throw new Error("Failed to fetch stock details");
         const data = await response.json();
         setStock(data);

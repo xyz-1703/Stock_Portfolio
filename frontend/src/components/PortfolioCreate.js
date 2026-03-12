@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Plus, AlertCircle, Loader2 } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function PortfolioCreate({ onCreated }) {
   const [showForm, setShowForm] = useState(false);
@@ -26,7 +27,7 @@ function PortfolioCreate({ onCreated }) {
 
     try {
       setLoading(true);
-      const response = await fetch("http://127.0.0.1:8000/api/portfolios/create/", {
+      const response = await fetch(apiUrl("/api/portfolios/create/"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(formData),

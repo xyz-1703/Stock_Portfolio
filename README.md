@@ -179,6 +179,43 @@ Backend runs at:
 * They also fall back to `env/Scripts/activate` for Git Bash on Windows
 * If `python3` is available, the scripts use it automatically
 
+### Running On A Linux VM
+
+Use the default script ports:
+
+```bash
+chmod +x scripts/*.sh
+bash scripts/setup.sh
+bash scripts/start_backend.sh
+bash scripts/start_frontend.sh
+```
+
+The scripts now bind to:
+
+* Django: `0.0.0.0:8000`
+* React: `0.0.0.0:3000`
+
+Open these ports on the VM:
+
+```bash
+sudo ufw allow 8000/tcp
+sudo ufw allow 3000/tcp
+```
+
+If your VM is in AWS, Azure, or GCP, also allow inbound traffic on ports `8000` and `3000` in the instance security rules.
+
+Access the app from your machine using:
+
+```text
+http://<vm-ip>:3000
+```
+
+The frontend will automatically call the backend on:
+
+```text
+http://<vm-ip>:8000
+```
+
 ---
 
 ## Testing

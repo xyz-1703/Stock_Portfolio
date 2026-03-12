@@ -30,5 +30,8 @@ if [[ ! -f "$ROOT_DIR/stock_portfolio/manage.py" ]]; then
 fi
 
 cd "$ROOT_DIR/stock_portfolio"
-echo "Starting Django backend at http://127.0.0.1:8000/"
-"$PYTHON_BIN" manage.py runserver
+DJANGO_HOST="${DJANGO_HOST:-0.0.0.0}"
+DJANGO_PORT="${DJANGO_PORT:-8000}"
+
+echo "Starting Django backend at http://${DJANGO_HOST}:${DJANGO_PORT}/"
+"$PYTHON_BIN" manage.py runserver "${DJANGO_HOST}:${DJANGO_PORT}"

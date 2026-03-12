@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Plot from "react-plotly.js";
 import { Loader2, AlertCircle, RefreshCw, Info } from "lucide-react";
+import { apiUrl } from "../utils/api";
 
 function ClusteringPlot({ portfolioId }) {
   const [clusteringData, setClusteringData] = useState(null);
@@ -21,7 +22,7 @@ function ClusteringPlot({ portfolioId }) {
       setLoading(true);
       setError(null);
       const response = await fetch(
-        `http://127.0.0.1:8000/api/portfolios/${portfolioId}/clustering/?n_clusters=${nClusters}`
+        apiUrl(`/api/portfolios/${portfolioId}/clustering/?n_clusters=${nClusters}`)
       );
       
       if (!response.ok) {
