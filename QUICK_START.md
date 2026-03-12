@@ -8,8 +8,9 @@ scripts\setup.bat
 scripts\start_all.bat
 ```
 
-### Git Bash / WSL
+### Linux / Git Bash / WSL
 ```bash
+chmod +x scripts/*.sh
 bash scripts/setup.sh
 bash scripts/start_all.sh
 ```

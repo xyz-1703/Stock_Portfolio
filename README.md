@@ -137,7 +137,8 @@ From project root:
 scripts\setup.bat
 scripts\start_all.bat
 
-# Git Bash / WSL
+# Linux / Git Bash / WSL
+chmod +x scripts/*.sh
 bash scripts/setup.sh
 bash scripts/start_all.sh
 ```
@@ -171,6 +172,12 @@ Backend runs at:
 * `scripts/start_backend.bat` or `scripts/start_backend.sh`: run Django backend
 * `scripts/start_frontend.bat` or `scripts/start_frontend.sh`: run React frontend
 * `scripts/start_all.bat` or `scripts/start_all.sh`: start both services
+
+### Linux VM Notes
+
+* The shell scripts support Linux virtual environments via `env/bin/activate`
+* They also fall back to `env/Scripts/activate` for Git Bash on Windows
+* If `python3` is available, the scripts use it automatically
 
 ---
 

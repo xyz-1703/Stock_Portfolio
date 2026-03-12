@@ -13,6 +13,8 @@ if [[ ! -f "$ROOT_DIR/scripts/start_frontend.sh" ]]; then
   exit 1
 fi
 
+chmod +x "$ROOT_DIR/scripts/start_backend.sh" "$ROOT_DIR/scripts/start_frontend.sh" 2>/dev/null || true
+
 bash "$ROOT_DIR/scripts/start_backend.sh" &
 BACKEND_PID=$!
 
