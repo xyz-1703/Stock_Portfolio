@@ -1,21 +1,21 @@
 {
   "symbol": "SBIN.NS",
   "name": "State Bank of India",
-  "current_price": 1091.1,
-  "pe_ratio": 11.876564,
-  "forward_pe": 11.745855,
+  "current_price": 1047.0,
+  "pe_ratio": 11.403987,
+  "forward_pe": 11.271112,
   "peg_ratio": null,
-  "price_to_book": 1.7012259,
+  "price_to_book": 1.632466,
   "profit_margin": 0.22498,
   "operating_margin": 0.29676,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 1234.7,
-  "fifty_two_week_low": 719.05,
-  "three_month_average_volume": 12045609,
-  "market_cap": 10071526342656,
-  "enterprise_value": 14178307801088,
-  "dividend_yield": 1.43,
+  "fifty_two_week_low": 722.3,
+  "three_month_average_volume": 12131699,
+  "market_cap": 9664456556544,
+  "enterprise_value": 13929081208832,
+  "dividend_yield": 1.47,
   "dividend_rate": 15.9,
   "payout_ratio": 0.1731,
   "five_year_avg_dividend_yield": 1.39,
@@ -24,31 +24,15 @@
   "industry": "Banks - Regional",
   "website": "https://sbi.bank.in",
   "description": "State Bank of India provides banking products and services in India and internationally. It operates through the Treasury, Corporate/Wholesale Banking, Retail Banking, and Other Banking Business segments. The company offers personal banking products and services, including current, savings, salary, and deposit accounts; home, personal, pension, auto, education, and gold loans, as well as loans against insurance policies, property, and securities; debit, business debit, prepaid, and green remit cards; overdrafts; mutual funds, insurance, equity trading, portfolio investment schemes, remittance services; digital lending; and mobile, internet, and digital banking services. It also provides corporate banking products and services comprising corporate accounts, working capital and project finance, deferred payment guarantees, corporate term loans, structured finance, dealer and channel financing, equipment leasing, loan syndication, construction equipment loans, financing Indian firms' overseas subsidiaries or JVs, and cash management, as well as trade and service products. In addition, the company offers NRI services, including accounts, investments, loans, and remittances; agricultural banking services; and international banking services. Further, it provides life and general insurance; estate planning services; merchant banking and advisory; securities broking; trusteeship service; factoring; payment solution; asset management; portfolio and investment management; credit cards; and custody and fund accounting services. State Bank of India was founded in 1806 and is headquartered in Mumbai, India.",
-  "previous_close": 1112.2,
-  "open_price": 1113.4,
-  "day_high": 1115.9,
-  "day_low": 1088.0,
-  "fifty_day_average": 1100.25,
-  "two_hundred_day_average": 928.861,
+  "previous_close": 1085.2,
+  "open_price": 1077.5,
+  "day_high": 1081.3,
+  "day_low": 1042.3,
+  "fifty_day_average": 1104.102,
+  "two_hundred_day_average": 931.6473,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:15.981085",
+  "last_updated": "2026-03-13T10:03:08.416256",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 963.25,
-      "open": 962.0999755859375,
-      "high": 966.5,
-      "low": 958.4500122070312,
-      "volume": 5979035
-    },
-    {
-      "date": "2025-12-12",
-      "close": 963.1500244140625,
-      "open": 966.0,
-      "high": 967.0,
-      "low": 958.0,
-      "volume": 5681930
-    },
     {
       "date": "2025-12-15",
       "close": 967.25,
@@ -527,7 +511,23 @@
       "open": 1113.4000244140625,
       "high": 1115.9000244140625,
       "low": 1088.0,
-      "volume": 8363152
+      "volume": 8364878
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1085.199951171875,
+      "open": 1075.0999755859375,
+      "high": 1098.0,
+      "low": 1070.5,
+      "volume": 14614140
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1047.0,
+      "open": 1077.5,
+      "high": 1081.300048828125,
+      "low": 1042.300048828125,
+      "volume": 15975580
     }
   ]
 }

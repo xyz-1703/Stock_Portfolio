@@ -12,7 +12,7 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 115.26,
   "fifty_two_week_low": 27.86,
-  "three_month_average_volume": 5402627,
+  "three_month_average_volume": 5341228,
   "market_cap": null,
   "enterprise_value": null,
   "dividend_yield": 0.0,
@@ -24,31 +24,15 @@
   "industry": "Unknown",
   "website": null,
   "description": "The shares are intended to constitute a simple and cost-effective means of making an investment similar to an investment in silver. An investment in physical silver requires expensive and sometimes complicated arrangements in connection with the assay, transportation, warehousing and insurance of the metal. Although the shares are not the exact equivalent of an investment in silver, they provide investors with an alternative that allows a level of participation in the silver market through the securities market.",
-  "previous_close": 82.2,
-  "open_price": 84.97,
-  "day_high": 85.35,
-  "day_low": 82.682,
-  "fifty_day_average": 81.7142,
-  "two_hundred_day_average": 52.26605,
+  "previous_close": 81.81,
+  "open_price": 82.51,
+  "day_high": 82.51,
+  "day_low": 80.21,
+  "fifty_day_average": 82.077,
+  "two_hundred_day_average": 52.75965,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:50.595190",
+  "last_updated": "2026-03-13T10:03:09.455728",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 60.470001220703125,
-      "open": 59.619998931884766,
-      "high": 61.20000076293945,
-      "low": 59.279998779296875,
-      "volume": 4143800
-    },
-    {
-      "date": "2025-12-12",
-      "close": 58.86000061035156,
-      "open": 61.4900016784668,
-      "high": 61.4900016784668,
-      "low": 57.91999816894531,
-      "volume": 3277800
-    },
     {
       "date": "2025-12-15",
       "close": 60.9900016784668,
@@ -511,7 +495,23 @@
       "open": 84.97000122070312,
       "high": 85.3499984741211,
       "low": 82.68000030517578,
-      "volume": 2897000
+      "volume": 2904800
+    },
+    {
+      "date": "2026-03-11",
+      "close": 81.80999755859375,
+      "open": 81.94999694824219,
+      "high": 81.97000122070312,
+      "low": 80.29000091552734,
+      "volume": 2331100
+    },
+    {
+      "date": "2026-03-12",
+      "close": 80.31999969482422,
+      "open": 82.51000213623047,
+      "high": 82.51000213623047,
+      "low": 80.20999908447266,
+      "volume": 2657600
     }
   ]
 }

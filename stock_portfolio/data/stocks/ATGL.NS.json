@@ -1,21 +1,21 @@
 {
   "symbol": "ATGL.NS",
   "name": "Adani Total Gas Limited",
-  "current_price": 566.9,
-  "pe_ratio": 96.740616,
+  "current_price": 565.9,
+  "pe_ratio": 97.0669,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 13.795538,
+  "price_to_book": 13.771203,
   "profit_margin": 0.11305001,
   "operating_margin": 0.16099001,
   "return_on_equity": null,
   "debt_to_equity": 44.513,
   "fifty_two_week_high": 798.0,
   "fifty_two_week_low": 462.8,
-  "three_month_average_volume": 666046,
-  "market_cap": 623812411392,
-  "enterprise_value": 534842933248,
-  "dividend_yield": 0.05,
+  "three_month_average_volume": 1757713,
+  "market_cap": 622712061952,
+  "enterprise_value": 683742593024,
+  "dividend_yield": 0.04,
   "dividend_rate": 0.25,
   "payout_ratio": 0.0428,
   "five_year_avg_dividend_yield": null,
@@ -24,31 +24,15 @@
   "industry": "Utilities - Regulated Gas",
   "website": "https://www.adanigas.com",
   "description": "Adani Total Gas Limited engages in the city gas distribution (CGD) business in India. The company supplies piped natural gas and compressed natural gas to the domestic, commercial, industrial, and transportation sectors. It also provides biogas, biofuel, biomass, LCNG, HCNG, EV, and hydrogen. In addition, the company manufactures various equipment; and offers value-added services related to the CGD business. The company was formerly known as Adani Gas Limited and changed its name to Adani Total Gas Limited in January 2021. Adani Total Gas Limited was founded in 2004 and is based in Ahmedabad, India.",
-  "previous_close": 472.45,
-  "open_price": 479.0,
-  "day_high": 566.9,
-  "day_low": 474.9,
-  "fifty_day_average": 531.716,
-  "two_hundred_day_average": 600.24475,
+  "previous_close": 607.6,
+  "open_price": 624.0,
+  "day_high": 644.85,
+  "day_low": 554.0,
+  "fifty_day_average": 531.572,
+  "two_hundred_day_average": 599.3057,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:41.790304",
+  "last_updated": "2026-03-13T10:02:47.957312",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 587.0499877929688,
-      "open": 588.0,
-      "high": 591.25,
-      "low": 581.5499877929688,
-      "volume": 300210
-    },
-    {
-      "date": "2025-12-12",
-      "close": 593.7000122070312,
-      "open": 589.4000244140625,
-      "high": 597.2999877929688,
-      "low": 589.1500244140625,
-      "volume": 288954
-    },
     {
       "date": "2025-12-15",
       "close": 592.5499877929688,
@@ -527,7 +511,23 @@
       "open": 479.0,
       "high": 566.9000244140625,
       "low": 474.8999938964844,
-      "volume": 18960159
+      "volume": 18960811
+    },
+    {
+      "date": "2026-03-12",
+      "close": 607.5999755859375,
+      "open": 594.0,
+      "high": 651.0,
+      "low": 589.9000244140625,
+      "volume": 48585918
+    },
+    {
+      "date": "2026-03-13",
+      "close": 565.9000244140625,
+      "open": 624.0,
+      "high": 644.8499755859375,
+      "low": 554.0,
+      "volume": 31842034
     }
   ]
 }

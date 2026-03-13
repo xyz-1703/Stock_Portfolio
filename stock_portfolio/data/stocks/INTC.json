@@ -1,20 +1,20 @@
 {
   "symbol": "INTC",
   "name": "Intel Corporation",
-  "current_price": 46.78,
+  "current_price": 45.25,
   "pe_ratio": null,
-  "forward_pe": 47.19627,
+  "forward_pe": 45.652657,
   "peg_ratio": null,
-  "price_to_book": 2.0442228,
+  "price_to_book": 1.9773641,
   "profit_margin": -0.00505,
   "operating_margin": 0.051409997,
   "return_on_equity": 0.00022,
   "debt_to_equity": 37.282,
   "fifty_two_week_high": 54.6,
   "fifty_two_week_low": 17.67,
-  "three_month_average_volume": 102029038,
-  "market_cap": 233674440704,
-  "enterprise_value": 255438094336,
+  "three_month_average_volume": 101491845,
+  "market_cap": 226031828992,
+  "enterprise_value": 247795744768,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
@@ -24,31 +24,15 @@
   "industry": "Semiconductors",
   "website": "https://www.intel.com",
   "description": "Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services. It also provides driving assistance and self-driving solutions; and develops and manufactures multi-beam mask writing tools. The company sells its products through sales organizations, distributors, resellers, retailers, and OEM partners. It serves original equipment manufacturers, original design manufacturers, cloud service providers, and other manufacturers and service providers. Intel Corporation has a strategic collaboration with Infosys Limited to develop a multi-layer AI fabric that unifies infrastructure, models, data, applications, and workflows into a composable and agent-ready ecosystem. The company was incorporated in 1968 and is headquartered in Santa Clara, California.",
-  "previous_close": 45.58,
-  "open_price": 45.44,
-  "day_high": 47.875,
-  "day_low": 45.41,
-  "fifty_day_average": 45.4288,
-  "two_hundred_day_average": 33.1747,
+  "previous_close": 47.98,
+  "open_price": 47.362,
+  "day_high": 47.43,
+  "day_low": 45.17,
+  "fifty_day_average": 45.8358,
+  "two_hundred_day_average": 33.43785,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:57.002920",
+  "last_updated": "2026-03-13T10:03:00.908284",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 39.5099983215332,
-      "open": 40.06999969482422,
-      "high": 40.189998626708984,
-      "low": 39.08000183105469,
-      "volume": 59096800
-    },
-    {
-      "date": "2025-12-12",
-      "close": 37.810001373291016,
-      "open": 39.25,
-      "high": 40.029998779296875,
-      "low": 37.619998931884766,
-      "volume": 87784500
-    },
     {
       "date": "2025-12-15",
       "close": 37.5099983215332,
@@ -511,7 +495,23 @@
       "open": 45.40999984741211,
       "high": 47.880001068115234,
       "low": 45.40999984741211,
-      "volume": 85037500
+      "volume": 85233300
+    },
+    {
+      "date": "2026-03-11",
+      "close": 47.97999954223633,
+      "open": 46.81999969482422,
+      "high": 48.83000183105469,
+      "low": 46.65999984741211,
+      "volume": 72480600
+    },
+    {
+      "date": "2026-03-12",
+      "close": 45.25,
+      "open": 47.400001525878906,
+      "high": 47.439998626708984,
+      "low": 45.16999816894531,
+      "volume": 84905500
     }
   ]
 }

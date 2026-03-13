@@ -1,21 +1,21 @@
 {
   "symbol": "GS",
   "name": "The Goldman Sachs Group, Inc.",
-  "current_price": 833.81,
-  "pe_ratio": 16.259945,
-  "forward_pe": 12.819563,
+  "current_price": 787.52,
+  "pe_ratio": 15.33632,
+  "forward_pe": 12.107869,
   "peg_ratio": null,
-  "price_to_book": 2.339055,
+  "price_to_book": 2.2091997,
   "profit_margin": 0.28917998,
   "operating_margin": 0.38319,
   "return_on_equity": 0.13861,
   "debt_to_equity": 596.073,
   "fifty_two_week_high": 984.7,
   "fifty_two_week_low": 439.38,
-  "three_month_average_volume": 2434177,
-  "market_cap": 250083393536,
-  "enterprise_value": 23655667712,
-  "dividend_yield": 2.16,
+  "three_month_average_volume": 2444341,
+  "market_cap": 236199706624,
+  "enterprise_value": 9382292480,
+  "dividend_yield": 2.29,
   "dividend_rate": 18.0,
   "payout_ratio": 0.2728,
   "five_year_avg_dividend_yield": 2.18,
@@ -24,31 +24,15 @@
   "industry": "Capital Markets",
   "website": "https://www.goldmansachs.com",
   "description": "The Goldman Sachs Group, Inc., a financial institution, provides a range of financial services for corporations, financial institutions, governments, and individuals in the Americas, Europe, the Middle East, Africa, and Asia. It operates through three segments: Global Banking & Markets, Asset & Wealth Management, and Platform Solutions. The Global Banking & Markets segment provides financial advisory services, including strategic advisory assignments related to mergers and acquisitions, divestitures, corporate defense activities, restructurings, and spin-offs; equity and debt underwriting of public offerings and private placements; relationship lending and acquisition financing; secured lending through structured credit and asset-backed lending, such as warehouse, residential and commercial mortgage, corporate, consumer, auto, and student loans; financing through securities purchased under agreements to resell; and commodity financing through structured transactions. This segment also offers client execution activities for cash and derivative instruments; credit and interest rate products; and provision of mortgages, currencies, commodities, and equities related products. Its Asset & Wealth Management segment manages assets across various classes, including equity, fixed income, hedge funds, credit funds, private equity, real estate, currencies, commodities, and asset allocation strategies; and provides customized investment advisory solutions, wealth advisory services, personalized financial planning, and private banking services, as well as invests in corporate equity, credit, real estate, and infrastructure assets. The Platform Solutions segment offers credit cards; and transaction banking and other services, such as deposit-taking, payment solutions, and other cash management services for corporate and institutional clients. The Goldman Sachs Group, Inc. was founded in 1869 and is headquartered in New York, New York.",
-  "previous_close": 832.03,
-  "open_price": 834.68,
-  "day_high": 846.0,
-  "day_low": 826.35,
-  "fifty_day_average": 915.3978,
-  "two_hundred_day_average": 790.9249,
+  "previous_close": 823.76,
+  "open_price": 805.32,
+  "day_high": 804.38,
+  "day_low": 784.1,
+  "fifty_day_average": 911.639,
+  "two_hundred_day_average": 792.9975,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:31.404027",
+  "last_updated": "2026-03-13T10:02:55.812325",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 906.2606201171875,
-      "open": 885.3207721527939,
-      "high": 914.2883187583428,
-      "low": 883.3511572446945,
-      "volume": 2683000
-    },
-    {
-      "date": "2025-12-12",
-      "close": 883.3114013671875,
-      "open": 908.9663645061288,
-      "high": 910.1998631823126,
-      "low": 882.3464479088005,
-      "volume": 2715200
-    },
     {
       "date": "2025-12-15",
       "close": 884.932861328125,
@@ -511,7 +495,23 @@
       "open": 834.6799926757812,
       "high": 846.0900268554688,
       "low": 826.3499755859375,
-      "volume": 1869600
+      "volume": 1871900
+    },
+    {
+      "date": "2026-03-11",
+      "close": 823.760009765625,
+      "open": 829.9500122070312,
+      "high": 832.7999877929688,
+      "low": 810.5399780273438,
+      "volume": 2227000
+    },
+    {
+      "date": "2026-03-12",
+      "close": 787.52001953125,
+      "open": 805.3200073242188,
+      "high": 807.2100219726562,
+      "low": 784.0999755859375,
+      "volume": 3529900
     }
   ]
 }

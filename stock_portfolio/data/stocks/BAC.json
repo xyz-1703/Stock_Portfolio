@@ -1,21 +1,21 @@
 {
   "symbol": "BAC",
   "name": "Bank of America Corporation",
-  "current_price": 48.56,
-  "pe_ratio": 12.745407,
-  "forward_pe": 9.801151,
+  "current_price": 47.13,
+  "pe_ratio": 12.370079,
+  "forward_pe": 9.512526,
   "peg_ratio": null,
-  "price_to_book": 1.2632345,
+  "price_to_book": 1.2260346,
   "profit_margin": 0.28401,
   "operating_margin": 0.41627997,
   "return_on_equity": 0.10217,
   "debt_to_equity": null,
   "fifty_two_week_high": 57.55,
   "fifty_two_week_low": 33.07,
-  "three_month_average_volume": 40735896,
-  "market_cap": 354609201152,
-  "enterprise_value": 371400671232,
-  "dividend_yield": 2.31,
+  "three_month_average_volume": 41056966,
+  "market_cap": 344166629376,
+  "enterprise_value": 361138028544,
+  "dividend_yield": 2.38,
   "dividend_rate": 1.12,
   "payout_ratio": 0.28350002,
   "five_year_avg_dividend_yield": 2.33,
@@ -24,31 +24,15 @@
   "industry": "Banks - Diversified",
   "website": "https://www.bankofamerica.com",
   "description": "Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. It operates through four segments: Consumer Banking, Global Wealth & Investment Management (GWIM), Global Banking, and Global Markets. The Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, checking accounts, and investment accounts and products; credit and debit cards; residential mortgages and home equity loans; and direct and indirect loans. The GWIM segment provides investment management, brokerage, banking, and trust and retirement products and services; wealth management solutions; and customized solutions, including specialty asset management services. The Global Banking segment offers lending products and services, including commercial loans, leases, commitment facilities, trade finance, and commercial real estate and asset-based lending; treasury solutions, and underwriting and advisory services. The Global Markets segment provides market-making, financing, securities clearing, settlement, and custody services; securities and derivative products; and risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related products. Bank of America Corporation was founded in 1784 and is based in Charlotte, North Carolina.",
-  "previous_close": 47.9,
-  "open_price": 48.28,
-  "day_high": 49.145,
-  "day_low": 47.595,
-  "fifty_day_average": 53.1244,
-  "two_hundred_day_average": 50.54825,
+  "previous_close": 48.52,
+  "open_price": 47.7,
+  "day_high": 47.7824,
+  "day_low": 46.79,
+  "fifty_day_average": 52.807,
+  "two_hundred_day_average": 50.59395,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:21.585730",
+  "last_updated": "2026-03-13T10:02:49.130117",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 54.253299713134766,
-      "open": 53.646728138618656,
-      "high": 54.34279394205114,
-      "low": 53.44785165288745,
-      "volume": 35686900
-    },
-    {
-      "date": "2025-12-12",
-      "close": 54.83003616333008,
-      "open": 54.47205925540681,
-      "high": 54.989136589823374,
-      "low": 54.04447614797107,
-      "volume": 40539400
-    },
     {
       "date": "2025-12-15",
       "close": 55.01897048950195,
@@ -511,7 +495,23 @@
       "open": 48.279998779296875,
       "high": 49.150001525878906,
       "low": 47.599998474121094,
-      "volume": 50229200
+      "volume": 50271100
+    },
+    {
+      "date": "2026-03-11",
+      "close": 48.52000045776367,
+      "open": 48.36000061035156,
+      "high": 48.650001525878906,
+      "low": 47.779998779296875,
+      "volume": 42185800
+    },
+    {
+      "date": "2026-03-12",
+      "close": 47.130001068115234,
+      "open": 47.70000076293945,
+      "high": 47.779998779296875,
+      "low": 46.790000915527344,
+      "volume": 58311800
     }
   ]
 }

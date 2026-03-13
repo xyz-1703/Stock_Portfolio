@@ -5,15 +5,15 @@
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 2.8106601,
+  "price_to_book": 2.7460785,
   "profit_margin": null,
   "operating_margin": null,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 509.7,
-  "fifty_two_week_low": 268.36,
-  "three_month_average_volume": 18293086,
-  "market_cap": 124386951168,
+  "fifty_two_week_low": 272.58,
+  "three_month_average_volume": 18031876,
+  "market_cap": 121528868864,
   "enterprise_value": null,
   "dividend_yield": 0.0,
   "dividend_rate": null,
@@ -24,31 +24,15 @@
   "industry": "Unknown",
   "website": null,
   "description": "The Trust holds gold bars and from time to time, issues Baskets in exchange for deposits of gold and distributes gold in connection with redemptions of Baskets. The investment objective of the Trust is for the Shares to reflect the performance of the price of gold bullion, less the Trust\u2019s expenses. The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold.",
-  "previous_close": 472.53,
-  "open_price": 479.74,
-  "day_high": 481.2933,
-  "day_low": 474.26,
-  "fifty_day_average": 448.7234,
-  "two_hundred_day_average": 368.35065,
+  "previous_close": 476.24,
+  "open_price": 475.02,
+  "day_high": 475.02,
+  "day_low": 466.6,
+  "fifty_day_average": 451.279,
+  "two_hundred_day_average": 370.00195,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:43.417663",
+  "last_updated": "2026-03-13T10:02:53.614398",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 393.239990234375,
-      "open": 389.0199890136719,
-      "high": 394.0899963378906,
-      "low": 388.5,
-      "volume": 11240600
-    },
-    {
-      "date": "2025-12-12",
-      "close": 395.44000244140625,
-      "open": 399.1600036621094,
-      "high": 400.3900146484375,
-      "low": 391.4700012207031,
-      "volume": 16792100
-    },
     {
       "date": "2025-12-15",
       "close": 395.79998779296875,
@@ -511,7 +495,23 @@
       "open": 479.739990234375,
       "high": 481.30999755859375,
       "low": 474.2099914550781,
-      "volume": 9590900
+      "volume": 9616800
+    },
+    {
+      "date": "2026-03-11",
+      "close": 476.239990234375,
+      "open": 476.1300048828125,
+      "high": 477.45001220703125,
+      "low": 473.1300048828125,
+      "volume": 7522900
+    },
+    {
+      "date": "2026-03-12",
+      "close": 466.8800048828125,
+      "open": 475.0199890136719,
+      "high": 475.0199890136719,
+      "low": 466.6000061035156,
+      "volume": 11863800
     }
   ]
 }

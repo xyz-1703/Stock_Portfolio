@@ -1,21 +1,21 @@
 {
   "symbol": "MBGYY",
   "name": "Mercedes-Benz Group AG",
-  "current_price": 15.86,
-  "pe_ratio": 8.481283,
-  "forward_pe": 8.923986,
+  "current_price": 15.9,
+  "pe_ratio": 8.502673,
+  "forward_pe": 9.003541,
   "peg_ratio": null,
-  "price_to_book": 0.14016156,
+  "price_to_book": 0.14141105,
   "profit_margin": 0.03888,
   "operating_margin": 0.10762999,
   "return_on_equity": 0.056750003,
   "debt_to_equity": 106.409,
   "fifty_two_week_high": 18.16,
   "fifty_two_week_low": 12.55,
-  "three_month_average_volume": 222113,
-  "market_cap": 56379768832,
-  "enterprise_value": 99388260352,
-  "dividend_yield": 7.52,
+  "three_month_average_volume": 226046,
+  "market_cap": 56521965568,
+  "enterprise_value": 99426549760,
+  "dividend_yield": 7.5,
   "dividend_rate": 1.19,
   "payout_ratio": 0.64919996,
   "five_year_avg_dividend_yield": 6.75,
@@ -24,31 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://group.mercedes-benz.com",
   "description": "Mercedes-Benz Group AG operates as an automotive company in Europe, Germany, North America, the United States, Asia, China, and internationally. It operates through Mercedes-Benz Cars, Mercedes-Benz Vans, and Mercedes-Benz Financial Services segments. The company develops, manufactures, and sells cars and vans under the Mercedes-Benz, Mercedes-AMG, Mercedes-Maybach, G-Class brands, as well as related spare parts and accessories. It also provides financing, leasing, vehicle subscription and rental, fleet management, insurance, and digital services related to charging electric vehicles. The company was formerly known as Daimler AG and changed its name to Mercedes-Benz Group AG in February 2022. Mercedes-Benz Group AG was founded in 1886 and is headquartered in Stuttgart, Germany.",
-  "previous_close": 16.0,
-  "open_price": 16.04,
-  "day_high": 16.13,
-  "day_low": 15.81,
-  "fifty_day_average": 17.1556,
-  "two_hundred_day_average": 16.01425,
+  "previous_close": 15.9,
+  "open_price": 15.68,
+  "day_high": 15.92,
+  "day_low": 15.6,
+  "fifty_day_average": 17.0922,
+  "two_hundred_day_average": 16.0276,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:02.944984",
+  "last_updated": "2026-03-13T10:03:03.351510",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 17.90999984741211,
-      "open": 17.8799991607666,
-      "high": 17.989999771118164,
-      "low": 17.81999969482422,
-      "volume": 67300
-    },
-    {
-      "date": "2025-12-12",
-      "close": 18.030000686645508,
-      "open": 18.0,
-      "high": 18.1200008392334,
-      "low": 18.0,
-      "volume": 142300
-    },
     {
       "date": "2025-12-15",
       "close": 17.84000015258789,
@@ -512,6 +496,22 @@
       "high": 16.15999984741211,
       "low": 15.8100004196167,
       "volume": 360000
+    },
+    {
+      "date": "2026-03-11",
+      "close": 15.899999618530273,
+      "open": 15.84000015258789,
+      "high": 16.0,
+      "low": 15.75,
+      "volume": 205700
+    },
+    {
+      "date": "2026-03-12",
+      "close": 15.899999618530273,
+      "open": 15.640000343322754,
+      "high": 15.930000305175781,
+      "low": 15.600000381469727,
+      "volume": 394700
     }
   ]
 }

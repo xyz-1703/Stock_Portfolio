@@ -1,21 +1,21 @@
 {
   "symbol": "SCHW",
   "name": "The Charles Schwab Corporation",
-  "current_price": 93.17,
-  "pe_ratio": 20.036558,
-  "forward_pe": 13.716781,
+  "current_price": 91.24,
+  "pe_ratio": 19.621504,
+  "forward_pe": 13.438575,
   "peg_ratio": null,
-  "price_to_book": 3.8400033,
+  "price_to_book": 3.7604582,
   "profit_margin": 0.37005,
   "operating_margin": 0.49683997,
   "return_on_equity": 0.18101999,
   "debt_to_equity": 115.32,
   "fifty_two_week_high": 107.5,
   "fifty_two_week_low": 65.88,
-  "three_month_average_volume": 10762961,
-  "market_cap": 165557207040,
-  "enterprise_value": 130093449216,
-  "dividend_yield": 1.37,
+  "three_month_average_volume": 10621420,
+  "market_cap": 162127708160,
+  "enterprise_value": 126711676928,
+  "dividend_yield": 1.4,
   "dividend_rate": 1.28,
   "payout_ratio": 0.2323,
   "five_year_avg_dividend_yield": 1.24,
@@ -24,31 +24,15 @@
   "industry": "Capital Markets",
   "website": "https://www.schwab.com",
   "description": "The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company operates in two segments, Investor Services and Advisor Services. It offers brokerage accounts with equity and fixed income trading, margin lending, options trading, futures and forex trading, and cash management capabilities, including money market funds, and certificates of deposit; third-party mutual funds through the Mutual Fund Marketplace and Mutual Fund OneSource service, as well as mutual fund trading and clearing services to broker-dealers; exchange-traded funds; advisory solutions for managed portfolios, separately managed accounts, customized personal advice for tailored portfolios, specialized planning, and full-time portfolio management; banking products comprising checking and savings accounts, first lien residential real estate mortgage loans, home equity lines of credit, and pledged asset lines; and trust custody services, personal trust reporting services, and administrative trustee services. It provides digital and software based trading platforms; research tools, and multichannel support, real-time market data, options trading; equity compensation plan sponsors full-service recordkeeping for stock plans, stock options, restricted stock, performance shares, and stock appreciation rights; retirement plan services; mutual fund clearing services; and advisor services, including interactive tools and educational content. The Company operates through branch offices. The Charles Schwab Corporation was founded in 1971 and is headquartered in Westlake, Texas.",
-  "previous_close": 94.38,
-  "open_price": 94.4,
-  "day_high": 94.615,
-  "day_low": 92.59,
-  "fifty_day_average": 99.5984,
-  "two_hundred_day_average": 95.12605,
+  "previous_close": 92.67,
+  "open_price": 91.82,
+  "day_high": 92.04,
+  "day_low": 90.505,
+  "fifty_day_average": 99.2126,
+  "two_hundred_day_average": 95.17205,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:17.380006",
+  "last_updated": "2026-03-13T10:03:08.961464",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 96.72337341308594,
-      "open": 95.23838265398213,
-      "high": 96.76323209857796,
-      "low": 94.54074160211383,
-      "volume": 10564900
-    },
-    {
-      "date": "2025-12-12",
-      "close": 96.32472229003906,
-      "open": 96.66357435739445,
-      "high": 97.07219813667095,
-      "low": 94.06235780281808,
-      "volume": 13406700
-    },
     {
       "date": "2025-12-15",
       "close": 94.9593276977539,
@@ -511,7 +495,23 @@
       "open": 94.4000015258789,
       "high": 94.62000274658203,
       "low": 92.58999633789062,
-      "volume": 7015000
+      "volume": 7017500
+    },
+    {
+      "date": "2026-03-11",
+      "close": 92.66999816894531,
+      "open": 92.94999694824219,
+      "high": 93.48999786376953,
+      "low": 91.20999908447266,
+      "volume": 6460400
+    },
+    {
+      "date": "2026-03-12",
+      "close": 91.23999786376953,
+      "open": 91.81999969482422,
+      "high": 92.04000091552734,
+      "low": 90.51000213623047,
+      "volume": 9214300
     }
   ]
 }

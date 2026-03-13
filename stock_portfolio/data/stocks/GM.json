@@ -1,21 +1,21 @@
 {
   "symbol": "GM",
   "name": "General Motors Company",
-  "current_price": 74.93,
-  "pe_ratio": 22.914373,
-  "forward_pe": 5.399683,
+  "current_price": 73.45,
+  "pe_ratio": 22.461773,
+  "forward_pe": 5.2930293,
   "peg_ratio": null,
-  "price_to_book": 1.108268,
+  "price_to_book": 1.0863777,
   "profit_margin": 0.014579999,
   "operating_margin": 0.065359995,
   "return_on_equity": 0.04318,
   "debt_to_equity": 208.299,
   "fifty_two_week_high": 87.62,
   "fifty_two_week_low": 41.6,
-  "three_month_average_volume": 8688022,
-  "market_cap": 69899296768,
-  "enterprise_value": 173692305408,
-  "dividend_yield": 0.96,
+  "three_month_average_volume": 8598728,
+  "market_cap": 68518662144,
+  "enterprise_value": 172354437120,
+  "dividend_yield": 0.98,
   "dividend_rate": 0.72,
   "payout_ratio": 0.1743,
   "five_year_avg_dividend_yield": 4.06,
@@ -24,31 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.gm.com",
   "description": "General Motors Company designs, builds, and sells trucks, crossovers, cars, and automobile parts worldwide. It operates through GM North America, GM International, and GM Financial segments. The company markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names. In addition, it sells trucks, crossovers, cars, and automobile parts through retail dealers, distributors and dealers, as well as to fleet customers, including daily rental car companies, commercial fleet customers, leasing companies, and governments. Further, the company offers various range of after-sale services through dealer network, such as maintenance, light repairs, collision repairs, vehicle accessories, and extended service warranties. Additionally, it provides automotive financing; and software-enabled services and subscriptions. General Motors Company was founded in 1908 and is based in Detroit, Michigan.",
-  "previous_close": 74.69,
-  "open_price": 74.84,
-  "day_high": 77.2,
-  "day_low": 74.84,
-  "fifty_day_average": 81.3298,
-  "two_hundred_day_average": 65.4097,
+  "previous_close": 74.79,
+  "open_price": 73.24,
+  "day_high": 74.02,
+  "day_low": 73.1,
+  "fifty_day_average": 80.9748,
+  "two_hundred_day_average": 65.66105,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:29.801962",
+  "last_updated": "2026-03-13T10:02:54.132209",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 80.65901184082031,
-      "open": 80.14024355161985,
-      "high": 81.02814055425188,
-      "low": 80.11031563646607,
-      "volume": 9686800
-    },
-    {
-      "date": "2025-12-12",
-      "close": 80.69892120361328,
-      "open": 80.66899328736962,
-      "high": 81.35736580646336,
-      "low": 80.44951175308626,
-      "volume": 9649500
-    },
     {
       "date": "2025-12-15",
       "close": 81.7863540649414,
@@ -511,7 +495,23 @@
       "open": 74.83999633789062,
       "high": 77.19999694824219,
       "low": 74.83999633789062,
-      "volume": 8912200
+      "volume": 8915600
+    },
+    {
+      "date": "2026-03-11",
+      "close": 74.79000091552734,
+      "open": 75.45999908447266,
+      "high": 76.58000183105469,
+      "low": 74.37000274658203,
+      "volume": 5636100
+    },
+    {
+      "date": "2026-03-12",
+      "close": 73.44999694824219,
+      "open": 73.23999786376953,
+      "high": 74.0199966430664,
+      "low": 73.0999984741211,
+      "volume": 7340400
     }
   ]
 }

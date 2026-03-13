@@ -1,20 +1,20 @@
 {
   "symbol": "VOLTAS.NS",
   "name": "Voltas Limited",
-  "current_price": 1471.4,
-  "pe_ratio": 97.637695,
-  "forward_pe": 49.78912,
+  "current_price": 1414.2,
+  "pe_ratio": 93.84207,
+  "forward_pe": 47.85359,
   "peg_ratio": null,
-  "price_to_book": 7.6911416,
+  "price_to_book": 7.392152,
   "profit_margin": 0.03545,
   "operating_margin": 0.051020004,
   "return_on_equity": null,
   "debt_to_equity": 27.449,
   "fifty_two_week_high": 1582.5,
   "fifty_two_week_low": 1190.0,
-  "three_month_average_volume": 746365,
-  "market_cap": 486863798272,
-  "enterprise_value": 482745581568,
+  "three_month_average_volume": 759991,
+  "market_cap": 467937165312,
+  "enterprise_value": 482910863360,
   "dividend_yield": 0.48,
   "dividend_rate": 7.0,
   "payout_ratio": 0.46240002,
@@ -24,31 +24,15 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "website": "https://www.voltas.com",
   "description": "Voltas Limited operates as an air conditioning and engineering solutions provider primarily in India, the Middle East, Africa, and internationally. It operates through three segments: Unitary Cooling Products; Electro - Mechanical Projects and Services; and Engineering Products and Services. The company manufactures, sells, and services cooling appliances and cold storage products, such as room air conditioners, water dispensers and coolers, visi coolers, chest and convertible freezers, cold rooms, medical refrigeration, air coolers and purifiers, water heaters, ducted AC, variable refrigerant flow, cassette and tower AC, and chillers, as well as refrigerators, washing machines, microwave ovens, dishwashers, dry iron, and mixer grinders. It also offers a comprehensive range of electro-mechanical services, including HVAC (heating, ventilation, and air conditioning), electrical systems, plumbing, firefighting, extra low voltage, and specialized services. In addition, the company provides facilities maintenance services, such as operations and maintenance contracts in various sectors, AMCs, retrofit jobs, etc. Further, it engages in the provision of water treatment solutions for industrial and domestic sewage segments, as well as last mile connectivity of water tab under various government schemes; sale and service of capital machinery for textile industry; sale of spares and accessories for textile equipment; and sale of mining and construction equipment. Additionally, the company offers operations and maintenance services for mining and construction industry; undertakes rural electrification, power augmentation, substations, industrial electrification, and solar projects related to engineering, procurement, and construction. Furthermore, it engages in manufacturing of ducts and ducts accessories; drilling, irrigation, and landscaping activities; and construction of water treatment plants. Voltas Limited was incorporated in 1954 and is headquartered in Mumbai, India.",
-  "previous_close": 1448.9,
-  "open_price": 1455.0,
-  "day_high": 1509.8,
-  "day_low": 1453.2,
-  "fifty_day_average": 1444.582,
-  "two_hundred_day_average": 1381.708,
+  "previous_close": 1449.4,
+  "open_price": 1440.0,
+  "day_high": 1448.9,
+  "day_low": 1385.2,
+  "fifty_day_average": 1446.708,
+  "two_hundred_day_average": 1383.719,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:40.305288",
+  "last_updated": "2026-03-13T10:03:19.299165",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 1353.4000244140625,
-      "open": 1331.0,
-      "high": 1356.0,
-      "low": 1327.699951171875,
-      "volume": 454556
-    },
-    {
-      "date": "2025-12-12",
-      "close": 1377.199951171875,
-      "open": 1355.0,
-      "high": 1379.699951171875,
-      "low": 1353.5999755859375,
-      "volume": 371973
-    },
     {
       "date": "2025-12-15",
       "close": 1388.9000244140625,
@@ -527,7 +511,23 @@
       "open": 1455.0,
       "high": 1509.800048828125,
       "low": 1453.199951171875,
-      "volume": 1149762
+      "volume": 1149992
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1449.4000244140625,
+      "open": 1469.0,
+      "high": 1474.800048828125,
+      "low": 1420.0,
+      "volume": 799532
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1414.199951171875,
+      "open": 1440.0,
+      "high": 1448.9000244140625,
+      "low": 1385.199951171875,
+      "volume": 1524620
     }
   ]
 }

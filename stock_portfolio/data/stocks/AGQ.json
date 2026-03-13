@@ -12,10 +12,10 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 431.47,
   "fifty_two_week_low": 31.88,
-  "three_month_average_volume": 8814947,
+  "three_month_average_volume": 8623823,
   "market_cap": null,
   "enterprise_value": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": null,
   "five_year_avg_dividend_yield": null,
@@ -23,32 +23,16 @@
   "sector": "Unknown",
   "industry": "Unknown",
   "website": null,
-  "description": "The fund seeks to meet its investment objective by investing, under normal market conditions, in any one of, or combinations of, Financial Instruments (including swap agreements, futures contracts, forward contracts and option contracts) based on the benchmark. The types and mix of Financial Instruments in which the fund invests may vary daily at the discretion of the Sponsor. It will not invest directly in any commodity.",
-  "previous_close": 162.06,
-  "open_price": 172.79,
-  "day_high": 174.25,
-  "day_low": 163.2,
-  "fifty_day_average": 197.2844,
-  "two_hundred_day_average": 102.84935,
+  "description": "",
+  "previous_close": 159.34,
+  "open_price": 161.955,
+  "day_high": 161.91,
+  "day_low": 153.1601,
+  "fifty_day_average": 196.2202,
+  "two_hundred_day_average": 104.00435,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:40.872876",
+  "last_updated": "2026-03-13T10:02:47.459488",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 133.39999389648438,
-      "open": 129.67999267578125,
-      "high": 136.5500030517578,
-      "low": 128.4499969482422,
-      "volume": 5490700
-    },
-    {
-      "date": "2025-12-12",
-      "close": 125.4000015258789,
-      "open": 137.6999969482422,
-      "high": 137.80999755859375,
-      "low": 121.02999877929688,
-      "volume": 8328800
-    },
     {
       "date": "2025-12-15",
       "close": 133.64999389648438,
@@ -511,7 +495,23 @@
       "open": 172.7899932861328,
       "high": 174.25999450683594,
       "low": 163.1999969482422,
-      "volume": 3745800
+      "volume": 3793000
+    },
+    {
+      "date": "2026-03-11",
+      "close": 159.33999633789062,
+      "open": 159.92999267578125,
+      "high": 160.0,
+      "low": 153.16000366210938,
+      "volume": 3343700
+    },
+    {
+      "date": "2026-03-12",
+      "close": 153.6199951171875,
+      "open": 161.9600067138672,
+      "high": 162.0,
+      "low": 153.16000366210938,
+      "volume": 2285400
     }
   ]
 }

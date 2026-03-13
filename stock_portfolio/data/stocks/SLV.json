@@ -5,15 +5,15 @@
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 3.7516394,
+  "price_to_book": 3.5825372,
   "profit_margin": null,
   "operating_margin": null,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 109.83,
   "fifty_two_week_low": 26.57,
-  "three_month_average_volume": 110391376,
-  "market_cap": 27346728960,
+  "three_month_average_volume": 108248190,
+  "market_cap": 26114095104,
   "enterprise_value": null,
   "dividend_yield": 0.0,
   "dividend_rate": null,
@@ -24,31 +24,15 @@
   "industry": "Unknown",
   "website": null,
   "description": "The Trust seeks to reflect such performance before payment of the Trust's expenses and liabilities. It is not actively managed. The Trust does not engage in any activities designed to obtain a profit from, or to ameliorate losses caused by, changes in the price of silver.",
-  "previous_close": 78.26,
-  "open_price": 80.89,
-  "day_high": 81.2788,
-  "day_low": 78.7312,
-  "fifty_day_average": 77.8214,
-  "two_hundred_day_average": 49.79485,
+  "previous_close": 77.91,
+  "open_price": 78.53,
+  "day_high": 78.54,
+  "day_low": 76.36,
+  "fifty_day_average": 78.1666,
+  "two_hundred_day_average": 50.2644,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:51.454902",
+  "last_updated": "2026-03-13T10:03:10.059306",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 57.619998931884766,
-      "open": 56.77000045776367,
-      "high": 58.29999923706055,
-      "low": 56.470001220703125,
-      "volume": 67910900
-    },
-    {
-      "date": "2025-12-12",
-      "close": 56.099998474121094,
-      "open": 58.529998779296875,
-      "high": 58.560001373291016,
-      "low": 55.130001068115234,
-      "volume": 78667400
-    },
     {
       "date": "2025-12-15",
       "close": 58.11000061035156,
@@ -511,7 +495,23 @@
       "open": 80.88999938964844,
       "high": 81.27999877929688,
       "low": 78.7300033569336,
-      "volume": 37038300
+      "volume": 37263700
+    },
+    {
+      "date": "2026-03-11",
+      "close": 77.91000366210938,
+      "open": 78.02999877929688,
+      "high": 78.05999755859375,
+      "low": 76.44999694824219,
+      "volume": 30665400
+    },
+    {
+      "date": "2026-03-12",
+      "close": 76.4800033569336,
+      "open": 78.52999877929688,
+      "high": 78.54000091552734,
+      "low": 76.36000061035156,
+      "volume": 29576800
     }
   ]
 }

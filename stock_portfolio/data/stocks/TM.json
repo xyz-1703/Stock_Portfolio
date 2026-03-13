@@ -1,21 +1,21 @@
 {
   "symbol": "TM",
   "name": "Toyota Motor Corporation",
-  "current_price": 221.01,
-  "pe_ratio": 12.312534,
-  "forward_pe": 14.005703,
+  "current_price": 216.59,
+  "pe_ratio": 12.120313,
+  "forward_pe": 13.725602,
   "peg_ratio": null,
-  "price_to_book": 11.666482,
+  "price_to_book": 11.522285,
   "profit_margin": 0.073249996,
   "operating_margin": 0.08851,
   "return_on_equity": 0.10032,
   "debt_to_equity": 105.339,
   "fifty_two_week_high": 248.9,
   "fifty_two_week_low": 155.0,
-  "three_month_average_volume": 315335,
-  "market_cap": 288050872320,
-  "enterprise_value": 29433949847552,
-  "dividend_yield": 2.59,
+  "three_month_average_volume": 309826,
+  "market_cap": 282290094080,
+  "enterprise_value": 29376343179264,
+  "dividend_yield": 2.65,
   "dividend_rate": 5.73,
   "payout_ratio": 0.33200002,
   "five_year_avg_dividend_yield": 2.74,
@@ -24,31 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://global.toyota/en",
   "description": "Toyota Motor Corporation designs, manufactures, assembles, and sells passenger vehicles, minivans and commercial vehicles, and related parts and accessories in Japan, North America, Europe, Asia, Central and South America, Oceania, Africa, the Middle East, and internationally. It operates through Automotive, Financial Services, and All Other segments. The company offers subcompact and compact cars; mini-vehicles; mid-size, luxury, sports, and specialty cars; recreational and sport-utility vehicles; pickup trucks; minivans; trucks; and buses. It also develops and sells battery electric vehicles and batteries. In addition, the company provides financial services, such as retail financing and leasing, wholesale financing, insurance, and credit cards. Further, it operates GAZOO.com, a web portal for automobile information, as well as engages in telecommunications and other businesses. It offers vehicles under the Toyota and Lexus brand names. Toyota Motor Corporation was founded in 1933 and is headquartered in Toyota, Japan.",
-  "previous_close": 219.53,
-  "open_price": 222.42,
-  "day_high": 224.9593,
-  "day_low": 220.81,
-  "fifty_day_average": 229.8528,
-  "two_hundred_day_average": 201.84335,
+  "previous_close": 220.77,
+  "open_price": 217.12,
+  "day_high": 217.98,
+  "day_low": 215.6901,
+  "fifty_day_average": 229.9388,
+  "two_hundred_day_average": 202.20454,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:33.144431",
+  "last_updated": "2026-03-13T10:03:16.687843",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 203.55999755859375,
-      "open": 201.99000549316406,
-      "high": 203.88999938964844,
-      "low": 201.7899932861328,
-      "volume": 585600
-    },
-    {
-      "date": "2025-12-12",
-      "close": 208.1199951171875,
-      "open": 207.99000549316406,
-      "high": 209.42999267578125,
-      "low": 207.5,
-      "volume": 440200
-    },
     {
       "date": "2025-12-15",
       "close": 214.80999755859375,
@@ -511,7 +495,23 @@
       "open": 222.4199981689453,
       "high": 224.97999572753906,
       "low": 220.80999755859375,
-      "volume": 228700
+      "volume": 229400
+    },
+    {
+      "date": "2026-03-11",
+      "close": 220.77000427246094,
+      "open": 220.1199951171875,
+      "high": 222.3699951171875,
+      "low": 218.86000061035156,
+      "volume": 157900
+    },
+    {
+      "date": "2026-03-12",
+      "close": 216.58999633789062,
+      "open": 217.1199951171875,
+      "high": 217.97999572753906,
+      "low": 215.69000244140625,
+      "volume": 266400
     }
   ]
 }

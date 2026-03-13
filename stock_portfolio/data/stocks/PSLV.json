@@ -1,8 +1,8 @@
 {
   "symbol": "PSLV",
   "name": "Sprott Physical Silver Trust",
-  "current_price": 28.85,
-  "pe_ratio": 5.433145,
+  "current_price": 27.53,
+  "pe_ratio": 5.1845574,
   "forward_pe": null,
   "peg_ratio": null,
   "price_to_book": null,
@@ -12,8 +12,8 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 38.13,
   "fifty_two_week_low": 9.97,
-  "three_month_average_volume": 23903742,
-  "market_cap": 18399731712,
+  "three_month_average_volume": 23440041,
+  "market_cap": 17557870592,
   "enterprise_value": null,
   "dividend_yield": null,
   "dividend_rate": null,
@@ -24,31 +24,15 @@
   "industry": "Unknown",
   "website": null,
   "description": "",
-  "previous_close": 28.13,
-  "open_price": 29.17,
-  "day_high": 29.29,
-  "day_low": 28.37,
-  "fifty_day_average": 28.0222,
-  "two_hundred_day_average": 18.19955,
+  "previous_close": 28.12,
+  "open_price": 28.35,
+  "day_high": 28.35,
+  "day_low": 27.5,
+  "fifty_day_average": 28.129,
+  "two_hundred_day_average": 18.36595,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:49.559170",
+  "last_updated": "2026-03-13T10:03:07.337050",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 21.010000228881836,
-      "open": 20.799999237060547,
-      "high": 21.270000457763672,
-      "low": 20.690000534057617,
-      "volume": 12335800
-    },
-    {
-      "date": "2025-12-12",
-      "close": 20.399999618530273,
-      "open": 21.399999618530273,
-      "high": 21.40999984741211,
-      "low": 20.0,
-      "volume": 19924300
-    },
     {
       "date": "2025-12-15",
       "close": 21.190000534057617,
@@ -511,7 +495,23 @@
       "open": 29.170000076293945,
       "high": 29.290000915527344,
       "low": 28.3700008392334,
-      "volume": 12096000
+      "volume": 12159900
+    },
+    {
+      "date": "2026-03-11",
+      "close": 28.1200008392334,
+      "open": 28.15999984741211,
+      "high": 28.15999984741211,
+      "low": 27.559999465942383,
+      "volume": 8705600
+    },
+    {
+      "date": "2026-03-12",
+      "close": 27.530000686645508,
+      "open": 28.350000381469727,
+      "high": 28.350000381469727,
+      "low": 27.5,
+      "volume": 7043790
     }
   ]
 }

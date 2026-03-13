@@ -1,21 +1,21 @@
 {
   "symbol": "TATACOMM.NS",
   "name": "Tata Communications Limited",
-  "current_price": 1482.9,
-  "pe_ratio": 27.440784,
-  "forward_pe": 22.536518,
+  "current_price": 1398.1,
+  "pe_ratio": 25.862003,
+  "forward_pe": 21.24776,
   "peg_ratio": null,
-  "price_to_book": 14.84756,
+  "price_to_book": 13.998498,
   "profit_margin": 0.07338,
   "operating_margin": 0.07704,
   "return_on_equity": null,
   "debt_to_equity": 467.533,
   "fifty_two_week_high": 2004.0,
-  "fifty_two_week_low": 1401.9,
-  "three_month_average_volume": 297946,
-  "market_cap": 422626492416,
-  "enterprise_value": 549498650624,
-  "dividend_yield": 1.69,
+  "fifty_two_week_low": 1394.8,
+  "three_month_average_volume": 291921,
+  "market_cap": 398458486784,
+  "enterprise_value": 541720051712,
+  "dividend_yield": 1.72,
   "dividend_rate": 25.0,
   "payout_ratio": 0.46240002,
   "five_year_avg_dividend_yield": 1.24,
@@ -24,31 +24,15 @@
   "industry": "Telecom Services",
   "website": "https://www.tatacommunications.com",
   "description": "Tata Communications Limited provides telecom services worldwide. The company operates through Data Services, Voice Solutions, Payment Solutions, Transformation Services, Campaign Registry, and Real Estate segments. It provides voice and data transmission services; internet connectivity services; and other value-added services, such as unified conferencing and collaboration, managed hosting, mobile global roaming and signaling, transponder lease, and television up-linking, and other managed services, as well as sells and leases bandwidth on undersea cable systems. The company also offers end-to-end automated teller machines deployment, POS enablement, financial inclusion, card issuance and related managed services, and switching services to banking sector; cyber security; data center colocation services; and network management and support services. In addition, it provides networking services, including managed LAN/WAN, private lines, business internet, hybrid WAN, and cloud connectivity; unified communications as a service; cloud solutions; Edge platform; cyber security services, such as cloud security, security assessment, consulting services, cyber threat detection and response, and networking security; managed SASE; IoT fabric solutions comprising connectivity, management, orchestration, and data analytics; carrier services, such as wholesale voice transport and termination, mobile messaging exchange, voice access services, strategic sourcing, and fraud prevention as a service; and content delivery network solutions, which include video and secure content delivery, acceleration services, and programmable edge compute. Further, the company engages in letting, leasing, licensing, or development of immovable properties. The company was formerly known as Videsh Sanchar Nigam Limited and changed its name to Tata Communications Limited in 2008. Tata Communications Limited was incorporated in 1986 and is based in Mumbai, India.",
-  "previous_close": 1476.6,
-  "open_price": 1479.0,
-  "day_high": 1496.0,
-  "day_low": 1466.0,
-  "fifty_day_average": 1637.286,
-  "two_hundred_day_average": 1716.206,
+  "previous_close": 1449.3,
+  "open_price": 1440.0,
+  "day_high": 1452.0,
+  "day_low": 1394.8,
+  "fifty_day_average": 1623.898,
+  "two_hundred_day_average": 1713.888,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:24.606344",
+  "last_updated": "2026-03-13T10:03:11.655225",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 1775.300048828125,
-      "open": 1796.0,
-      "high": 1797.5999755859375,
-      "low": 1766.0999755859375,
-      "volume": 289405
-    },
-    {
-      "date": "2025-12-12",
-      "close": 1799.0999755859375,
-      "open": 1785.300048828125,
-      "high": 1812.800048828125,
-      "low": 1785.300048828125,
-      "volume": 495707
-    },
     {
       "date": "2025-12-15",
       "close": 1792.4000244140625,
@@ -527,7 +511,23 @@
       "open": 1479.0,
       "high": 1496.0,
       "low": 1466.0,
-      "volume": 279167
+      "volume": 279168
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1449.300048828125,
+      "open": 1475.0,
+      "high": 1475.5,
+      "low": 1438.5999755859375,
+      "volume": 146992
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1398.0999755859375,
+      "open": 1440.0,
+      "high": 1452.0,
+      "low": 1394.800048828125,
+      "volume": 548262
     }
   ]
 }

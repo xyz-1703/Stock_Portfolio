@@ -1,21 +1,21 @@
 {
   "symbol": "STT",
   "name": "State Street Corporation",
-  "current_price": 122.55,
-  "pe_ratio": 13.037235,
-  "forward_pe": 9.415871,
+  "current_price": 123.21,
+  "pe_ratio": 13.107448,
+  "forward_pe": 9.46658,
   "peg_ratio": null,
-  "price_to_book": 1.4084911,
+  "price_to_book": 1.4160767,
   "profit_margin": 0.21209998,
   "operating_margin": 0.33916,
   "return_on_equity": 0.11078,
   "debt_to_equity": null,
   "fifty_two_week_high": 137.05,
   "fifty_two_week_low": 72.81,
-  "three_month_average_volume": 2178891,
-  "market_cap": 34229741568,
-  "enterprise_value": -49576857600,
-  "dividend_yield": 2.74,
+  "three_month_average_volume": 2209845,
+  "market_cap": 34414088192,
+  "enterprise_value": -49392898048,
+  "dividend_yield": 2.73,
   "dividend_rate": 3.36,
   "payout_ratio": 0.3404,
   "five_year_avg_dividend_yield": 3.01,
@@ -24,31 +24,15 @@
   "industry": "Asset Management",
   "website": "https://www.statestreet.com",
   "description": "State Street Corporation provides various financial products and services to institutional investors. It offers custody, accounting, and fund administration services for traditional and alternative assets, as well as multi-asset class investments; recordkeeping, client reporting, and investment book of record, transaction management, loans, cash, derivatives, and collateral services; investor services operations outsourcing; performance, risk, and compliance analytics; financial data management to support institutional investors; foreign exchange, brokerage, and other trading services; securities finance, such as prime services products; and deposit and short-term investment facilities. \nThe company also provides the State Street Alpha platform that combines portfolio management, trading and execution, analytics and compliance tools, and advanced data aggregation and integration with other industry platforms and providers; front-office technology that automates and simplifies the institutional investment process comprising portfolio management and risk analytics, trading, and post-trade settlement with integrated compliance and managed data; investment management solutions; and portfolio management, trading compliance, and manager/sponsor communication. In addition, it offers investment management solutions, such as strategies across equity, fixed income, cash, multi-asset, and alternatives; and ETFs, custom indexed, managed funds, and mandates. The company provides its products and services to mutual funds, collective investment funds and other investment pools, corporate and public retirement plans, insurance companies, wealth managers, investment managers, foundations, and endowments. The company was founded in 1792 and is headquartered in Boston, Massachusetts.",
-  "previous_close": 121.93,
-  "open_price": 122.74,
-  "day_high": 124.955,
-  "day_low": 121.345,
-  "fifty_day_average": 129.477,
-  "two_hundred_day_average": 116.6478,
+  "previous_close": 126.0,
+  "open_price": 123.33,
+  "day_high": 123.875,
+  "day_low": 121.21,
+  "fifty_day_average": 129.1818,
+  "two_hundred_day_average": 116.93155,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:19.307399",
+  "last_updated": "2026-03-13T10:03:10.607938",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 128.75616455078125,
-      "open": 127.9514258263102,
-      "high": 129.18335749145365,
-      "low": 127.14670984099497,
-      "volume": 2142700
-    },
-    {
-      "date": "2025-12-12",
-      "close": 126.8387222290039,
-      "open": 129.34231842634705,
-      "high": 130.5046985852542,
-      "low": 126.26249686520224,
-      "volume": 1916300
-    },
     {
       "date": "2025-12-15",
       "close": 128.11038208007812,
@@ -512,6 +496,22 @@
       "high": 124.95999908447266,
       "low": 121.3499984741211,
       "volume": 2321700
+    },
+    {
+      "date": "2026-03-11",
+      "close": 126.0,
+      "open": 122.18000030517578,
+      "high": 126.19999694824219,
+      "low": 121.55000305175781,
+      "volume": 3382400
+    },
+    {
+      "date": "2026-03-12",
+      "close": 123.20999908447266,
+      "open": 123.33000183105469,
+      "high": 123.87999725341797,
+      "low": 121.20999908447266,
+      "volume": 2570000
     }
   ]
 }

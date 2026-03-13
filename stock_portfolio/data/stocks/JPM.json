@@ -1,21 +1,21 @@
 {
   "symbol": "JPM",
   "name": "JPMorgan Chase & Co.",
-  "current_price": 288.73,
-  "pe_ratio": 14.429286,
-  "forward_pe": 12.2904005,
+  "current_price": 282.89,
+  "pe_ratio": 14.123315,
+  "forward_pe": 12.041809,
   "peg_ratio": null,
-  "price_to_book": 2.2736795,
+  "price_to_book": 2.227691,
   "profit_margin": 0.3391,
   "operating_margin": 0.41062,
   "return_on_equity": 0.16134001,
   "debt_to_equity": null,
   "fifty_two_week_high": 337.25,
   "fifty_two_week_low": 202.16,
-  "three_month_average_volume": 10815067,
-  "market_cap": 778714218496,
-  "enterprise_value": 537044156416,
-  "dividend_yield": 2.08,
+  "three_month_average_volume": 10884605,
+  "market_cap": 762963558400,
+  "enterprise_value": 521293496320,
+  "dividend_yield": 2.12,
   "dividend_rate": 6.0,
   "payout_ratio": 0.2897,
   "five_year_avg_dividend_yield": 2.4,
@@ -24,31 +24,15 @@
   "industry": "Banks - Diversified",
   "website": "https://www.jpmorganchase.com",
   "description": "JPMorgan Chase & Co. operates as a bank and financial holding company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia Pacific, Latin America, and the Caribbean. It operates in three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management. The company offers deposit, investment and lending products, and cash management; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit cards, payment solutions, travel services, merchant offers, lifestyle benefits, auto loans, and leases to consumers and small businesses through bank branches, ATMs, and digital and telephone banking. It also provides investment banking, market-making, financing, custody, and securities products and services; corporate strategy and structure advisory, equity and debt market capital-raising, and loan origination and syndication services; cash and derivative instruments, risk management solutions, prime brokerage, clearing, and research; and fund services, liquidity and trading services, and data solutions products for large corporations, financial institutions, merchants, start-ups, small and midsized companies, local governments, municipalities, nonprofits, and commercial real estate clients. In addition, the company offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; retirement products and services, estate planning, lending, deposits, and investment management products to high-net-worth clients; and financial transaction processing. JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
-  "previous_close": 289.92,
-  "open_price": 289.29,
-  "day_high": 292.75,
-  "day_low": 287.18,
-  "fifty_day_average": 309.81,
-  "two_hundred_day_average": 300.3928,
+  "previous_close": 287.52,
+  "open_price": 282.83,
+  "day_high": 283.3,
+  "day_low": 279.1,
+  "fifty_day_average": 308.185,
+  "two_hundred_day_average": 300.63794,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:58.806326",
+  "last_updated": "2026-03-13T10:03:01.473404",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 315.9548034667969,
-      "open": 307.85134172095206,
-      "high": 316.57201448320507,
-      "low": 307.85134172095206,
-      "volume": 9721900
-    },
-    {
-      "date": "2025-12-12",
-      "close": 317.0896911621094,
-      "open": 318.2444858866232,
-      "high": 318.8318328758901,
-      "low": 315.1783298378069,
-      "volume": 8982900
-    },
     {
       "date": "2025-12-15",
       "close": 318.58294677734375,
@@ -511,7 +495,23 @@
       "open": 289.2900085449219,
       "high": 292.75,
       "low": 287.17999267578125,
-      "volume": 8334200
+      "volume": 8344900
+    },
+    {
+      "date": "2026-03-11",
+      "close": 287.5199890136719,
+      "open": 288.80999755859375,
+      "high": 290.4800109863281,
+      "low": 284.8599853515625,
+      "volume": 10205000
+    },
+    {
+      "date": "2026-03-12",
+      "close": 282.8900146484375,
+      "open": 282.8299865722656,
+      "high": 283.8800048828125,
+      "low": 279.1000061035156,
+      "volume": 13754500
     }
   ]
 }

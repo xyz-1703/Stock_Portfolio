@@ -1,21 +1,21 @@
 {
   "symbol": "ORCL",
   "name": "Oracle Corporation",
-  "current_price": 149.4,
-  "pe_ratio": 28.082705,
-  "forward_pe": 18.80835,
+  "current_price": 159.16,
+  "pe_ratio": 29.917294,
+  "forward_pe": 20.018314,
   "peg_ratio": null,
-  "price_to_book": 14.330935,
-  "profit_margin": 0.25280002,
-  "operating_margin": 0.31997,
-  "return_on_equity": 0.69026,
-  "debt_to_equity": 432.511,
+  "price_to_book": 13.643065,
+  "profit_margin": 0.25298,
+  "operating_margin": 0.32676,
+  "return_on_equity": 0.57572,
+  "debt_to_equity": 415.265,
   "fifty_two_week_high": 345.72,
   "fifty_two_week_low": 118.86,
-  "three_month_average_volume": 28006257,
-  "market_cap": 429389185024,
-  "enterprise_value": 541715628032,
-  "dividend_yield": 1.34,
+  "three_month_average_volume": 28650335,
+  "market_cap": 457440329728,
+  "enterprise_value": 586294493184,
+  "dividend_yield": 1.26,
   "dividend_rate": 2.0,
   "payout_ratio": 0.35709998,
   "five_year_avg_dividend_yield": 1.29,
@@ -24,31 +24,15 @@
   "industry": "Software - Infrastructure",
   "website": "https://www.oracle.com",
   "description": "Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
-  "previous_close": 151.56,
-  "open_price": 153.62,
-  "day_high": 154.14,
-  "day_low": 148.45,
-  "fifty_day_average": 168.781,
-  "two_hundred_day_average": 220.3118,
+  "previous_close": 163.12,
+  "open_price": 164.66,
+  "day_high": 167.8196,
+  "day_low": 158.61,
+  "fifty_day_average": 167.3592,
+  "two_hundred_day_average": 220.3568,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:12.270193",
+  "last_updated": "2026-03-13T10:03:06.745384",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 198.32574462890625,
-      "open": 190.11743179476977,
-      "high": 201.45746551385383,
-      "low": 185.7390064935443,
-      "volume": 100612700
-    },
-    {
-      "date": "2025-12-12",
-      "close": 189.4691619873047,
-      "open": 195.8522828616473,
-      "high": 197.3283919289195,
-      "low": 185.48967579339634,
-      "volume": 55201600
-    },
     {
       "date": "2025-12-15",
       "close": 184.43246459960938,
@@ -511,7 +495,23 @@
       "open": 153.6199951171875,
       "high": 154.13999938964844,
       "low": 148.4499969482422,
-      "volume": 49937900
+      "volume": 51544600
+    },
+    {
+      "date": "2026-03-11",
+      "close": 163.1199951171875,
+      "open": 166.3800048828125,
+      "high": 171.75999450683594,
+      "low": 160.5800018310547,
+      "volume": 83247500
+    },
+    {
+      "date": "2026-03-12",
+      "close": 159.16000366210938,
+      "open": 164.66000366210938,
+      "high": 167.8300018310547,
+      "low": 158.61000061035156,
+      "volume": 36998300
     }
   ]
 }

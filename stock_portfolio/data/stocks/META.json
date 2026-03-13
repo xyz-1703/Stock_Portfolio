@@ -1,21 +1,21 @@
 {
   "symbol": "META",
   "name": "Meta Platforms, Inc.",
-  "current_price": 654.07,
-  "pe_ratio": 27.856474,
-  "forward_pe": 18.229376,
+  "current_price": 638.18,
+  "pe_ratio": 27.168156,
+  "forward_pe": 17.78651,
   "peg_ratio": null,
-  "price_to_book": 7.6172457,
+  "price_to_book": 7.432192,
   "profit_margin": 0.30084,
   "operating_margin": 0.41314998,
   "return_on_equity": 0.30238,
   "debt_to_equity": 39.164,
   "fifty_two_week_high": 796.25,
   "fifty_two_week_low": 479.8,
-  "three_month_average_volume": 15166061,
-  "market_cap": 1654506389504,
-  "enterprise_value": 1657995395072,
-  "dividend_yield": 0.32,
+  "three_month_average_volume": 15080891,
+  "market_cap": 1614311718912,
+  "enterprise_value": 1617800724480,
+  "dividend_yield": 0.33,
   "dividend_rate": 2.1,
   "payout_ratio": 0.08939999,
   "five_year_avg_dividend_yield": null,
@@ -24,31 +24,15 @@
   "industry": "Internet Content & Information",
   "website": "https://www.meta.com",
   "description": "Meta Platforms, Inc. engages in the development of products that enable people to connect and share with friends and family through mobile devices, personal computers, virtual reality (VR) headsets, and AI glasses in the United States, Canada, Europe, Asia-Pacific, and internationally. It operates through two segments, Family of Apps (FoA) and Reality Labs (RL). The FoA segment offers Facebook, which enables people to build community through feed, reels, stories, groups, marketplace, and other; Instagram that brings people closer through Instagram feed, stories, reels, live, and messaging; Messenger, a messaging application for people to connect with friends, family, communities, and businesses across platforms and devices through text, audio, and video calls; Meta AI, an assistant that's available across apps, as a stand-alone app, on AI glasses, and on the web; Threads, an application for text-based updates and public conversations; and WhatsApp, a messaging application that is used by people and businesses to communicate and transact in a private way. The RL segment provides virtual and augmented reality products, including consumer hardware, software, and content that help people feel connected anytime and anywhere, as well as Meta Quest devices that enable social experiences across gaming, fitness, entertainment, and more. The segment also includes wearables such as AI glasses like Ray Ban Meta and Oakley Meta glasses, featuring Meta AI for advanced conversational and hands free interaction; and the Meta Ray Ban Display, which combines AI glasses with an integrated lens display and the Meta Neural Band, a wrist worn device using electromyography that lets people control their AI glasses through neuromuscular signals. The company was formerly known as Facebook, Inc. and changed its name to Meta Platforms, Inc. in October 2021. The company was incorporated in 2004 and is headquartered in Menlo Park, California.",
-  "previous_close": 647.39,
-  "open_price": 653.56,
-  "day_high": 660.3,
-  "day_low": 649.0,
-  "fifty_day_average": 655.8848,
-  "two_hundred_day_average": 691.64496,
+  "previous_close": 654.86,
+  "open_price": 648.82,
+  "day_high": 653.5,
+  "day_low": 636.9,
+  "fifty_day_average": 655.7162,
+  "two_hundred_day_average": 691.7364,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:04.552466",
+  "last_updated": "2026-03-13T10:03:03.857574",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 652.1781005859375,
-      "open": 642.7657334383907,
-      "high": 654.7460135009795,
-      "low": 640.2777724038347,
-      "volume": 13056700
-    },
-    {
-      "date": "2025-12-12",
-      "close": 643.7050170898438,
-      "open": 649.2704855848336,
-      "high": 710.4206277669183,
-      "low": 638.0896015354143,
-      "volume": 14016900
-    },
     {
       "date": "2025-12-15",
       "close": 647.510009765625,
@@ -511,7 +495,23 @@
       "open": 653.5599975585938,
       "high": 660.2999877929688,
       "low": 649.0,
-      "volume": 9844600
+      "volume": 9859300
+    },
+    {
+      "date": "2026-03-11",
+      "close": 654.8599853515625,
+      "open": 654.760009765625,
+      "high": 659.1199951171875,
+      "low": 648.3599853515625,
+      "volume": 8977200
+    },
+    {
+      "date": "2026-03-12",
+      "close": 638.1799926757812,
+      "open": 648.75,
+      "high": 653.5,
+      "low": 636.9000244140625,
+      "volume": 11580300
     }
   ]
 }

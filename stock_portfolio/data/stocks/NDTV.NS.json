@@ -1,20 +1,20 @@
 {
   "symbol": "NDTV.NS",
   "name": "New Delhi Television Limited",
-  "current_price": 76.9,
+  "current_price": 76.43,
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": -5.5943546,
+  "price_to_book": -5.560163,
   "profit_margin": -0.56299,
   "operating_margin": -0.46812,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 177.95,
-  "fifty_two_week_low": 75.61,
-  "three_month_average_volume": 1002404,
-  "market_cap": 8676220928,
-  "enterprise_value": 13237981184,
+  "fifty_two_week_low": 75.21,
+  "three_month_average_volume": 990388,
+  "market_cap": 8623193088,
+  "enterprise_value": 13225570304,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
@@ -24,31 +24,15 @@
   "industry": "Broadcasting",
   "website": "https://www.ndtv.com",
   "description": "New Delhi Television Limited, together with its subsidiaries, operates as a news television and digital journalism company in India, the United States, Europe, and internationally. Its channels include NDTV 24X7, an English news channel; NDTV India, a Hindi news channel; NDTV Profit, a business news channel; NDTV World, a digital platform for global news; and regional channels, including NDTV Madhya Pradesh and Chhattisgarh, NDTV Rajasthan, and NDTV Marathi. It also provides consultancy for setting up channels in various markets. The company was incorporated in 1988 and is based in Noida, India. New Delhi Television Limited operates as a subsidiary of RRPR Holding Private Limited.",
-  "previous_close": 77.24,
-  "open_price": 77.24,
-  "day_high": 78.82,
-  "day_low": 76.5,
-  "fifty_day_average": 85.606,
-  "two_hundred_day_average": 111.00278,
+  "previous_close": 77.13,
+  "open_price": 77.05,
+  "day_high": 77.78,
+  "day_low": 75.8,
+  "fifty_day_average": 84.6936,
+  "two_hundred_day_average": 110.14518,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:12:08.985921",
+  "last_updated": "2026-03-13T10:03:05.177057",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 81.33000183105469,
-      "open": 81.01000213623047,
-      "high": 81.6500015258789,
-      "low": 79.26000213623047,
-      "volume": 77050
-    },
-    {
-      "date": "2025-12-12",
-      "close": 82.1500015258789,
-      "open": 81.94999694824219,
-      "high": 82.75,
-      "low": 81.18000030517578,
-      "volume": 74460
-    },
     {
       "date": "2025-12-15",
       "close": 82.41999816894531,
@@ -527,7 +511,23 @@
       "open": 77.23999786376953,
       "high": 78.81999969482422,
       "low": 76.5,
-      "volume": 174249
+      "volume": 174250
+    },
+    {
+      "date": "2026-03-12",
+      "close": 77.12999725341797,
+      "open": 76.0,
+      "high": 78.2300033569336,
+      "low": 75.20999908447266,
+      "volume": 169635
+    },
+    {
+      "date": "2026-03-13",
+      "close": 76.43000030517578,
+      "open": 77.05000305175781,
+      "high": 77.77999877929688,
+      "low": 75.80000305175781,
+      "volume": 159615
     }
   ]
 }

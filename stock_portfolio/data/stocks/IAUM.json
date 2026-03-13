@@ -11,11 +11,11 @@
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 55.27,
-  "fifty_two_week_low": 28.99,
-  "three_month_average_volume": 7507608,
+  "fifty_two_week_low": 29.49,
+  "three_month_average_volume": 7482927,
   "market_cap": null,
   "enterprise_value": null,
-  "dividend_yield": 0.0,
+  "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": null,
   "five_year_avg_dividend_yield": null,
@@ -23,32 +23,16 @@
   "sector": "Unknown",
   "industry": "Unknown",
   "website": null,
-  "description": "The Advisor intends to constitute a simple and cost-effective means of making an investment similar to an investment in gold. An investment in physical gold requires expensive and sometimes complicated arrangements in connection with the assay, transportation, warehousing and insurance of the metal. Although the Shares are not the exact equivalent of an investment in gold, they provide investors with an alternative that allows a level of participation in the gold market through the securities market.",
-  "previous_close": 51.25,
-  "open_price": 52.03,
-  "day_high": 52.21,
-  "day_low": 51.44,
-  "fifty_day_average": 48.67,
-  "two_hundred_day_average": 39.9155,
+  "description": "",
+  "previous_close": 51.67,
+  "open_price": 51.53,
+  "day_high": 51.54,
+  "day_low": 50.62,
+  "fifty_day_average": 48.7998,
+  "two_hundred_day_average": 40.0099,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:45.477219",
+  "last_updated": "2026-03-13T10:02:58.683600",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 42.619998931884766,
-      "open": 42.15999984741211,
-      "high": 42.720001220703125,
-      "low": 42.119998931884766,
-      "volume": 3227400
-    },
-    {
-      "date": "2025-12-12",
-      "close": 42.849998474121094,
-      "open": 43.279998779296875,
-      "high": 43.38999938964844,
-      "low": 42.439998626708984,
-      "volume": 3695800
-    },
     {
       "date": "2025-12-15",
       "close": 42.91999816894531,
@@ -511,7 +495,23 @@
       "open": 52.029998779296875,
       "high": 52.209999084472656,
       "low": 51.439998626708984,
-      "volume": 4069900
+      "volume": 4072100
+    },
+    {
+      "date": "2026-03-11",
+      "close": 51.66999816894531,
+      "open": 51.63999938964844,
+      "high": 51.79499816894531,
+      "low": 51.33000183105469,
+      "volume": 2237400
+    },
+    {
+      "date": "2026-03-12",
+      "close": 50.66999816894531,
+      "open": 51.529998779296875,
+      "high": 51.540000915527344,
+      "low": 50.619998931884766,
+      "volume": 3180500
     }
   ]
 }

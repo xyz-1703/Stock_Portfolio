@@ -1,21 +1,21 @@
 {
   "symbol": "GOOGL",
   "name": "Alphabet Inc.",
-  "current_price": 307.04,
-  "pe_ratio": 28.40333,
-  "forward_pe": 22.893991,
+  "current_price": 303.55,
+  "pe_ratio": 28.080479,
+  "forward_pe": 22.633762,
   "peg_ratio": null,
-  "price_to_book": 8.937793,
+  "price_to_book": 8.8362,
   "profit_margin": 0.32810003,
   "operating_margin": 0.31568,
   "return_on_equity": 0.35705003,
   "debt_to_equity": 16.133,
   "fifty_two_week_high": 349.0,
   "fifty_two_week_low": 140.53,
-  "three_month_average_volume": 33960303,
-  "market_cap": 3714263023616,
-  "enterprise_value": 3654415810560,
-  "dividend_yield": 0.27,
+  "three_month_average_volume": 33612833,
+  "market_cap": 3672044208128,
+  "enterprise_value": 3612197257216,
+  "dividend_yield": 0.28,
   "dividend_rate": 0.84,
   "payout_ratio": 0.076799996,
   "five_year_avg_dividend_yield": null,
@@ -24,31 +24,15 @@
   "industry": "Internet Content & Information",
   "website": "https://abc.xyz",
   "description": "Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments. The Google Services segment provides products and services, including ads, Android, Chrome, devices, Gmail, Google Drive, Google Maps, Google Photos, Google Play, Search, and YouTube. It is also involved in the sale of apps and in-app purchases and digital content in Google Play and YouTube; and devices, as well as the provision of YouTube consumer subscription services, such as YouTube TV, YouTube Music and Premium, NFL Sunday Ticket, and Google One. The Google Cloud segment offers consumption-based fees and subscriptions for AI solutions, including AI infrastructure, Vertex AI platform, and Gemini enterprise. It also provides cybersecurity, and data and analytics services; Google Workspace that include cloud-based communication and collaboration tools for enterprises, such as Calendar, Gmail, Docs, Drive, and Meet; and other enterprise services. The Other Bets segment sells transportation and internet services. Alphabet Inc. was incorporated in 1998 and is headquartered in Mountain View, California.",
-  "previous_close": 306.36,
-  "open_price": 306.84,
-  "day_high": 309.5,
-  "day_low": 305.5704,
-  "fifty_day_average": 319.4816,
-  "two_hundred_day_average": 254.4596,
+  "previous_close": 308.7,
+  "open_price": 306.85,
+  "day_high": 308.94,
+  "day_low": 301.04,
+  "fifty_day_average": 319.1852,
+  "two_hundred_day_average": 255.82414,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:30.690636",
+  "last_updated": "2026-03-13T10:02:55.263286",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 312.210205078125,
-      "open": 319.85481737290655,
-      "high": 320.8940942947929,
-      "low": 308.3829128168011,
-      "volume": 42353700
-    },
-    {
-      "date": "2025-12-12",
-      "close": 309.07244873046875,
-      "open": 313.47935032153816,
-      "high": 314.6485102459599,
-      "low": 305.34506149685063,
-      "volume": 35940200
-    },
     {
       "date": "2025-12-15",
       "close": 308.003173828125,
@@ -511,7 +495,23 @@
       "open": 306.1700134277344,
       "high": 309.510009765625,
       "low": 305.57000732421875,
-      "volume": 23208800
+      "volume": 23239700
+    },
+    {
+      "date": "2026-03-11",
+      "close": 308.70001220703125,
+      "open": 306.75,
+      "high": 311.4200134277344,
+      "low": 305.9200134277344,
+      "volume": 24125700
+    },
+    {
+      "date": "2026-03-12",
+      "close": 303.54998779296875,
+      "open": 306.82000732421875,
+      "high": 308.94000244140625,
+      "low": 301.0299987792969,
+      "volume": 24895700
     }
   ]
 }

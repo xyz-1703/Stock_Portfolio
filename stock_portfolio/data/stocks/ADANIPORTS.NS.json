@@ -1,21 +1,21 @@
 {
   "symbol": "ADANIPORTS.NS",
   "name": "Adani Ports and Special Economic Zone Limited",
-  "current_price": 1410.8,
-  "pe_ratio": 24.459085,
-  "forward_pe": 20.219418,
+  "current_price": 1363.2,
+  "pe_ratio": 23.605194,
+  "forward_pe": 19.53722,
   "peg_ratio": null,
-  "price_to_book": 4.5441666,
+  "price_to_book": 4.390847,
   "profit_margin": 0.34236,
   "operating_margin": 0.45356998,
   "return_on_equity": 0.19407,
   "debt_to_equity": 81.556,
   "fifty_two_week_high": 1584.0,
   "fifty_two_week_low": 1041.5,
-  "three_month_average_volume": 2268088,
-  "market_cap": 3250425430016,
-  "enterprise_value": 3580839067648,
-  "dividend_yield": 0.49,
+  "three_month_average_volume": 2292523,
+  "market_cap": 3140756963328,
+  "enterprise_value": 3509936193536,
+  "dividend_yield": 0.5,
   "dividend_rate": 7.0,
   "payout_ratio": 0.121300004,
   "five_year_avg_dividend_yield": 0.5,
@@ -24,31 +24,15 @@
   "industry": "Marine Shipping",
   "website": "https://www.adaniports.com",
   "description": "Adani Ports and Special Economic Zone Limited, together with its subsidiaries, develops, operates, and maintains port infrastructure in India. The company is involved in the operation of ports and terminals, including bulk and break bulk, container, liquid, LPG, LNG, and crude cargo; ports related infrastructure development activities; and development of infrastructure at contiguous Special Economic Zone at Mundra. It also offers logistic services, which include logistic parks, container rail and bulk cargo logistic solutions, and warehousing, as well as auto, road, and agriculture logistic services. In addition, the company operates a fleet of dredging and reclamation service equipment comprising cutter suction, trailing suction hopper, grab, inland cutter suction, water injection, and specialized dredgers; split hopper, flat top, and jack up barges; and multi utility craft, survey vessels, floating crane, drag flow unit, and floating booster, as well as dozers, excavotors, loaders, and other equipment. Further, it provides non-scheduled passenger airline services; hospital and related services; and marine services, such as pilotage, laying, mooring of vessels at berth and mid-stream, and maintenance of buoys. Additionally, the company engages in the development, construction, operation, and maintenance of railway corridors; land development activities; integrated textile park and container freight station businesses; owns and operates harbour tugs, barges, other port crafts, ocean towage and offshore support vessels; and provision of cargo storage-cum logistics services. The company was incorporated in 1998 and is headquartered in Ahmedabad, India.",
-  "previous_close": 1424.1,
-  "open_price": 1425.0,
-  "day_high": 1454.9,
-  "day_low": 1405.7,
-  "fifty_day_average": 1470.232,
-  "two_hundred_day_average": 1437.456,
+  "previous_close": 1391.5,
+  "open_price": 1388.7,
+  "day_high": 1390.0,
+  "day_low": 1354.0,
+  "fifty_day_average": 1466.866,
+  "two_hundred_day_average": 1436.8254,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:11:15.847139",
+  "last_updated": "2026-03-13T10:02:42.575400",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 1504.0,
-      "open": 1496.0,
-      "high": 1515.0,
-      "low": 1495.0,
-      "volume": 1451645
-    },
-    {
-      "date": "2025-12-12",
-      "close": 1522.800048828125,
-      "open": 1512.0,
-      "high": 1527.4000244140625,
-      "low": 1509.5,
-      "volume": 1152570
-    },
     {
       "date": "2025-12-15",
       "close": 1512.5999755859375,
@@ -527,7 +511,23 @@
       "open": 1425.0,
       "high": 1454.9000244140625,
       "low": 1405.699951171875,
-      "volume": 2211949
+      "volume": 2212011
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1391.5,
+      "open": 1402.5,
+      "high": 1418.5999755859375,
+      "low": 1375.300048828125,
+      "volume": 2699173
+    },
+    {
+      "date": "2026-03-13",
+      "close": 1363.199951171875,
+      "open": 1388.699951171875,
+      "high": 1390.0,
+      "low": 1354.0,
+      "volume": 2688552
     }
   ]
 }

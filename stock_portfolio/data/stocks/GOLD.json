@@ -1,21 +1,21 @@
 {
   "symbol": "GOLD",
   "name": "Gold.com, Inc.",
-  "current_price": 50.65,
-  "pe_ratio": 105.520836,
+  "current_price": 48.94,
+  "pe_ratio": 101.958336,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 1.9287157,
+  "price_to_book": 1.8636,
   "profit_margin": 0.0008,
   "operating_margin": 0.00402,
   "return_on_equity": 0.020380002,
   "debt_to_equity": 129.618,
   "fifty_two_week_high": 66.7,
   "fifty_two_week_low": 19.39,
-  "three_month_average_volume": 847333,
-  "market_cap": 1425161344,
-  "enterprise_value": 2103020672,
-  "dividend_yield": 1.58,
+  "three_month_average_volume": 839157,
+  "market_cap": 1377046272,
+  "enterprise_value": 2059762816,
+  "dividend_yield": 1.63,
   "dividend_rate": 0.8,
   "payout_ratio": 1.6667,
   "five_year_avg_dividend_yield": null,
@@ -24,31 +24,15 @@
   "industry": "Capital Markets",
   "website": "https://www.Gold.com",
   "description": "Gold.com, Inc., together with its subsidiaries, operates as a precious metals company. It operates through three segments: Wholesale Sales & Ancillary Services, Direct-to-Consumer, and Secured Lending. The Wholesale Sales & Ancillary Services segment sells gold, silver, platinum, and palladium in the form of bars, plates, powders, wafers, grains, ingots, and coins. This segment also offers complementary services, such as receiving, handling, inventorying, processing, packing, and shipping of precious metals and custom coins on a secure basis; and designs and produces minted silver products. The Direct-to-Consumer segment provides access to gold, silver, copper, platinum, and palladium products primarily through its websites; rarities and numismatic collections; and numismatic and bullion products. It operates various websites targeting specific niches within the precious metals retail market. This segment also operates as a direct retailer of precious metals to the investor community and markets its precious metal products on television, radio, and the internet, as well as through customer service outreach. The Secured Lending segment originates and acquires commercial loans secured by bullion, numismatic coins, and graded sports cards. The company serves customers, including financial institutions, bullion retailers, industrial manufacturers and fabricators, sovereign mints, refiners, coin and metal dealers, investors, collectors, and e-commerce and other retail customers. It operates in the United States, Europe, Canada, Asia Pacific, Africa, Australia, and South America. The company was formerly known as A-Mark Precious Metals, Inc. and changed its name to Gold.com, Inc. in December 2025. The company was founded in 1965 and is headquartered in Costa Mesa, California.",
-  "previous_close": 50.1,
-  "open_price": 50.49,
-  "day_high": 52.55,
-  "day_low": 50.01,
-  "fifty_day_average": 49.1324,
-  "two_hundred_day_average": 31.043474,
+  "previous_close": 50.47,
+  "open_price": 49.92,
+  "day_high": 49.965,
+  "day_low": 48.2,
+  "fifty_day_average": 49.45,
+  "two_hundred_day_average": 31.196726,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:44.050856",
+  "last_updated": "2026-03-13T10:02:54.767725",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 31.273027420043945,
-      "open": 30.665108150592445,
-      "high": 31.910847007205593,
-      "low": 30.665108150592445,
-      "volume": 523800
-    },
-    {
-      "date": "2025-12-12",
-      "close": 31.611867904663086,
-      "open": 31.890914087231135,
-      "high": 32.329412787321004,
-      "low": 30.92422143826672,
-      "volume": 963200
-    },
     {
       "date": "2025-12-15",
       "close": 31.641767501831055,
@@ -511,7 +495,23 @@
       "open": 50.4900016784668,
       "high": 52.54999923706055,
       "low": 50.0,
-      "volume": 526300
+      "volume": 528300
+    },
+    {
+      "date": "2026-03-11",
+      "close": 50.470001220703125,
+      "open": 50.06999969482422,
+      "high": 50.720001220703125,
+      "low": 49.0,
+      "volume": 478800
+    },
+    {
+      "date": "2026-03-12",
+      "close": 48.939998626708984,
+      "open": 49.91999816894531,
+      "high": 50.08000183105469,
+      "low": 48.15999984741211,
+      "volume": 461200
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "symbol": "ADANIENSOL.NS",
   "name": "Adani Energy Solutions Limited",
-  "current_price": 992.0,
-  "pe_ratio": 53.19035,
-  "forward_pe": 34.694412,
+  "current_price": 992.3,
+  "pe_ratio": 53.406887,
+  "forward_pe": 34.704903,
   "peg_ratio": null,
-  "price_to_book": 5.1018834,
+  "price_to_book": 5.103426,
   "profit_margin": 0.08469,
   "operating_margin": 0.27335,
   "return_on_equity": null,
   "debt_to_equity": 186.654,
   "fifty_two_week_high": 1067.7,
-  "fifty_two_week_low": 744.05,
-  "three_month_average_volume": 1477561,
-  "market_cap": 1193876258816,
-  "enterprise_value": 1619327975424,
+  "fifty_two_week_low": 744.9,
+  "three_month_average_volume": 1451381,
+  "market_cap": 1194237231104,
+  "enterprise_value": 1608281751552,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
@@ -24,31 +24,15 @@
   "industry": "Utilities - Independent Power Producers",
   "website": "https://www.adanienergysolutions.com",
   "description": "Adani Energy Solutions Limited, together with its subsidiaries, generates, transmits, and distributes power in India. It operates through the Transmission, Distribution Business, Trading, and Others segments. The company is involved in the establishment, commission, setting up, operation, and maintenance of electric power transmission systems; development, ownership, and operation of transmission lines; trade of bullion and other commodities; and laying of optical ground wire fibers on transmission lines to provide telecom solutions to telecom companies, internet service providers, and long-distance communication operators. The company was formerly known as Adani Transmission Limited and changed its name to Adani Energy Solutions Limited in July 2023. The company was incorporated in 2013 and is headquartered in Ahmedabad, India. Adani Energy Solutions Limited operates as a subsidiary of S.B. Adani Family Trust.",
-  "previous_close": 1013.6,
-  "open_price": 1010.0,
-  "day_high": 1031.6,
-  "day_low": 987.4,
-  "fifty_day_average": 976.122,
-  "two_hundred_day_average": 914.2778,
+  "previous_close": 1004.4,
+  "open_price": 1008.1,
+  "day_high": 1027.3,
+  "day_low": 980.0,
+  "fifty_day_average": 975.58,
+  "two_hundred_day_average": 915.4835,
   "stock_splits": null,
-  "last_updated": "2026-03-11T16:19:38.186962",
+  "last_updated": "2026-03-13T10:02:40.750989",
   "historical_data": [
-    {
-      "date": "2025-12-11",
-      "close": 999.5999755859375,
-      "open": 986.0,
-      "high": 1005.0,
-      "low": 979.0,
-      "volume": 1271880
-    },
-    {
-      "date": "2025-12-12",
-      "close": 1011.2999877929688,
-      "open": 1000.0499877929688,
-      "high": 1016.3499755859375,
-      "low": 998.7999877929688,
-      "volume": 2110784
-    },
     {
       "date": "2025-12-15",
       "close": 1016.4500122070312,
@@ -519,7 +503,23 @@
       "open": 1010.0,
       "high": 1031.5999755859375,
       "low": 987.4000244140625,
-      "volume": 858377
+      "volume": 858594
+    },
+    {
+      "date": "2026-03-12",
+      "close": 1004.4000244140625,
+      "open": 987.0,
+      "high": 1019.0,
+      "low": 976.0,
+      "volume": 1132800
+    },
+    {
+      "date": "2026-03-13",
+      "close": 992.2999877929688,
+      "open": 1008.0999755859375,
+      "high": 1027.300048828125,
+      "low": 980.0,
+      "volume": 2240474
     }
   ]
 }
