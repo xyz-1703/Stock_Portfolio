@@ -15,26 +15,24 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.http import JsonResponse
-from django.urls import include, path
-
-
-def root_view(request):
-    return JsonResponse(
-        {
-            'message': 'Stock Portfolio backend is running',
-            'admin': '/admin/',
-            'api': {
-                'sectors': '/api/sectors/',
-                'market_overview': '/api/home/sectors-with-stocks/',
-            },
-        }
-    )
+from django.urls import path, include, re_path
+from django.views.generic import TemplateView
 
 urlpatterns = [
-    path('', root_view, name='root'),
     path('admin/', admin.site.urls),
-    path("", include("stock.urls")),
-    path("", include("portfolio.urls")),
+
+    # API
+    path('api/', include("stock.urls")),
+    path('api/', include("portfolio.urls")),
+
+    # React frontend
+    path('', TemplateView.as_view(template_name="index.html")),
 ]
 
+# React router fallback (EXCLUDING static)
+urlpatterns += [
+    re_path(
+        r'^(?!api/|admin/|static/).*$', 
+        TemplateView.as_view(template_name="index.html")
+    )
+]

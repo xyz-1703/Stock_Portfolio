@@ -1,21 +1,21 @@
 {
   "symbol": "WFC",
   "name": "Wells Fargo & Company",
-  "current_price": 75.25,
-  "pe_ratio": 12.020766,
-  "forward_pe": 9.496862,
+  "current_price": 74.1,
+  "pe_ratio": 11.83706,
+  "forward_pe": 9.3517275,
   "peg_ratio": null,
-  "price_to_book": 1.4146333,
+  "price_to_book": 1.3930142,
   "profit_margin": 0.26659,
   "operating_margin": 0.29938,
   "return_on_equity": 0.11732,
   "debt_to_equity": null,
   "fifty_two_week_high": 97.76,
   "fifty_two_week_low": 58.42,
-  "three_month_average_volume": 16337365,
-  "market_cap": 236216107008,
-  "enterprise_value": 245020082176,
-  "dividend_yield": 2.39,
+  "three_month_average_volume": 16421632,
+  "market_cap": 232606154752,
+  "enterprise_value": 241471602688,
+  "dividend_yield": 2.43,
   "dividend_rate": 1.8,
   "payout_ratio": 0.2716,
   "five_year_avg_dividend_yield": 2.1,
@@ -24,14 +24,14 @@
   "industry": "Banks - Diversified",
   "website": "https://www.wellsfargo.com",
   "description": "Wells Fargo & Company, a financial services company, provides diversified banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The company's financial products and services includes checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services. It also provides personalized wealth management, brokerage, financial planning, lending, private banking, trust and fiduciary products and services; and financial solutions to private, family owned and public companies through products and services including banking and credit products across multiple industry sectors and municipalities, secured lending and lease products, and treasury management. In addition, it offers a suite of capital markets, banking, and financial products and services, such as corporate banking, investment banking, treasury management, commercial real estate lending and servicing, equity, and fixed income solutions, as well as sales, trading, and research capabilities services to corporate, commercial real estate, government, and institutional clients. Wells Fargo & Company was founded in 1852 and is headquartered in San Francisco, California.",
-  "previous_close": 76.88,
-  "open_price": 75.475,
-  "day_high": 75.54,
-  "day_low": 74.645,
-  "fifty_day_average": 88.3972,
-  "two_hundred_day_average": 83.97605,
+  "previous_close": 75.25,
+  "open_price": 75.65,
+  "day_high": 76.21,
+  "day_low": 74.03,
+  "fifty_day_average": 87.993,
+  "two_hundred_day_average": 83.9766,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:20.516128",
+  "last_updated": "2026-03-16T04:26:19.488224",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 75.4800033569336,
       "high": 75.54000091552734,
       "low": 74.6500015258789,
-      "volume": 24788000
+      "volume": 24794100
+    },
+    {
+      "date": "2026-03-13",
+      "close": 74.0999984741211,
+      "open": 75.6500015258789,
+      "high": 76.20999908447266,
+      "low": 74.02999877929688,
+      "volume": 15470154
     }
   ]
 }

@@ -12,10 +12,10 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 431.47,
   "fifty_two_week_low": 31.88,
-  "three_month_average_volume": 8623823,
+  "three_month_average_volume": 8768061,
   "market_cap": null,
   "enterprise_value": null,
-  "dividend_yield": null,
+  "dividend_yield": 0.0,
   "dividend_rate": null,
   "payout_ratio": null,
   "five_year_avg_dividend_yield": null,
@@ -23,15 +23,15 @@
   "sector": "Unknown",
   "industry": "Unknown",
   "website": null,
-  "description": "",
-  "previous_close": 159.34,
-  "open_price": 161.955,
-  "day_high": 161.91,
-  "day_low": 153.1601,
-  "fifty_day_average": 196.2202,
-  "two_hundred_day_average": 104.00435,
+  "description": "The fund seeks to meet its investment objective by investing, under normal market conditions, in any one of, or combinations of, Financial Instruments (including swap agreements, futures contracts, forward contracts and option contracts) based on the benchmark. The types and mix of Financial Instruments in which the fund invests may vary daily at the discretion of the Sponsor. It will not invest directly in any commodity.",
+  "previous_close": 153.62,
+  "open_price": 151.99,
+  "day_high": 152.66,
+  "day_low": 135.09,
+  "fifty_day_average": 195.3398,
+  "two_hundred_day_average": 104.4905,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:47.459488",
+  "last_updated": "2026-03-16T04:25:26.265135",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 161.9600067138672,
       "high": 162.0,
       "low": 153.16000366210938,
-      "volume": 2285400
+      "volume": 2333100
+    },
+    {
+      "date": "2026-03-13",
+      "close": 138.13999938964844,
+      "open": 151.99000549316406,
+      "high": 152.66000366210938,
+      "low": 135.08999633789062,
+      "volume": 5853908
     }
   ]
 }

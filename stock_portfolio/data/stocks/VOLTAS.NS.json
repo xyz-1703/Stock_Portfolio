@@ -1,21 +1,21 @@
 {
   "symbol": "VOLTAS.NS",
   "name": "Voltas Limited",
-  "current_price": 1414.2,
-  "pe_ratio": 93.84207,
-  "forward_pe": 47.85359,
+  "current_price": 1398.3,
+  "pe_ratio": 92.41904,
+  "forward_pe": 47.31557,
   "peg_ratio": null,
-  "price_to_book": 7.392152,
+  "price_to_book": 7.3090415,
   "profit_margin": 0.03545,
   "operating_margin": 0.051020004,
   "return_on_equity": null,
   "debt_to_equity": 27.449,
   "fifty_two_week_high": 1582.5,
   "fifty_two_week_low": 1190.0,
-  "three_month_average_volume": 759991,
-  "market_cap": 467937165312,
-  "enterprise_value": 482910863360,
-  "dividend_yield": 0.48,
+  "three_month_average_volume": 784986,
+  "market_cap": 462676131840,
+  "enterprise_value": 471275667456,
+  "dividend_yield": 0.49,
   "dividend_rate": 7.0,
   "payout_ratio": 0.46240002,
   "five_year_avg_dividend_yield": 0.47,
@@ -24,23 +24,15 @@
   "industry": "Furnishings, Fixtures & Appliances",
   "website": "https://www.voltas.com",
   "description": "Voltas Limited operates as an air conditioning and engineering solutions provider primarily in India, the Middle East, Africa, and internationally. It operates through three segments: Unitary Cooling Products; Electro - Mechanical Projects and Services; and Engineering Products and Services. The company manufactures, sells, and services cooling appliances and cold storage products, such as room air conditioners, water dispensers and coolers, visi coolers, chest and convertible freezers, cold rooms, medical refrigeration, air coolers and purifiers, water heaters, ducted AC, variable refrigerant flow, cassette and tower AC, and chillers, as well as refrigerators, washing machines, microwave ovens, dishwashers, dry iron, and mixer grinders. It also offers a comprehensive range of electro-mechanical services, including HVAC (heating, ventilation, and air conditioning), electrical systems, plumbing, firefighting, extra low voltage, and specialized services. In addition, the company provides facilities maintenance services, such as operations and maintenance contracts in various sectors, AMCs, retrofit jobs, etc. Further, it engages in the provision of water treatment solutions for industrial and domestic sewage segments, as well as last mile connectivity of water tab under various government schemes; sale and service of capital machinery for textile industry; sale of spares and accessories for textile equipment; and sale of mining and construction equipment. Additionally, the company offers operations and maintenance services for mining and construction industry; undertakes rural electrification, power augmentation, substations, industrial electrification, and solar projects related to engineering, procurement, and construction. Furthermore, it engages in manufacturing of ducts and ducts accessories; drilling, irrigation, and landscaping activities; and construction of water treatment plants. Voltas Limited was incorporated in 1954 and is headquartered in Mumbai, India.",
-  "previous_close": 1449.4,
-  "open_price": 1440.0,
-  "day_high": 1448.9,
-  "day_low": 1385.2,
-  "fifty_day_average": 1446.708,
-  "two_hundred_day_average": 1383.719,
+  "previous_close": 1414.2,
+  "open_price": 1410.6,
+  "day_high": 1410.6,
+  "day_low": 1382.7,
+  "fifty_day_average": 1445.456,
+  "two_hundred_day_average": 1384.3575,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:19.299165",
+  "last_updated": "2026-03-16T04:26:17.933941",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 1388.9000244140625,
-      "open": 1370.0999755859375,
-      "high": 1391.0,
-      "low": 1362.0,
-      "volume": 215764
-    },
     {
       "date": "2025-12-16",
       "close": 1394.300048828125,
@@ -527,7 +519,15 @@
       "open": 1440.0,
       "high": 1448.9000244140625,
       "low": 1385.199951171875,
-      "volume": 1524620
+      "volume": 1524789
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1398.300048828125,
+      "open": 1410.5999755859375,
+      "high": 1410.5999755859375,
+      "low": 1382.699951171875,
+      "volume": 134902
     }
   ]
 }

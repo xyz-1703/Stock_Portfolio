@@ -5,15 +5,15 @@
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 3.5825372,
+  "price_to_book": 3.405003,
   "profit_margin": null,
   "operating_margin": null,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 109.83,
   "fifty_two_week_low": 26.57,
-  "three_month_average_volume": 108248190,
-  "market_cap": 26114095104,
+  "three_month_average_volume": 109584040,
+  "market_cap": 24820000768,
   "enterprise_value": null,
   "dividend_yield": 0.0,
   "dividend_rate": null,
@@ -24,14 +24,14 @@
   "industry": "Unknown",
   "website": null,
   "description": "The Trust seeks to reflect such performance before payment of the Trust's expenses and liabilities. It is not actively managed. The Trust does not engage in any activities designed to obtain a profit from, or to ameliorate losses caused by, changes in the price of silver.",
-  "previous_close": 77.91,
-  "open_price": 78.53,
-  "day_high": 78.54,
-  "day_low": 76.36,
-  "fifty_day_average": 78.1666,
-  "two_hundred_day_average": 50.2644,
+  "previous_close": 76.48,
+  "open_price": 76.07,
+  "day_high": 76.28,
+  "day_low": 71.915,
+  "fifty_day_average": 78.2408,
+  "two_hundred_day_average": 50.4767,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:10.059306",
+  "last_updated": "2026-03-16T04:25:56.978020",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 78.52999877929688,
       "high": 78.54000091552734,
       "low": 76.36000061035156,
-      "volume": 29576800
+      "volume": 29762300
+    },
+    {
+      "date": "2026-03-13",
+      "close": 72.69000244140625,
+      "open": 76.06999969482422,
+      "high": 76.27999877929688,
+      "low": 71.91500091552734,
+      "volume": 44683639
     }
   ]
 }

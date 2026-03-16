@@ -1,20 +1,20 @@
 {
   "symbol": "NVDA",
   "name": "NVIDIA Corporation",
-  "current_price": 183.14,
-  "pe_ratio": 37.29939,
-  "forward_pe": 16.955194,
+  "current_price": 180.25,
+  "pe_ratio": 36.785713,
+  "forward_pe": 16.682323,
   "peg_ratio": null,
-  "price_to_book": 28.29728,
+  "price_to_book": 27.85074,
   "profit_margin": 0.55603004,
   "operating_margin": 0.65024,
   "return_on_equity": 1.01485,
   "debt_to_equity": 7.255,
   "fifty_two_week_high": 212.19,
   "fifty_two_week_low": 86.62,
-  "three_month_average_volume": 175525501,
-  "market_cap": 4451217702912,
-  "enterprise_value": 4399158001664,
+  "three_month_average_volume": 175916749,
+  "market_cap": 4380976218112,
+  "enterprise_value": 4328930934784,
   "dividend_yield": 0.02,
   "dividend_rate": 0.04,
   "payout_ratio": 0.0082,
@@ -23,15 +23,15 @@
   "sector": "Technology",
   "industry": "Semiconductors",
   "website": "https://www.nvidia.com",
-  "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. The company also has a strategic partnership with Lumentum Holdings Inc. to develop optics technologies for AI and data centers. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
-  "previous_close": 185.997,
-  "open_price": 184.05,
-  "day_high": 184.94,
-  "day_low": 181.75,
-  "fifty_day_average": 185.6064,
-  "two_hundred_day_average": 177.16714,
+  "description": "NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software. The Graphics segment offers GeForce GPUs for gaming and PCs; Quadro/NVIDIA RTX GPUs for enterprise workstation graphics. The company's products are used in gaming, professional visualization, data center, and automotive markets. The company sells its products to original equipment manufacturers, original device manufacturers, system integrators and distributors, independent software vendors, cloud service providers, add-in board manufacturers, distributors, automotive manufacturers and tier-1 automotive suppliers, and other ecosystem participants worldwide. It has a collaboration with Tech Mahindra Limited to develop artificial intelligence powered telco network operations reasoning agent. The company has a strategic partnership with Lumentum Holdings Inc. to develop optics technologies for AI and data centers. It also has a strategic partnership with Nebius Group N.V. to develop and deploy hyperscale cloud for the artificial intelligence market. NVIDIA Corporation was incorporated in 1993 and is headquartered in Santa Clara, California.",
+  "previous_close": 183.16,
+  "open_price": 184.91,
+  "day_high": 186.09,
+  "day_low": 179.94,
+  "fifty_day_average": 185.4606,
+  "two_hundred_day_average": 177.3909,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:06.231527",
+  "last_updated": "2026-03-16T04:25:47.088818",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 184.0500030517578,
       "high": 184.94000244140625,
       "low": 181.75,
-      "volume": 155354700
+      "volume": 155762700
+    },
+    {
+      "date": "2026-03-13",
+      "close": 180.25,
+      "open": 184.91000366210938,
+      "high": 186.08999633789062,
+      "low": 179.94000244140625,
+      "volume": 160988424
     }
   ]
 }

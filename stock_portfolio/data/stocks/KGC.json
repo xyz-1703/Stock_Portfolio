@@ -1,21 +1,21 @@
 {
   "symbol": "KGC",
   "name": "Kinross Gold Corporation",
-  "current_price": 32.52,
-  "pe_ratio": 16.676924,
-  "forward_pe": 9.751066,
+  "current_price": 30.57,
+  "pe_ratio": 15.676923,
+  "forward_pe": 9.166362,
   "peg_ratio": null,
-  "price_to_book": 4.549525,
+  "price_to_book": 4.276721,
   "profit_margin": 0.33897,
   "operating_margin": 0.49165002,
   "return_on_equity": 0.31476,
   "debt_to_equity": 8.724,
   "fifty_two_week_high": 39.11,
   "fifty_two_week_low": 11.12,
-  "three_month_average_volume": 10969278,
-  "market_cap": 39239294976,
-  "enterprise_value": 38132396032,
-  "dividend_yield": 0.42,
+  "three_month_average_volume": 11087027,
+  "market_cap": 36886384640,
+  "enterprise_value": 35792785408,
+  "dividend_yield": 0.44,
   "dividend_rate": 0.14,
   "payout_ratio": 0.0641,
   "five_year_avg_dividend_yield": 1.84,
@@ -24,14 +24,14 @@
   "industry": "Gold",
   "website": "https://www.kinross.com",
   "description": "Kinross Gold Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of gold properties principally in the United States, Brazil, Chile, Canada, and Mauritania. It is also involved in the extraction and processing of gold-containing ores; reclamation of gold mining properties; and production and sale of silver. The company was founded in 1993 and is headquartered in Toronto, Canada.",
-  "previous_close": 32.56,
-  "open_price": 32.865,
-  "day_high": 33.19,
-  "day_low": 31.895,
-  "fifty_day_average": 33.5816,
-  "two_hundred_day_average": 24.4169,
+  "previous_close": 32.52,
+  "open_price": 32.09,
+  "day_high": 32.25,
+  "day_low": 30.36,
+  "fifty_day_average": 33.6208,
+  "two_hundred_day_average": 24.4972,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:02.200560",
+  "last_updated": "2026-03-16T04:25:41.763473",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 32.869998931884766,
       "high": 33.189998626708984,
       "low": 31.899999618530273,
-      "volume": 10196100
+      "volume": 10200900
+    },
+    {
+      "date": "2026-03-13",
+      "close": 30.56999969482422,
+      "open": 32.09000015258789,
+      "high": 32.25,
+      "low": 30.360000610351562,
+      "volume": 10573436
     }
   ]
 }

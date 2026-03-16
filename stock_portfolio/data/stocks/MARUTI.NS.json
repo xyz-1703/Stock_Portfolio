@@ -1,21 +1,21 @@
 {
   "symbol": "MARUTI.NS",
   "name": "Maruti Suzuki India Limited",
-  "current_price": 12591.0,
-  "pe_ratio": 26.51295,
-  "forward_pe": 21.729427,
+  "current_price": 12632.0,
+  "pe_ratio": 26.611612,
+  "forward_pe": 21.800184,
   "peg_ratio": null,
-  "price_to_book": 3.968792,
+  "price_to_book": 3.9817154,
   "profit_margin": 0.08693,
   "operating_margin": 0.07692,
   "return_on_equity": null,
   "debt_to_equity": 0.1,
   "fifty_two_week_high": 17370.0,
   "fifty_two_week_low": 11059.45,
-  "three_month_average_volume": 394986,
-  "market_cap": 3958642573312,
-  "enterprise_value": 4015297921024,
-  "dividend_yield": 1.04,
+  "three_month_average_volume": 410873,
+  "market_cap": 3971533242368,
+  "enterprise_value": 3883248910336,
+  "dividend_yield": 1.07,
   "dividend_rate": 135.0,
   "payout_ratio": 0.2843,
   "five_year_avg_dividend_yield": 0.79,
@@ -24,23 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.marutisuzuki.com",
   "description": "Maruti Suzuki India Limited manufactures, purchases, and sells motor vehicles, components, and spare parts in India. The company offers passenger vehicles, utility vehicles, and multi-purpose vehicles. It is also involved in the facilitation of pre-owned car sales, fleet management, and car financing activities. In addition, the company offers driving school, insurance, accessories, and financing products and services. It also exports its products to South Africa, Saudi Arabia, Chile, Japan, Mexico, and internationally. The company was formerly known as Maruti Udyog Limited and changed its name to Maruti Suzuki India Limited in September 2007. Maruti Suzuki India Limited was incorporated in 1981 and is headquartered in New Delhi, India. Maruti Suzuki India Limited is a subsidiary of Suzuki Motor Corporation.",
-  "previous_close": 13011.0,
-  "open_price": 12899.0,
-  "day_high": 12962.0,
-  "day_low": 12483.0,
-  "fifty_day_average": 15194.74,
-  "two_hundred_day_average": 14863.065,
+  "previous_close": 12591.0,
+  "open_price": 12532.0,
+  "day_high": 12671.0,
+  "day_low": 12469.0,
+  "fifty_day_average": 15103.46,
+  "two_hundred_day_average": 14862.835,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:02.826955",
+  "last_updated": "2026-03-16T04:25:42.399874",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 16415.0,
-      "open": 16500.0,
-      "high": 16500.0,
-      "low": 16360.0,
-      "volume": 225221
-    },
     {
       "date": "2025-12-16",
       "close": 16354.0,
@@ -527,7 +519,15 @@
       "open": 12899.0,
       "high": 12962.0,
       "low": 12483.0,
-      "volume": 938550
+      "volume": 939594
+    },
+    {
+      "date": "2026-03-16",
+      "close": 12632.0,
+      "open": 12532.0,
+      "high": 12671.0,
+      "low": 12469.0,
+      "volume": 239408
     }
   ]
 }

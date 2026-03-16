@@ -5,15 +5,15 @@
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 2.7460785,
+  "price_to_book": 2.7105525,
   "profit_margin": null,
   "operating_margin": null,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 509.7,
   "fifty_two_week_low": 272.58,
-  "three_month_average_volume": 18031876,
-  "market_cap": 121528868864,
+  "three_month_average_volume": 18188532,
+  "market_cap": 119956652032,
   "enterprise_value": null,
   "dividend_yield": 0.0,
   "dividend_rate": null,
@@ -24,14 +24,14 @@
   "industry": "Unknown",
   "website": null,
   "description": "The Trust holds gold bars and from time to time, issues Baskets in exchange for deposits of gold and distributes gold in connection with redemptions of Baskets. The investment objective of the Trust is for the Shares to reflect the performance of the price of gold bullion, less the Trust\u2019s expenses. The Sponsor believes that, for many investors, the Shares represent a cost-effective investment in gold.",
-  "previous_close": 476.24,
-  "open_price": 475.02,
-  "day_high": 475.02,
-  "day_low": 466.6,
-  "fifty_day_average": 451.279,
-  "two_hundred_day_average": 370.00195,
+  "previous_close": 466.88,
+  "open_price": 469.31,
+  "day_high": 470.102,
+  "day_low": 460.22,
+  "fifty_day_average": 452.518,
+  "two_hundred_day_average": 370.78366,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:53.614398",
+  "last_updated": "2026-03-16T04:25:33.325513",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 475.0199890136719,
       "high": 475.0199890136719,
       "low": 466.6000061035156,
-      "volume": 11863800
+      "volume": 11900600
+    },
+    {
+      "date": "2026-03-13",
+      "close": 460.8399963378906,
+      "open": 469.30999755859375,
+      "high": 470.10198974609375,
+      "low": 460.2200012207031,
+      "volume": 11706374
     }
   ]
 }

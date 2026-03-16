@@ -1,21 +1,21 @@
 {
   "symbol": "NEM",
   "name": "Newmont Corporation",
-  "current_price": 114.48,
-  "pe_ratio": 17.915493,
-  "forward_pe": 10.5745535,
+  "current_price": 109.58,
+  "pe_ratio": 17.14867,
+  "forward_pe": 9.69617,
   "peg_ratio": null,
-  "price_to_book": 3.6794908,
+  "price_to_book": 3.5220003,
   "profit_margin": 0.31254,
   "operating_margin": 0.58111,
   "return_on_equity": 0.22343999,
   "debt_to_equity": 16.738,
   "fifty_two_week_high": 134.88,
   "fifty_two_week_low": 42.93,
-  "three_month_average_volume": 9673898,
-  "market_cap": 124927787008,
-  "enterprise_value": 122171842560,
-  "dividend_yield": 0.91,
+  "three_month_average_volume": 9712818,
+  "market_cap": 119580598272,
+  "enterprise_value": 116841259008,
+  "dividend_yield": 0.95,
   "dividend_rate": 1.04,
   "payout_ratio": 0.1565,
   "five_year_avg_dividend_yield": 3.22,
@@ -24,14 +24,14 @@
   "industry": "Gold",
   "website": "https://www.newmont.com",
   "description": "Newmont Corporation operates as a gold producer. It also explores for copper, silver, lead, zinc, and other metals. It has operations and/or assets in the United States, Papua New Guinea, Australia, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada. The company was founded in 1916 and is headquartered in Denver, Colorado.",
-  "previous_close": 116.21,
-  "open_price": 116.92,
-  "day_high": 117.07,
-  "day_low": 113.72,
-  "fifty_day_average": 117.7966,
-  "two_hundred_day_average": 86.36855,
+  "previous_close": 114.48,
+  "open_price": 114.58,
+  "day_high": 114.58,
+  "day_low": 108.8,
+  "fifty_day_average": 117.951,
+  "two_hundred_day_average": 86.6529,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:05.726174",
+  "last_updated": "2026-03-16T04:25:46.368494",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 116.91999816894531,
       "high": 117.06999969482422,
       "low": 113.72000122070312,
-      "volume": 8734689
+      "volume": 8777400
+    },
+    {
+      "date": "2026-03-13",
+      "close": 109.58000183105469,
+      "open": 114.58000183105469,
+      "high": 114.58000183105469,
+      "low": 108.80000305175781,
+      "volume": 9251495
     }
   ]
 }

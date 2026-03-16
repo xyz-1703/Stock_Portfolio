@@ -1,21 +1,21 @@
 {
   "symbol": "CSCO",
   "name": "Cisco Systems, Inc.",
-  "current_price": 77.74,
-  "pe_ratio": 27.964027,
-  "forward_pe": 17.215034,
+  "current_price": 78.33,
+  "pe_ratio": 28.17626,
+  "forward_pe": 17.345688,
   "peg_ratio": null,
-  "price_to_book": 6.432768,
+  "price_to_book": 6.481589,
   "profit_margin": 0.18756,
   "operating_margin": 0.24868,
   "return_on_equity": 0.23754999,
   "debt_to_equity": 66.509,
   "fifty_two_week_high": 88.19,
   "fifty_two_week_low": 52.11,
-  "three_month_average_volume": 23336845,
-  "market_cap": 307158089728,
-  "enterprise_value": 323027697664,
-  "dividend_yield": 2.16,
+  "three_month_average_volume": 23456086,
+  "market_cap": 309489238016,
+  "enterprise_value": 325358125056,
+  "dividend_yield": 2.14,
   "dividend_rate": 1.68,
   "payout_ratio": 0.5899,
   "five_year_avg_dividend_yield": 2.85,
@@ -24,14 +24,14 @@
   "industry": "Communication Equipment",
   "website": "https://www.cisco.com",
   "description": "Cisco Systems, Inc. designs, develops, and sells technologies that help to power, secure, and draw insights from the internet in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and China. The company offers data center switching; network security, identity and access management, and secure access service edge; threat intelligence, detection, and response solutions; interconnects public and private wireline and mobile networks, delivering connectivity to campus, data center, and branch networks; WEBEX suite, collaboration devices, and contact center; communication platform as a service software, including perpetual licenses, subscription arrangements, and hardware solutions; network assurance, monitoring and analytics, and observability suite; issue resolution, software support, and hardware replacement; professional services, such as planning, design, implementation, and high-value consulting; service and support packages, financing, and managed network services; and regional, national, and international wireline carriers, webscale products, internet, and cable. It also delivers connectivity to campus, data center, and branch networks; wireless products, including indoor and outdoor wireless coverage designed for seamless roaming use of voice, video, and data applications; end-to-end collaboration solutions through cloud, on-premise, or within hybrid cloud environments, transition collaboration solutions from on-premise to the cloud; and network assurance, monitoring and analytics, and observability suite. In addition, it offers technical support and advisory services. The company serves businesses, public institutions, governments, and service providers. It sells its products and services directly, through systems integrators, service providers, resellers, and distributors. Cisco Systems, Inc. was incorporated in 1984 and is headquartered in San Jose, California.",
-  "previous_close": 78.1,
-  "open_price": 76.95,
-  "day_high": 78.13,
-  "day_low": 76.95,
-  "fifty_day_average": 78.0218,
-  "two_hundred_day_average": 72.16175,
+  "previous_close": 77.740005,
+  "open_price": 78.15,
+  "day_high": 79.26,
+  "day_low": 77.935,
+  "fifty_day_average": 78.0402,
+  "two_hundred_day_average": 72.23465,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:52.948345",
+  "last_updated": "2026-03-16T04:25:32.272513",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 76.94999694824219,
       "high": 78.12999725341797,
       "low": 76.94999694824219,
-      "volume": 19968000
+      "volume": 19969500
+    },
+    {
+      "date": "2026-03-13",
+      "close": 78.33000183105469,
+      "open": 78.1500015258789,
+      "high": 79.26000213623047,
+      "low": 77.93499755859375,
+      "volume": 19080391
     }
   ]
 }

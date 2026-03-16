@@ -1,21 +1,21 @@
 {
   "symbol": "ADANIPORTS.NS",
   "name": "Adani Ports and Special Economic Zone Limited",
-  "current_price": 1363.2,
-  "pe_ratio": 23.605194,
-  "forward_pe": 19.53722,
+  "current_price": 1379.7,
+  "pe_ratio": 23.9282,
+  "forward_pe": 19.773695,
   "peg_ratio": null,
-  "price_to_book": 4.390847,
+  "price_to_book": 4.4439936,
   "profit_margin": 0.34236,
   "operating_margin": 0.45356998,
   "return_on_equity": 0.19407,
   "debt_to_equity": 81.556,
   "fifty_two_week_high": 1584.0,
   "fifty_two_week_low": 1041.5,
-  "three_month_average_volume": 2292523,
-  "market_cap": 3140756963328,
-  "enterprise_value": 3509936193536,
-  "dividend_yield": 0.5,
+  "three_month_average_volume": 2342664,
+  "market_cap": 3178772299776,
+  "enterprise_value": 3448385306624,
+  "dividend_yield": 0.51,
   "dividend_rate": 7.0,
   "payout_ratio": 0.121300004,
   "five_year_avg_dividend_yield": 0.5,
@@ -24,23 +24,15 @@
   "industry": "Marine Shipping",
   "website": "https://www.adaniports.com",
   "description": "Adani Ports and Special Economic Zone Limited, together with its subsidiaries, develops, operates, and maintains port infrastructure in India. The company is involved in the operation of ports and terminals, including bulk and break bulk, container, liquid, LPG, LNG, and crude cargo; ports related infrastructure development activities; and development of infrastructure at contiguous Special Economic Zone at Mundra. It also offers logistic services, which include logistic parks, container rail and bulk cargo logistic solutions, and warehousing, as well as auto, road, and agriculture logistic services. In addition, the company operates a fleet of dredging and reclamation service equipment comprising cutter suction, trailing suction hopper, grab, inland cutter suction, water injection, and specialized dredgers; split hopper, flat top, and jack up barges; and multi utility craft, survey vessels, floating crane, drag flow unit, and floating booster, as well as dozers, excavotors, loaders, and other equipment. Further, it provides non-scheduled passenger airline services; hospital and related services; and marine services, such as pilotage, laying, mooring of vessels at berth and mid-stream, and maintenance of buoys. Additionally, the company engages in the development, construction, operation, and maintenance of railway corridors; land development activities; integrated textile park and container freight station businesses; owns and operates harbour tugs, barges, other port crafts, ocean towage and offshore support vessels; and provision of cargo storage-cum logistics services. The company was incorporated in 1998 and is headquartered in Ahmedabad, India.",
-  "previous_close": 1391.5,
-  "open_price": 1388.7,
-  "day_high": 1390.0,
-  "day_low": 1354.0,
-  "fifty_day_average": 1466.866,
-  "two_hundred_day_average": 1436.8254,
+  "previous_close": 1363.2,
+  "open_price": 1356.6,
+  "day_high": 1382.0,
+  "day_low": 1347.0,
+  "fifty_day_average": 1464.27,
+  "two_hundred_day_average": 1436.306,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:42.575400",
+  "last_updated": "2026-03-16T04:25:21.179282",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 1512.5999755859375,
-      "open": 1522.800048828125,
-      "high": 1522.800048828125,
-      "low": 1508.0999755859375,
-      "volume": 850425
-    },
     {
       "date": "2025-12-16",
       "close": 1499.0,
@@ -527,7 +519,15 @@
       "open": 1388.699951171875,
       "high": 1390.0,
       "low": 1354.0,
-      "volume": 2688552
+      "volume": 2688559
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1379.699951171875,
+      "open": 1356.5999755859375,
+      "high": 1382.0,
+      "low": 1347.0,
+      "volume": 422272
     }
   ]
 }

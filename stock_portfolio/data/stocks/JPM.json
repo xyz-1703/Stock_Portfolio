@@ -1,20 +1,20 @@
 {
   "symbol": "JPM",
   "name": "JPMorgan Chase & Co.",
-  "current_price": 282.89,
-  "pe_ratio": 14.123315,
-  "forward_pe": 12.041809,
+  "current_price": 283.44,
+  "pe_ratio": 14.164918,
+  "forward_pe": 12.06522,
   "peg_ratio": null,
-  "price_to_book": 2.227691,
+  "price_to_book": 2.232022,
   "profit_margin": 0.3391,
   "operating_margin": 0.41062,
   "return_on_equity": 0.16134001,
   "debt_to_equity": null,
   "fifty_two_week_high": 337.25,
   "fifty_two_week_low": 202.16,
-  "three_month_average_volume": 10884605,
-  "market_cap": 762963558400,
-  "enterprise_value": 521293496320,
+  "three_month_average_volume": 10897844,
+  "market_cap": 764446900224,
+  "enterprise_value": 522776870912,
   "dividend_yield": 2.12,
   "dividend_rate": 6.0,
   "payout_ratio": 0.2897,
@@ -24,14 +24,14 @@
   "industry": "Banks - Diversified",
   "website": "https://www.jpmorganchase.com",
   "description": "JPMorgan Chase & Co. operates as a bank and financial holding company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia Pacific, Latin America, and the Caribbean. It operates in three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management. The company offers deposit, investment and lending products, and cash management; mortgage origination and servicing activities; residential mortgages and home equity loans; and credit cards, payment solutions, travel services, merchant offers, lifestyle benefits, auto loans, and leases to consumers and small businesses through bank branches, ATMs, and digital and telephone banking. It also provides investment banking, market-making, financing, custody, and securities products and services; corporate strategy and structure advisory, equity and debt market capital-raising, and loan origination and syndication services; cash and derivative instruments, risk management solutions, prime brokerage, clearing, and research; and fund services, liquidity and trading services, and data solutions products for large corporations, financial institutions, merchants, start-ups, small and midsized companies, local governments, municipalities, nonprofits, and commercial real estate clients. In addition, the company offers multi-asset investment management solutions in equities, fixed income, alternatives, and money market funds to institutional clients and retail investors; retirement products and services, estate planning, lending, deposits, and investment management products to high-net-worth clients; and financial transaction processing. JPMorgan Chase & Co. was founded in 1799 and is headquartered in New York, New York.",
-  "previous_close": 287.52,
-  "open_price": 282.83,
-  "day_high": 283.3,
-  "day_low": 279.1,
-  "fifty_day_average": 308.185,
-  "two_hundred_day_average": 300.63794,
+  "previous_close": 282.89,
+  "open_price": 284.665,
+  "day_high": 287.19,
+  "day_low": 282.95,
+  "fifty_day_average": 307.3854,
+  "two_hundred_day_average": 300.7287,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:01.473404",
+  "last_updated": "2026-03-16T04:25:41.185788",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 282.8299865722656,
       "high": 283.8800048828125,
       "low": 279.1000061035156,
-      "volume": 13754500
+      "volume": 13760500
+    },
+    {
+      "date": "2026-03-13",
+      "close": 283.44000244140625,
+      "open": 284.6650085449219,
+      "high": 287.19000244140625,
+      "low": 282.95001220703125,
+      "volume": 9082914
     }
   ]
 }

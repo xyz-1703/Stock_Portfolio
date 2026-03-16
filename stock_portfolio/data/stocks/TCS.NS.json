@@ -1,21 +1,21 @@
 {
   "symbol": "TCS.NS",
   "name": "Tata Consultancy Services Limited",
-  "current_price": 2410.5,
-  "pe_ratio": 18.276594,
-  "forward_pe": 15.694179,
+  "current_price": 2397.9,
+  "pe_ratio": 18.186575,
+  "forward_pe": 15.612143,
   "peg_ratio": null,
-  "price_to_book": 7.683432,
+  "price_to_book": 7.6432695,
   "profit_margin": 0.18295999,
   "operating_margin": 0.25179002,
   "return_on_equity": 0.42635,
   "debt_to_equity": 9.444,
   "fifty_two_week_high": 3710.0,
-  "fifty_two_week_low": 2397.0,
-  "three_month_average_volume": 3484804,
-  "market_cap": 8721399808000,
-  "enterprise_value": 8388326981632,
-  "dividend_yield": 2.58,
+  "fifty_two_week_low": 2395.0,
+  "three_month_average_volume": 3529045,
+  "market_cap": 8675811393536,
+  "enterprise_value": 8272910221312,
+  "dividend_yield": 2.61,
   "dividend_rate": 63.0,
   "payout_ratio": 0.4701,
   "five_year_avg_dividend_yield": 1.41,
@@ -24,23 +24,15 @@
   "industry": "Information Technology Services",
   "website": "https://www.tcs.com",
   "description": "Tata Consultancy Services Limited provides information technology (IT) and IT enabled services in the Americas, Europe, India, and internationally. The company provides TCS ADD, a suite of AI powered life sciences platforms; TCS BaNCS, a financial services platform; TCS BFSI Platforms, a cloud-native, as-a-service digital ecosystem for insurers and financial firms; TCS Chroma, a cloud-based human resource management system platform; TCS Customer Intelligence & Insights, an AI-driven customer analytics and real-time CDP solution; TCS ERP on Cloud, an SAP platform as a service; ignio, a cognitive automation software product; TCS iON, a learning ecosystem; and TCS HOBS, a cloud-native, catalog-centric platform for personalization of products and processes. It also offers TCS Intelligent Urban Exchange for enterprises and smart cities; TCS OmniStore, a retail commerce platform; TCS Optumera, a retail-connected strategic intelligence platform; TCS Tap, a platform for intelligent procurement; Quartz, a distributed ledger technology; TCS TwinX, an enterprise digital twin platform; TCS MasterCraft, an AI-driven cognitive automation product; Jile, an enterprise agile planning and delivery tool; and TCS DigiBOLT, an end-to-end, organization-wide enterprise platform. In addition, the company provides cloud, cognitive business, consulting, cybersecurity, data and analytics, enterprise solutions, IoT and digital engineering, TCS interactive, artificial intelligence, network solutions, and sustainability services. It serves banking; capital markets; consumer packaged goods and distribution; communications, media, and information services; education; energy, resources, and utilities; healthcare; high tech; insurance; life sciences; manufacturing; public services; retail; and travel and logistics industries. The company was founded in 1968 and is based in Mumbai, India. Tata Consultancy Services Limited is a subsidiary of Tata Sons Private Limited.",
-  "previous_close": 2442.4,
-  "open_price": 2437.0,
-  "day_high": 2445.9,
-  "day_low": 2397.0,
-  "fifty_day_average": 2922.282,
-  "two_hundred_day_average": 3097.5134,
+  "previous_close": 2410.5,
+  "open_price": 2410.0,
+  "day_high": 2421.6,
+  "day_low": 2395.0,
+  "fifty_day_average": 2906.17,
+  "two_hundred_day_average": 3092.4565,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:15.606736",
+  "last_updated": "2026-03-16T04:26:13.098877",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 3172.52685546875,
-      "open": 3153.7680172761306,
-      "high": 3180.384020730158,
-      "low": 3140.2143592438706,
-      "volume": 1562190
-    },
     {
       "date": "2025-12-16",
       "close": 3147.875244140625,
@@ -527,7 +519,15 @@
       "open": 2437.0,
       "high": 2445.89990234375,
       "low": 2397.0,
-      "volume": 2466013
+      "volume": 2466488
+    },
+    {
+      "date": "2026-03-16",
+      "close": 2397.89990234375,
+      "open": 2410.0,
+      "high": 2421.60009765625,
+      "low": 2395.0,
+      "volume": 503520
     }
   ]
 }

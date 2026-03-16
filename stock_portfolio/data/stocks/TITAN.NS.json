@@ -1,20 +1,20 @@
 {
   "symbol": "TITAN.NS",
   "name": "Titan Company Limited",
-  "current_price": 4073.2,
-  "pe_ratio": 75.87928,
-  "forward_pe": 58.17217,
+  "current_price": 4095.5,
+  "pe_ratio": 76.16701,
+  "forward_pe": 58.49065,
   "peg_ratio": null,
-  "price_to_book": 28.21225,
+  "price_to_book": 28.366707,
   "profit_margin": 0.06306,
   "operating_margin": 0.0986,
   "return_on_equity": null,
   "debt_to_equity": 223.018,
   "fifty_two_week_high": 4378.4,
   "fifty_two_week_low": 2925.0,
-  "three_month_average_volume": 894968,
-  "market_cap": 3613112664064,
-  "enterprise_value": 3914876583936,
+  "three_month_average_volume": 892812,
+  "market_cap": 3632893788160,
+  "enterprise_value": 3864835653632,
   "dividend_yield": 0.27,
   "dividend_rate": 11.0,
   "payout_ratio": 0.2048,
@@ -24,23 +24,15 @@
   "industry": "Luxury Goods",
   "website": "https://www.titancompany.in",
   "description": "Titan Company Limited, together with its subsidiaries, manufactures and sells watches, jewelry, eyewear, and other accessories and products in India and internationally. It operates through four segments: Watches and Wearables, Jewellery, Eyecare, and Others. The company designs, manufactures, and retails watches and wearables under the Nebula, Titan, Titan Clocks, Zoop, Titan Octane, Raga, Xylys, Edge, Fastrack, Sonata, Titan Smart, Fastrack smart, SF, Titan World, and Helios brands; jewellery products under the Mia, CaratLane, Tanishq, and Zoya brands; and eyecare products under the Titan Glares, Titan Eye+ and Fastrack Eyecare brands. It also offers sarees, dress materials, and ready-to-wear kurtas under the Taneira brand; perfumes under the SKINN brand; belts and wallets under the TITAN brand; and bags under the Fastrack and IRTH brands. In addition, the company provides manufacturing services and automation solutions for aerospace, defense, transportation, electrical and electronics, and medical sectors. It offers its products through owned and franchised retail stores, as well as online. The company was formerly known as Titan Industries Limited and changed its name to Titan Company Limited in August 2013. Titan Company Limited was incorporated in 1984 and is based in Bengaluru, India.",
-  "previous_close": 4129.6,
-  "open_price": 4091.0,
-  "day_high": 4147.2,
-  "day_low": 4046.0,
-  "fifty_day_average": 4169.484,
-  "two_hundred_day_average": 3771.7766,
+  "previous_close": 4073.2,
+  "open_price": 4057.0,
+  "day_high": 4104.7,
+  "day_low": 4051.2,
+  "fifty_day_average": 4169.354,
+  "two_hundred_day_average": 3774.473,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:16.146150",
+  "last_updated": "2026-03-16T04:26:13.934460",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 3866.199951171875,
-      "open": 3861.300048828125,
-      "high": 3876.39990234375,
-      "low": 3850.0,
-      "volume": 332337
-    },
     {
       "date": "2025-12-16",
       "close": 3929.5,
@@ -527,7 +519,15 @@
       "open": 4091.0,
       "high": 4147.2001953125,
       "low": 4046.0,
-      "volume": 869067
+      "volume": 868825
+    },
+    {
+      "date": "2026-03-16",
+      "close": 4095.5,
+      "open": 4057.0,
+      "high": 4104.7001953125,
+      "low": 4051.199951171875,
+      "volume": 108759
     }
   ]
 }

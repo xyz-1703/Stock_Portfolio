@@ -1,21 +1,21 @@
 {
   "symbol": "BAC",
   "name": "Bank of America Corporation",
-  "current_price": 47.13,
-  "pe_ratio": 12.370079,
-  "forward_pe": 9.512526,
+  "current_price": 46.72,
+  "pe_ratio": 12.262467,
+  "forward_pe": 9.429773,
   "peg_ratio": null,
-  "price_to_book": 1.2260346,
+  "price_to_book": 1.215369,
   "profit_margin": 0.28401,
   "operating_margin": 0.41627997,
   "return_on_equity": 0.10217,
   "debt_to_equity": null,
   "fifty_two_week_high": 57.55,
   "fifty_two_week_low": 33.07,
-  "three_month_average_volume": 41056966,
-  "market_cap": 344166629376,
-  "enterprise_value": 361138028544,
-  "dividend_yield": 2.38,
+  "three_month_average_volume": 41408244,
+  "market_cap": 341172617216,
+  "enterprise_value": 358195593216,
+  "dividend_yield": 2.4,
   "dividend_rate": 1.12,
   "payout_ratio": 0.28350002,
   "five_year_avg_dividend_yield": 2.33,
@@ -24,14 +24,14 @@
   "industry": "Banks - Diversified",
   "website": "https://www.bankofamerica.com",
   "description": "Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. It operates through four segments: Consumer Banking, Global Wealth & Investment Management (GWIM), Global Banking, and Global Markets. The Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, checking accounts, and investment accounts and products; credit and debit cards; residential mortgages and home equity loans; and direct and indirect loans. The GWIM segment provides investment management, brokerage, banking, and trust and retirement products and services; wealth management solutions; and customized solutions, including specialty asset management services. The Global Banking segment offers lending products and services, including commercial loans, leases, commitment facilities, trade finance, and commercial real estate and asset-based lending; treasury solutions, and underwriting and advisory services. The Global Markets segment provides market-making, financing, securities clearing, settlement, and custody services; securities and derivative products; and risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income, and mortgage-related products. Bank of America Corporation was founded in 1784 and is based in Charlotte, North Carolina.",
-  "previous_close": 48.52,
-  "open_price": 47.7,
-  "day_high": 47.7824,
-  "day_low": 46.79,
-  "fifty_day_average": 52.807,
-  "two_hundred_day_average": 50.59395,
+  "previous_close": 47.13,
+  "open_price": 47.52,
+  "day_high": 47.8201,
+  "day_low": 46.655,
+  "fifty_day_average": 52.6358,
+  "two_hundred_day_average": 50.60645,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:49.130117",
+  "last_updated": "2026-03-16T04:25:28.046004",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 47.70000076293945,
       "high": 47.779998779296875,
       "low": 46.790000915527344,
-      "volume": 58311800
+      "volume": 58354500
+    },
+    {
+      "date": "2026-03-13",
+      "close": 46.720001220703125,
+      "open": 47.52000045776367,
+      "high": 47.820098876953125,
+      "low": 46.654998779296875,
+      "volume": 33340859
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
   "symbol": "ORCL",
   "name": "Oracle Corporation",
-  "current_price": 159.16,
-  "pe_ratio": 29.917294,
-  "forward_pe": 20.018314,
+  "current_price": 155.11,
+  "pe_ratio": 29.156013,
+  "forward_pe": 19.499115,
   "peg_ratio": null,
-  "price_to_book": 13.643065,
+  "price_to_book": 13.295902,
   "profit_margin": 0.25298,
   "operating_margin": 0.32676,
   "return_on_equity": 0.57572,
   "debt_to_equity": 415.265,
   "fifty_two_week_high": 345.72,
   "fifty_two_week_low": 118.86,
-  "three_month_average_volume": 28650335,
-  "market_cap": 457440329728,
-  "enterprise_value": 586294493184,
-  "dividend_yield": 1.26,
+  "three_month_average_volume": 28289603,
+  "market_cap": 445800251392,
+  "enterprise_value": 574646517760,
+  "dividend_yield": 1.29,
   "dividend_rate": 2.0,
   "payout_ratio": 0.35709998,
   "five_year_avg_dividend_yield": 1.29,
@@ -24,14 +24,14 @@
   "industry": "Software - Infrastructure",
   "website": "https://www.oracle.com",
   "description": "Oracle Corporation offers products and services that address enterprise information technology environments worldwide. Its Oracle cloud software as a service offering include various cloud software applications, including Oracle Fusion cloud enterprise resource planning ERP, Oracle Fusion cloud enterprise performance management EPM, Oracle Fusion cloud supply chain and manufacturing management SCM, Oracle Fusion cloud human capital management HCM, and NetSuite applications suite, Oracle Health applications, as well as Oracle Fusion Sales, Service, and Marketing. The company also offers cloud-based industry solutions for various industries; Oracle cloud license and on-premise license; and Oracle license support services. In addition, it provides cloud and license business' infrastructure technologies, such as the Oracle Database and MySQL Database; Java, a software development language; and middleware, including development tools and others. The company's cloud and license business' infrastructure technologies also comprise cloud-based compute, storage, and networking capabilities; and Oracle autonomous database, as well as AI, Internet-of-Things, machine learning, digital assistant, and blockchain. Further, it provides hardware products and other hardware-related software offerings, including Oracle engineered systems, enterprise servers, storage solutions, industry-specific hardware, virtualization software, operating systems, management software, and related hardware support services, and consulting and advanced customer services. It markets and sells its cloud, license, hardware, support, and services offerings directly to businesses in various industries, government agencies, and educational institutions, as well as through indirect channels. Oracle Corporation has a strategic alliance with Metron, Inc. The company was founded in 1977 and is headquartered in Austin, Texas.",
-  "previous_close": 163.12,
-  "open_price": 164.66,
-  "day_high": 167.8196,
-  "day_low": 158.61,
-  "fifty_day_average": 167.3592,
-  "two_hundred_day_average": 220.3568,
+  "previous_close": 159.16,
+  "open_price": 159.05,
+  "day_high": 160.765,
+  "day_low": 154.15,
+  "fifty_day_average": 166.5172,
+  "two_hundred_day_average": 220.3228,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:06.745384",
+  "last_updated": "2026-03-16T04:25:47.980453",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 164.66000366210938,
       "high": 167.8300018310547,
       "low": 158.61000061035156,
-      "volume": 36998300
+      "volume": 37133700
+    },
+    {
+      "date": "2026-03-13",
+      "close": 155.11000061035156,
+      "open": 159.0500030517578,
+      "high": 160.76499938964844,
+      "low": 154.14999389648438,
+      "volume": 26211568
     }
   ]
 }

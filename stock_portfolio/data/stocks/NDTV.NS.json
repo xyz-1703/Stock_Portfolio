@@ -1,20 +1,20 @@
 {
   "symbol": "NDTV.NS",
   "name": "New Delhi Television Limited",
-  "current_price": 76.43,
+  "current_price": 74.95,
   "pe_ratio": null,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": -5.560163,
+  "price_to_book": -5.452495,
   "profit_margin": -0.56299,
   "operating_margin": -0.46812,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 177.95,
-  "fifty_two_week_low": 75.21,
-  "three_month_average_volume": 990388,
-  "market_cap": 8623193088,
-  "enterprise_value": 13225570304,
+  "fifty_two_week_low": 74.43,
+  "three_month_average_volume": 551828,
+  "market_cap": 8456212480,
+  "enterprise_value": 13146593280,
   "dividend_yield": null,
   "dividend_rate": null,
   "payout_ratio": 0.0,
@@ -24,23 +24,15 @@
   "industry": "Broadcasting",
   "website": "https://www.ndtv.com",
   "description": "New Delhi Television Limited, together with its subsidiaries, operates as a news television and digital journalism company in India, the United States, Europe, and internationally. Its channels include NDTV 24X7, an English news channel; NDTV India, a Hindi news channel; NDTV Profit, a business news channel; NDTV World, a digital platform for global news; and regional channels, including NDTV Madhya Pradesh and Chhattisgarh, NDTV Rajasthan, and NDTV Marathi. It also provides consultancy for setting up channels in various markets. The company was incorporated in 1988 and is based in Noida, India. New Delhi Television Limited operates as a subsidiary of RRPR Holding Private Limited.",
-  "previous_close": 77.13,
-  "open_price": 77.05,
-  "day_high": 77.78,
-  "day_low": 75.8,
-  "fifty_day_average": 84.6936,
-  "two_hundred_day_average": 110.14518,
+  "previous_close": 76.43,
+  "open_price": 76.54,
+  "day_high": 76.54,
+  "day_low": 74.43,
+  "fifty_day_average": 84.232,
+  "two_hundred_day_average": 109.703026,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:05.177057",
+  "last_updated": "2026-03-16T04:25:45.767482",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 82.41999816894531,
-      "open": 81.51000213623047,
-      "high": 82.98999786376953,
-      "low": 81.4800033569336,
-      "volume": 69848
-    },
     {
       "date": "2025-12-16",
       "close": 92.37999725341797,
@@ -527,7 +519,15 @@
       "open": 77.05000305175781,
       "high": 77.77999877929688,
       "low": 75.80000305175781,
-      "volume": 159615
+      "volume": 159605
+    },
+    {
+      "date": "2026-03-16",
+      "close": 74.94999694824219,
+      "open": 76.54000091552734,
+      "high": 76.54000091552734,
+      "low": 74.43000030517578,
+      "volume": 45335
     }
   ]
 }

@@ -1,21 +1,21 @@
 {
   "symbol": "INDHOTEL.NS",
   "name": "The Indian Hotels Company Limited",
-  "current_price": 609.85,
-  "pe_ratio": 43.19051,
-  "forward_pe": 37.575245,
+  "current_price": 609.5,
+  "pe_ratio": 43.25763,
+  "forward_pe": 37.55368,
   "peg_ratio": null,
-  "price_to_book": 7.5030756,
+  "price_to_book": 7.4987698,
   "profit_margin": 0.20879999,
   "operating_margin": 0.3392,
   "return_on_equity": null,
   "debt_to_equity": 25.013,
   "fifty_two_week_high": 858.0,
   "fifty_two_week_low": 597.0,
-  "three_month_average_volume": 2715819,
-  "market_cap": 868080091136,
-  "enterprise_value": 906551492608,
-  "dividend_yield": 0.36,
+  "three_month_average_volume": 2723779,
+  "market_cap": 867581952000,
+  "enterprise_value": 885057650688,
+  "dividend_yield": 0.37,
   "dividend_rate": 2.25,
   "payout_ratio": 0.1596,
   "five_year_avg_dividend_yield": 0.23,
@@ -24,23 +24,15 @@
   "industry": "Lodging",
   "website": "https://www.ihcltata.com",
   "description": "The Indian Hotels Company Limited, together with its subsidiaries, owns, operates, and manages hotels, palaces and resorts in India and internationally. It operates through two segments: Hotel Services and Air and Institutional Catering. The company operates hotels under the Taj, Claridges Collection, SeleQtions, GATEWAY, Vivanta, Ginger, Tree of Life, am\u00e3 Stays & Trails, Qmin, and Taj Sats brand names. It also provides trails, stays, restaurants, bars, clubs, spas, salons, food and beverages, and boutique services. The Indian Hotels Company Limited was founded in 1868 and is headquartered in Mumbai, India.",
-  "previous_close": 624.95,
-  "open_price": 617.2,
-  "day_high": 624.95,
-  "day_low": 607.05,
-  "fifty_day_average": 672.767,
-  "two_hundred_day_average": 728.2778,
+  "previous_close": 609.85,
+  "open_price": 610.0,
+  "day_high": 613.7,
+  "day_low": 603.95,
+  "fifty_day_average": 670.08,
+  "two_hundred_day_average": 727.44275,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:00.356943",
+  "last_updated": "2026-03-16T04:25:39.890877",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 731.1500244140625,
-      "open": 735.0,
-      "high": 738.2999877929688,
-      "low": 727.9500122070312,
-      "volume": 2997677
-    },
     {
       "date": "2025-12-16",
       "close": 725.25,
@@ -527,7 +519,15 @@
       "open": 617.2000122070312,
       "high": 624.9500122070312,
       "low": 607.0499877929688,
-      "volume": 2888609
+      "volume": 2889105
+    },
+    {
+      "date": "2026-03-16",
+      "close": 609.5,
+      "open": 610.0,
+      "high": 613.7000122070312,
+      "low": 603.9500122070312,
+      "volume": 405400
     }
   ]
 }

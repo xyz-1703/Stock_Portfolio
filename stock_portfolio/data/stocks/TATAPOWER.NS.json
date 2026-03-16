@@ -1,21 +1,21 @@
 {
   "symbol": "TATAPOWER.NS",
   "name": "Tata Power Company Limited",
-  "current_price": 394.95,
-  "pe_ratio": 33.301014,
-  "forward_pe": 22.958805,
+  "current_price": 394.7,
+  "pe_ratio": 33.308018,
+  "forward_pe": 23.27161,
   "peg_ratio": null,
-  "price_to_book": 3.3334458,
+  "price_to_book": 3.3313358,
   "profit_margin": 0.058709998,
   "operating_margin": 0.13242,
   "return_on_equity": null,
   "debt_to_equity": 156.16,
   "fifty_two_week_high": 416.8,
   "fifty_two_week_low": 335.0,
-  "three_month_average_volume": 4353195,
-  "market_cap": 1261999357952,
-  "enterprise_value": 1948126806016,
-  "dividend_yield": 0.56,
+  "three_month_average_volume": 4476237,
+  "market_cap": 1261200605184,
+  "enterprise_value": 1925063507968,
+  "dividend_yield": 0.57,
   "dividend_rate": 2.25,
   "payout_ratio": 0.18969999,
   "five_year_avg_dividend_yield": 0.73,
@@ -24,23 +24,15 @@
   "industry": "Utilities - Independent Power Producers",
   "website": "https://www.tatapower.com",
   "description": "Tata Power Company Limited engages in the generation, transmission, distribution, and trading of electricity in India and internationally. It operates through Thermal and Hydro, Renewables, Transmission and Distribution, and Others segments. The company generates power from hydroelectric and thermal sources, such as coal, gas, and oil; and provides related ancillary services. It also engages in the operation of transmission and distribution networks; and sale of power to retail customers through distribution network and related ancillary services. In addition, the company offers project management contracts/infrastructure management, and property development services, as well as rents oil tanks. Further, the company manufactures and sells solar cells and modules, and pumps; operates electric vehicle charging stations and coal mines; generates electricity through solar, wind, and waste heat sources; trades in power; and provides engineering, procurement, and construction, as well as logistics services. Additionally, it offers microgrid, rooftop solar, and home automation solutions. As of March 31, 2025, it had an installed generation capacity of 15,733 megawatt. Tata Power Company Limited was founded in 1915 and is headquartered in Mumbai, India.",
-  "previous_close": 402.15,
-  "open_price": 402.15,
-  "day_high": 406.05,
-  "day_low": 393.45,
-  "fifty_day_average": 370.234,
-  "two_hundred_day_average": 386.31876,
+  "previous_close": 394.95,
+  "open_price": 395.55,
+  "day_high": 398.9,
+  "day_low": 390.3,
+  "fifty_day_average": 370.356,
+  "two_hundred_day_average": 386.2625,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:14.769857",
+  "last_updated": "2026-03-16T04:26:11.184714",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 381.6499938964844,
-      "open": 380.0,
-      "high": 382.3999938964844,
-      "low": 378.0,
-      "volume": 3359948
-    },
     {
       "date": "2025-12-16",
       "close": 379.8500061035156,
@@ -527,7 +519,15 @@
       "open": 402.1499938964844,
       "high": 406.04998779296875,
       "low": 393.45001220703125,
-      "volume": 9071412
+      "volume": 9072187
+    },
+    {
+      "date": "2026-03-16",
+      "close": 394.70001220703125,
+      "open": 395.54998779296875,
+      "high": 398.8999938964844,
+      "low": 390.29998779296875,
+      "volume": 1528728
     }
   ]
 }

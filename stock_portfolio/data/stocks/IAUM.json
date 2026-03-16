@@ -12,10 +12,10 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 55.27,
   "fifty_two_week_low": 29.49,
-  "three_month_average_volume": 7482927,
+  "three_month_average_volume": 7498854,
   "market_cap": null,
   "enterprise_value": null,
-  "dividend_yield": null,
+  "dividend_yield": 0.0,
   "dividend_rate": null,
   "payout_ratio": null,
   "five_year_avg_dividend_yield": null,
@@ -23,15 +23,15 @@
   "sector": "Unknown",
   "industry": "Unknown",
   "website": null,
-  "description": "",
-  "previous_close": 51.67,
-  "open_price": 51.53,
-  "day_high": 51.54,
-  "day_low": 50.62,
-  "fifty_day_average": 48.7998,
-  "two_hundred_day_average": 40.0099,
+  "description": "The Advisor intends to constitute a simple and cost-effective means of making an investment similar to an investment in gold. An investment in physical gold requires expensive and sometimes complicated arrangements in connection with the assay, transportation, warehousing and insurance of the metal. Although the Shares are not the exact equivalent of an investment in gold, they provide investors with an alternative that allows a level of participation in the gold market through the securities market.",
+  "previous_close": 50.67,
+  "open_price": 50.9,
+  "day_high": 50.99,
+  "day_low": 49.925,
+  "fifty_day_average": 49.0834,
+  "two_hundred_day_average": 40.1809,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:58.683600",
+  "last_updated": "2026-03-16T04:25:38.094895",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 51.529998779296875,
       "high": 51.540000915527344,
       "low": 50.619998931884766,
-      "volume": 3180500
+      "volume": 3194100
+    },
+    {
+      "date": "2026-03-13",
+      "close": 49.9900016784668,
+      "open": 50.900001525878906,
+      "high": 50.9900016784668,
+      "low": 49.92499923706055,
+      "volume": 3399264
     }
   ]
 }

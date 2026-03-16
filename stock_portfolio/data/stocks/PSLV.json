@@ -1,8 +1,8 @@
 {
   "symbol": "PSLV",
   "name": "Sprott Physical Silver Trust",
-  "current_price": 27.53,
-  "pe_ratio": 5.1845574,
+  "current_price": 26.1,
+  "pe_ratio": 4.9152546,
   "forward_pe": null,
   "peg_ratio": null,
   "price_to_book": null,
@@ -12,8 +12,8 @@
   "debt_to_equity": null,
   "fifty_two_week_high": 38.13,
   "fifty_two_week_low": 9.97,
-  "three_month_average_volume": 23440041,
-  "market_cap": 17557870592,
+  "three_month_average_volume": 23886681,
+  "market_cap": 16645857280,
   "enterprise_value": null,
   "dividend_yield": null,
   "dividend_rate": null,
@@ -24,14 +24,14 @@
   "industry": "Unknown",
   "website": null,
   "description": "",
-  "previous_close": 28.12,
-  "open_price": 28.35,
-  "day_high": 28.35,
-  "day_low": 27.5,
-  "fifty_day_average": 28.129,
-  "two_hundred_day_average": 18.36595,
+  "previous_close": 27.53,
+  "open_price": 27.4,
+  "day_high": 27.44,
+  "day_low": 25.84,
+  "fifty_day_average": 28.1466,
+  "two_hundred_day_average": 18.4405,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:07.337050",
+  "last_updated": "2026-03-16T04:25:48.557106",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 28.350000381469727,
       "high": 28.350000381469727,
       "low": 27.5,
-      "volume": 7043790
+      "volume": 7343000
+    },
+    {
+      "date": "2026-03-13",
+      "close": 26.100000381469727,
+      "open": 27.399999618530273,
+      "high": 27.440000534057617,
+      "low": 25.84000015258789,
+      "volume": 17434983
     }
   ]
 }

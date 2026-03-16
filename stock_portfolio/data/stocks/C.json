@@ -1,20 +1,20 @@
 {
   "symbol": "C",
   "name": "Citigroup Inc.",
-  "current_price": 105.5,
-  "pe_ratio": 15.092991,
-  "forward_pe": 8.721408,
+  "current_price": 105.69,
+  "pe_ratio": 15.1201725,
+  "forward_pe": 8.737115,
   "peg_ratio": null,
-  "price_to_book": 0.9590386,
+  "price_to_book": 0.96076584,
   "profit_margin": 0.18893999,
   "operating_margin": 0.25656998,
   "return_on_equity": 0.06831,
   "debt_to_equity": null,
   "fifty_two_week_high": 125.16,
   "fifty_two_week_low": 55.51,
-  "three_month_average_volume": 15100645,
-  "market_cap": 184553160704,
-  "enterprise_value": -6364844544,
+  "three_month_average_volume": 15158194,
+  "market_cap": 184885526528,
+  "enterprise_value": -6032474112,
   "dividend_yield": 2.27,
   "dividend_rate": 2.4,
   "payout_ratio": 0.3319,
@@ -24,14 +24,14 @@
   "industry": "Banks - Diversified",
   "website": "https://www.citigroup.com",
   "description": "Citigroup Inc., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governments, and institutions. It operates through five segments: Services, Markets, Banking, U.S. Personal Banking, and Wealth. The Services segment includes treasury and trade solutions, which provides cash management, trade, and working capital solutions to multinational corporations, financial institutions, and public sector organizations; and securities services, such as cross-border support for clients, local market expertise, post-trade technologies, data solutions, and various securities services solutions. The Markets segment offers sales and trading services for equities, foreign exchange, rates, spread products, and commodities to corporate, institutional, and public sector clients; and market-making services, including asset classes, risk management solutions, financing, and prime brokerage. The Banking segment includes investment banking services comprising equity and debt capital markets-related strategic financing solutions; advisory services related to mergers and acquisitions, divestitures, restructurings, and corporate defense activities; and corporate lending consists of corporate and commercial banking. The U.S. Personal Banking segment provides proprietary and co-branded card portfolios; and traditional banking services to retail and small business customers. The Wealth segment offers financial services to high-net-worth clients through banking, lending, mortgages, investment, custody, and trust product offerings; professional industries, including law firms, consulting groups, accounting, and asset management; and affluent and high net worth clients. The company operates in North America, the United Kingdom, Japan, North and South Asia, Australia, Europe, the Middle East, and Africa. Citigroup Inc. was founded in 1812 and is headquartered in New York, New York.",
-  "previous_close": 109.19,
-  "open_price": 106.36,
-  "day_high": 107.0,
-  "day_low": 104.64,
-  "fifty_day_average": 115.0248,
-  "two_hundred_day_average": 100.59905,
+  "previous_close": 105.5,
+  "open_price": 106.115,
+  "day_high": 107.9,
+  "day_low": 105.39,
+  "fifty_day_average": 114.7944,
+  "two_hundred_day_average": 100.75015,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:51.921098",
+  "last_updated": "2026-03-16T04:25:31.147899",
   "historical_data": [
     {
       "date": "2025-12-15",
@@ -511,7 +511,15 @@
       "open": 106.36000061035156,
       "high": 107.0,
       "low": 104.63999938964844,
-      "volume": 17485200
+      "volume": 17487000
+    },
+    {
+      "date": "2026-03-13",
+      "close": 105.69000244140625,
+      "open": 106.11499786376953,
+      "high": 107.9000015258789,
+      "low": 105.38999938964844,
+      "volume": 11400840
     }
   ]
 }

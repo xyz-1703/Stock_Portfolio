@@ -1,21 +1,21 @@
 {
   "symbol": "TATASTEEL.NS",
   "name": "Tata Steel Limited",
-  "current_price": 183.51,
-  "pe_ratio": 0.29034096,
-  "forward_pe": 10.546552,
+  "current_price": 186.56,
+  "pe_ratio": 0.29516652,
+  "forward_pe": 10.721839,
   "peg_ratio": null,
-  "price_to_book": 2.4076042,
+  "price_to_book": 2.4476194,
   "profit_margin": 0.04073,
   "operating_margin": 0.09036,
   "return_on_equity": null,
   "debt_to_equity": 99.699,
   "fifty_two_week_high": 216.45,
   "fifty_two_week_low": 125.3,
-  "three_month_average_volume": 31469456,
-  "market_cap": 2288708747264,
-  "enterprise_value": 3289674940416,
-  "dividend_yield": 1.86,
+  "three_month_average_volume": 31934744,
+  "market_cap": 2326747938816,
+  "enterprise_value": 3165696032768,
+  "dividend_yield": 1.96,
   "dividend_rate": 3.6,
   "payout_ratio": 0.0057,
   "five_year_avg_dividend_yield": 2.76,
@@ -24,23 +24,15 @@
   "industry": "Steel",
   "website": "https://www.tatasteel.com",
   "description": "Tata Steel Limited engages in the manufacture and distribution of steel products in India and internationally. It offers reinforcement bars (rebars) and wire rods, cut-and-bend reinforcement bars, welded wire mesh, prefabricated cages (pre-cages), steel couplers and carpet reinforcement, hot-rolled, cold rolled, coated coil, tubes, rebar, metallic coated, pre-finished steels, alloy steels, and profiles and construction systems. The company also provides solutions in building envelope, structural, fit-out, foundations, and highway engineering products, as well as operates steel service centers. It serves agricultural, automotive, construction, consumer goods, energy and power, engineering, and material handling industries. The company was incorporated in 1907 and is based in Mumbai, India.",
-  "previous_close": 193.47,
-  "open_price": 191.95,
-  "day_high": 192.5,
-  "day_low": 182.26,
-  "fifty_day_average": 196.3656,
-  "two_hundred_day_average": 173.9804,
+  "previous_close": 183.51,
+  "open_price": 183.0,
+  "day_high": 186.87,
+  "day_low": 181.25,
+  "fifty_day_average": 196.3214,
+  "two_hundred_day_average": 174.11134,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:15.358965",
+  "last_updated": "2026-03-16T04:26:12.249657",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 172.8699951171875,
-      "open": 170.9499969482422,
-      "high": 173.1699981689453,
-      "low": 170.5,
-      "volume": 23254201
-    },
     {
       "date": "2025-12-16",
       "close": 169.8300018310547,
@@ -527,7 +519,15 @@
       "open": 191.9499969482422,
       "high": 192.5,
       "low": 182.25999450683594,
-      "volume": 42660877
+      "volume": 42683952
+    },
+    {
+      "date": "2026-03-16",
+      "close": 186.55999755859375,
+      "open": 183.0,
+      "high": 186.8699951171875,
+      "low": 181.25,
+      "volume": 8053986
     }
   ]
 }

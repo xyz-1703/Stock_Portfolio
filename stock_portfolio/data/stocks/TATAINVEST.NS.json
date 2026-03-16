@@ -1,20 +1,20 @@
 {
   "symbol": "TATAINVEST.NS",
   "name": "Tata Investment Corporation Limited",
-  "current_price": 621.7,
-  "pe_ratio": 77.22981,
+  "current_price": 625.15,
+  "pe_ratio": 77.370056,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 0.98891467,
+  "price_to_book": 0.99440247,
   "profit_margin": 1.07847,
   "operating_margin": 0.81563,
   "return_on_equity": null,
   "debt_to_equity": null,
   "fifty_two_week_high": 1184.7,
   "fifty_two_week_low": 573.5,
-  "three_month_average_volume": 1115687,
-  "market_cap": 314550976512,
-  "enterprise_value": -36112093184,
+  "three_month_average_volume": 1140612,
+  "market_cap": 316296495104,
+  "enterprise_value": -39906889728,
   "dividend_yield": 0.43,
   "dividend_rate": 2.7,
   "payout_ratio": 0.3351,
@@ -24,23 +24,15 @@
   "industry": "Asset Management",
   "website": "https://www.tatainvestment.com",
   "description": "Tata Investment Corporation Limited is a publicly owned investment firm. The firm operates as an investment company in India. Its activities primarily include investing in a diversified portfolio of quoted and unquoted securities, debt instruments, long-term investments in equity shares, equity-related securities and other securities of companies in a range of industries. The company also distributes mutual funds and other investment related securities. Tata Investment Corporation Limited was formerly known as The Investment Corporation of India Limited. Tata Investment Corporation was founded in 1937 and is based in Mumbai, India.",
-  "previous_close": 629.2,
-  "open_price": 625.5,
-  "day_high": 648.2,
-  "day_low": 619.15,
-  "fifty_day_average": 646.035,
-  "two_hundred_day_average": 717.60626,
+  "previous_close": 621.7,
+  "open_price": 621.7,
+  "day_high": 632.75,
+  "day_low": 615.35,
+  "fifty_day_average": 644.514,
+  "two_hundred_day_average": 717.2615,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:12.238967",
+  "last_updated": "2026-03-16T04:26:00.702711",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 724.2999877929688,
-      "open": 722.0,
-      "high": 729.2000122070312,
-      "low": 715.0,
-      "volume": 241070
-    },
     {
       "date": "2025-12-16",
       "close": 712.75,
@@ -526,8 +518,16 @@
       "close": 621.7000122070312,
       "open": 625.5,
       "high": 648.2000122070312,
-      "low": 619.1500244140625,
-      "volume": 947750
+      "low": 619.0,
+      "volume": 947726
+    },
+    {
+      "date": "2026-03-16",
+      "close": 625.1500244140625,
+      "open": 621.7000122070312,
+      "high": 632.75,
+      "low": 615.3499755859375,
+      "volume": 209352
     }
   ]
 }

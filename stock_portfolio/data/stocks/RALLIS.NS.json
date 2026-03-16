@@ -1,21 +1,21 @@
 {
   "symbol": "RALLIS.NS",
   "name": "Rallis India Limited",
-  "current_price": 240.1,
-  "pe_ratio": 27.983685,
-  "forward_pe": 19.249317,
+  "current_price": 236.8,
+  "pe_ratio": 27.631273,
+  "forward_pe": 18.984749,
   "peg_ratio": null,
-  "price_to_book": 2.281994,
+  "price_to_book": 2.2506297,
   "profit_margin": 0.05821,
   "operating_margin": 0.046550002,
   "return_on_equity": null,
   "debt_to_equity": 2.973,
   "fifty_two_week_high": 385.9,
   "fifty_two_week_low": 196.78,
-  "three_month_average_volume": 1173882,
-  "market_cap": 46691983360,
-  "enterprise_value": 44233064448,
-  "dividend_yield": 1.01,
+  "three_month_average_volume": 1171687,
+  "market_cap": 46050234368,
+  "enterprise_value": 42821369856,
+  "dividend_yield": 1.04,
   "dividend_rate": 2.5,
   "payout_ratio": 0.2914,
   "five_year_avg_dividend_yield": 1.07,
@@ -24,23 +24,15 @@
   "industry": "Agricultural Inputs",
   "website": "https://www.rallis.com",
   "description": "Rallis India Limited manufactures and markets crop care and seed products in India and internationally. It offers crop protection products, including insecticides, herbicides, fungicides, and bio pesticide; organic and micronutrient fertilizers, and plant growth nutrients; seeds, such as maize, watermelon, cauliflower, cabbage, bottle gourd, cucumber, bitter gourd, chilli, okra, tomato, millet, paddy, and cotton; and animal nutrition products. The company also provides household products, such as Termex, an insecticide for termite control; Sentry, a chemical composition; and Ralligel plus, a chemical for cockroach control. In addition, it offers contract manufacturing services for crop protection chemicals, specialty chemicals, polymers, and intermediates. Further, the company sells soil and plant health solutions, including bio-fertilizers, bio-stimulants, micro-nutrients, organic fertilizers, water soluble fertilizers, and bio-pesticides. It offers its products through a network of dealers and retailers. The company was incorporated in 1948 and is based in Mumbai, India. Rallis India Limited is a subsidiary of Tata Chemicals Limited.",
-  "previous_close": 247.35,
-  "open_price": 246.35,
-  "day_high": 251.15,
-  "day_low": 238.1,
-  "fifty_day_average": 265.081,
-  "two_hundred_day_average": 299.34775,
+  "previous_close": 240.1,
+  "open_price": 240.45,
+  "day_high": 240.9,
+  "day_low": 236.1,
+  "fifty_day_average": 264.484,
+  "two_hundred_day_average": 298.93826,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:03:07.866019",
+  "last_updated": "2026-03-16T04:25:49.419653",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 264.3500061035156,
-      "open": 263.0,
-      "high": 265.20001220703125,
-      "low": 261.0,
-      "volume": 319141
-    },
     {
       "date": "2025-12-16",
       "close": 269.8999938964844,
@@ -527,7 +519,15 @@
       "open": 246.35000610351562,
       "high": 251.14999389648438,
       "low": 238.10000610351562,
-      "volume": 255630
+      "volume": 255631
+    },
+    {
+      "date": "2026-03-16",
+      "close": 236.8000030517578,
+      "open": 240.4499969482422,
+      "high": 240.89999389648438,
+      "low": 236.10000610351562,
+      "volume": 32854
     }
   ]
 }

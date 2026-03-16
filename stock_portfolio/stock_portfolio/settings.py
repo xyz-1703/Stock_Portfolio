@@ -25,10 +25,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'django-insecure-==mq9h^upx+nn5t_+9&q_j*25est&nj22(d&aq60_h@xivt&8y')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = os.getenv('DJANGO_DEBUG', 'True').lower() in {'1', 'true', 'yes', 'on'}
+DEBUG = True
 
-allowed_hosts = os.getenv('DJANGO_ALLOWED_HOSTS', '*')
-ALLOWED_HOSTS = [host.strip() for host in allowed_hosts.split(',') if host.strip()]
+allowed_hosts = ["*"]
+ALLOWED_HOSTS = ["*"]
 
 csrf_trusted_origins = os.getenv('DJANGO_CSRF_TRUSTED_ORIGINS', '')
 CSRF_TRUSTED_ORIGINS = [origin.strip() for origin in csrf_trusted_origins.split(',') if origin.strip()]
@@ -94,7 +94,7 @@ ROOT_URLCONF = 'stock_portfolio.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [BASE_DIR / "templates"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

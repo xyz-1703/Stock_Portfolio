@@ -1,20 +1,20 @@
 {
   "symbol": "AXISBANK.NS",
   "name": "Axis Bank Limited",
-  "current_price": 1197.3,
-  "pe_ratio": 14.199479,
-  "forward_pe": 11.804659,
+  "current_price": 1193.1,
+  "pe_ratio": 14.154703,
+  "forward_pe": 11.763248,
   "peg_ratio": null,
-  "price_to_book": 1.7958496,
+  "price_to_book": 1.7895498,
   "profit_margin": 0.3417,
   "operating_margin": 0.47458,
   "return_on_equity": 0.13625,
   "debt_to_equity": null,
   "fifty_two_week_high": 1418.3,
-  "fifty_two_week_low": 1010.2,
-  "three_month_average_volume": 6337621,
-  "market_cap": 3720286044160,
-  "enterprise_value": 5999178547200,
+  "fifty_two_week_low": 1011.1,
+  "three_month_average_volume": 6375276,
+  "market_cap": 3707235467264,
+  "enterprise_value": 5883730853888,
   "dividend_yield": 0.08,
   "dividend_rate": 1.0,
   "payout_ratio": 0.0119,
@@ -24,23 +24,15 @@
   "industry": "Banks - Regional",
   "website": "https://www.axis.bank.in",
   "description": "Axis Bank Limited provides various financial products and services in India and internationally. The company operates through four segments: Treasury, Retail Banking, Corporate/Wholesale Banking, and Other Banking Business. It provides fixed, recurring, and safe deposits; and saving, salary, current, safe custody, pension disbursement, and demat and trading accounts. The company also offers home, personal, business, car, two-wheeler, commercial vehicle construction equipment, education, gold, trade, and supply chain loans, as well as loans against securities, fixed deposits, properties, and credit cards; and overdrafts. In addition, it provides credit and debit cards; mutual and debt funds; governmental investment products, such as public provident fund, floating rate saving bonds, and national pension system; digital gold and sovereign gold bonds; digital rupee; insurance services, such as life, general, and health insurance; and various forex products and services. Further, the company offers phone, digital, and mobile banking services, as well as ATM services. Additionally, it provides equity, derivative trading, central funding unit, financial and corporate advisory, NRI, para banking, placements and syndication, project appraisal, capital market, and cash management services. The company was formerly known as UTI Bank Limited and changed its name to Axis Bank Limited in July 2007. Axis Bank Limited was incorporated in 1993 and is headquartered in Mumbai, India.",
-  "previous_close": 1234.5,
-  "open_price": 1224.0,
-  "day_high": 1234.5,
-  "day_low": 1194.3,
-  "fifty_day_average": 1325.864,
-  "two_hundred_day_average": 1213.823,
+  "previous_close": 1197.3,
+  "open_price": 1199.2,
+  "day_high": 1204.2,
+  "day_low": 1191.1,
+  "fifty_day_average": 1324.094,
+  "two_hundred_day_average": 1213.71,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:48.510742",
+  "last_updated": "2026-03-16T04:25:27.502361",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 1284.800048828125,
-      "open": 1285.0,
-      "high": 1290.4000244140625,
-      "low": 1280.0,
-      "volume": 1634472
-    },
     {
       "date": "2025-12-16",
       "close": 1219.5999755859375,
@@ -527,7 +519,15 @@
       "open": 1224.0,
       "high": 1234.5,
       "low": 1194.300048828125,
-      "volume": 9097158
+      "volume": 9098187
+    },
+    {
+      "date": "2026-03-16",
+      "close": 1193.0999755859375,
+      "open": 1199.199951171875,
+      "high": 1204.199951171875,
+      "low": 1191.0999755859375,
+      "volume": 1095913
     }
   ]
 }

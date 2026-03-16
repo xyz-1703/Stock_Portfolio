@@ -1,21 +1,21 @@
 {
   "symbol": "BAJAJ-AUTO.NS",
   "name": "Bajaj Auto Limited",
-  "current_price": 8875.0,
-  "pe_ratio": 27.915827,
-  "forward_pe": 22.382225,
+  "current_price": 8974.5,
+  "pe_ratio": 28.246569,
+  "forward_pe": 22.63316,
   "peg_ratio": null,
-  "price_to_book": 7.2520967,
+  "price_to_book": 7.3334017,
   "profit_margin": 0.15052,
   "operating_margin": 0.24317,
   "return_on_equity": null,
   "debt_to_equity": 57.257,
   "fifty_two_week_high": 10187.0,
   "fifty_two_week_low": 7089.35,
-  "three_month_average_volume": 317641,
-  "market_cap": 2478366261248,
-  "enterprise_value": 2688669712384,
-  "dividend_yield": 2.29,
+  "three_month_average_volume": 317083,
+  "market_cap": 2506151952384,
+  "enterprise_value": 2608548020224,
+  "dividend_yield": 2.37,
   "dividend_rate": 210.0,
   "payout_ratio": 0.66040003,
   "five_year_avg_dividend_yield": 2.47,
@@ -24,23 +24,15 @@
   "industry": "Auto Manufacturers",
   "website": "https://www.bajajauto.com",
   "description": "Bajaj Auto Limited, together with its subsidiaries, engages in the development, manufacture, and distribution of automobiles in India and internationally. The company offers motorcycles, bikes, commercial vehicles, electric two-wheelers, and three-wheeler, as well as related parts and accessories. It also exports its products. The company was founded in 1945 and is based in Pune, India.",
-  "previous_close": 9162.0,
-  "open_price": 9075.0,
-  "day_high": 9119.5,
-  "day_low": 8832.5,
-  "fifty_day_average": 9629.51,
-  "two_hundred_day_average": 8974.29,
+  "previous_close": 8875.0,
+  "open_price": 8866.0,
+  "day_high": 9039.0,
+  "day_low": 8851.0,
+  "fifty_day_average": 9617.06,
+  "two_hundred_day_average": 8975.46,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:49.646743",
+  "last_updated": "2026-03-16T04:25:29.000480",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 8940.0,
-      "open": 9040.0,
-      "high": 9042.5,
-      "low": 8884.0,
-      "volume": 507849
-    },
     {
       "date": "2025-12-16",
       "close": 9008.0,
@@ -527,7 +519,15 @@
       "open": 9075.0,
       "high": 9119.5,
       "low": 8832.5,
-      "volume": 435604
+      "volume": 435631
+    },
+    {
+      "date": "2026-03-16",
+      "close": 8974.5,
+      "open": 8866.0,
+      "high": 9039.0,
+      "low": 8851.0,
+      "volume": 116652
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "symbol": "ATGL.NS",
   "name": "Adani Total Gas Limited",
-  "current_price": 565.9,
-  "pe_ratio": 97.0669,
+  "current_price": 548.0,
+  "pe_ratio": 93.996574,
   "forward_pe": null,
   "peg_ratio": null,
-  "price_to_book": 13.771203,
+  "price_to_book": 13.335605,
   "profit_margin": 0.11305001,
   "operating_margin": 0.16099001,
   "return_on_equity": null,
   "debt_to_equity": 44.513,
   "fifty_two_week_high": 798.0,
   "fifty_two_week_low": 462.8,
-  "three_month_average_volume": 1757713,
-  "market_cap": 622712061952,
-  "enterprise_value": 683742593024,
+  "three_month_average_volume": 2311228,
+  "market_cap": 603015020544,
+  "enterprise_value": 637800153088,
   "dividend_yield": 0.04,
   "dividend_rate": 0.25,
   "payout_ratio": 0.0428,
@@ -24,23 +24,15 @@
   "industry": "Utilities - Regulated Gas",
   "website": "https://www.adanigas.com",
   "description": "Adani Total Gas Limited engages in the city gas distribution (CGD) business in India. The company supplies piped natural gas and compressed natural gas to the domestic, commercial, industrial, and transportation sectors. It also provides biogas, biofuel, biomass, LCNG, HCNG, EV, and hydrogen. In addition, the company manufactures various equipment; and offers value-added services related to the CGD business. The company was formerly known as Adani Gas Limited and changed its name to Adani Total Gas Limited in January 2021. Adani Total Gas Limited was founded in 2004 and is based in Ahmedabad, India.",
-  "previous_close": 607.6,
-  "open_price": 624.0,
-  "day_high": 644.85,
-  "day_low": 554.0,
-  "fifty_day_average": 531.572,
-  "two_hundred_day_average": 599.3057,
+  "previous_close": 565.9,
+  "open_price": 588.95,
+  "day_high": 604.3,
+  "day_low": 543.05,
+  "fifty_day_average": 531.349,
+  "two_hundred_day_average": 598.6813,
   "stock_splits": null,
-  "last_updated": "2026-03-13T10:02:47.957312",
+  "last_updated": "2026-03-16T04:25:26.979426",
   "historical_data": [
-    {
-      "date": "2025-12-15",
-      "close": 592.5499877929688,
-      "open": 593.5,
-      "high": 597.8499755859375,
-      "low": 590.3499755859375,
-      "volume": 200024
-    },
     {
       "date": "2025-12-16",
       "close": 586.9000244140625,
@@ -527,7 +519,15 @@
       "open": 624.0,
       "high": 644.8499755859375,
       "low": 554.0,
-      "volume": 31842034
+      "volume": 31842446
+    },
+    {
+      "date": "2026-03-16",
+      "close": 548.0,
+      "open": 588.9500122070312,
+      "high": 604.2999877929688,
+      "low": 543.0499877929688,
+      "volume": 5946158
     }
   ]
 }
